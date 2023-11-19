@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="hank.png" width="2777" height="2488">
+  <SubTexture name="Hank Down Note0003" x="1" y="1"  width="524" height="425" frameX="-2" frameY="-32" frameWidth="531" frameHeight="457"/>
+  <SubTexture name="Hank Down Note0002" x="527" y="1"  width="524" height="431" frameX="-2" frameY="-26" frameWidth="531" frameHeight="457"/>
+  <SubTexture name="Hank Left Note0005" x="1053" y="1"  width="612" height="439" frameX="-118" frameY="-31" frameWidth="744" frameHeight="470"/>
+  <SubTexture name="Hank Left Note0006" x="1667" y="1"  width="687" height="439" frameX="-43" frameY="-31" frameWidth="744" frameHeight="470"/>
+  <SubTexture name="Hank Idle0003" x="2356" y="1"  width="420" height="488" frameX="-3" frameY="-35" frameWidth="427" frameHeight="523"/>
+  <SubTexture name="Hank Left Note0004" x="1" y="434"  width="621" height="443" frameX="-120" frameY="-27" frameWidth="744" frameHeight="470"/>
+  <SubTexture name="Hank Down Note0001" x="624" y="442"  width="531" height="445" frameX="-0" frameY="-11" frameWidth="531" frameHeight="457"/>
+  <SubTexture name="Hank right note0003" x="1157" y="442"  width="609" height="449" frameX="-0" frameY="-29" frameWidth="631" frameHeight="478"/>
+  <SubTexture name="Hank Down Note0004" x="1768" y="442"  width="524" height="457" frameX="-2" frameY="-0" frameWidth="531" frameHeight="457"/>
+  <SubTexture name="Hank Idle0002" x="2294" y="491"  width="426" height="494" frameX="-1" frameY="-28" frameWidth="427" frameHeight="523"/>
+  <SubTexture name="Hank right note0002" x="1" y="879"  width="615" height="453" frameX="-0" frameY="-25" frameWidth="631" frameHeight="478"/>
+  <SubTexture name="Hank Left Note0001" x="618" y="893"  width="634" height="465" frameX="-93" frameY="-4" frameWidth="744" frameHeight="470"/>
+  <SubTexture name="Hank Left Note0002" x="1254" y="901"  width="718" height="465" frameX="-9" frameY="-4" frameWidth="744" frameHeight="470"/>
+  <SubTexture name="Hank Left Note0003" x="1974" y="987"  width="744" height="470" frameX="-0" frameY="-0" frameWidth="744" frameHeight="470"/>
+  <SubTexture name="Hank right note0001" x="1" y="1334"  width="607" height="471" frameX="-24" frameY="-7" frameWidth="631" frameHeight="478"/>
+  <SubTexture name="Hank right note0004" x="610" y="1360"  width="612" height="478" frameX="-0" frameY="-0" frameWidth="631" frameHeight="478"/>
+  <SubTexture name="Hank Idle0006" x="1224" y="1368"  width="411" height="494" frameX="-6" frameY="-29" frameWidth="427" frameHeight="523"/>
+  <SubTexture name="Hank Idle0007" x="1637" y="1459"  width="409" height="494" frameX="-6" frameY="-29" frameWidth="427" frameHeight="523"/>
+  <SubTexture name="Hank Up note0002" x="2048" y="1459"  width="409" height="504" frameX="-8" frameY="-11" frameWidth="417" frameHeight="515"/>
+  <SubTexture name="Hank Up note0003" x="1" y="1807"  width="405" height="504" frameX="-12" frameY="-11" frameWidth="417" frameHeight="515"/>
+  <SubTexture name="Hank Up note0004" x="408" y="1840"  width="413" height="504" frameX="-4" frameY="-11" frameWidth="417" frameHeight="515"/>
+  <SubTexture name="Hank Idle0005" x="823" y="1864"  width="416" height="508" frameX="-6" frameY="-15" frameWidth="427" frameHeight="523"/>
+  <SubTexture name="Hank Idle0004" x="1241" y="1955"  width="410" height="513" frameX="-6" frameY="-10" frameWidth="427" frameHeight="523"/>
+  <SubTexture name="Hank Up note0001" x="1653" y="1965"  width="413" height="515" frameX="-0" frameY="-0" frameWidth="417" frameHeight="515"/>
+  <SubTexture name="Hank Idle0001" x="2068" y="1965"  width="426" height="522" frameX="-0" frameY="-0" frameWidth="427" frameHeight="523"/>
+</TextureAtlas>

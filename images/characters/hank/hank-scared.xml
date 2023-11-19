@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="hank-scared.png" width="2472" height="2625">
+  <SubTexture name="HankScaredShootsTiky0001" x="1" y="1"  width="556" height="450" frameX="-0" frameY="-467" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredIdle0001" x="559" y="1"  width="481" height="469" frameX="-0" frameY="-21" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0003" x="1042" y="1"  width="477" height="472" frameX="-4" frameY="-18" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0009" x="1521" y="1"  width="474" height="481" frameX="-13" frameY="-9" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0011" x="1997" y="1"  width="474" height="481" frameX="-13" frameY="-9" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0005" x="1" y="453"  width="475" height="487" frameX="-8" frameY="-3" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0007" x="478" y="472"  width="472" height="489" frameX="-13" frameY="-1" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0013" x="952" y="475"  width="474" height="490" frameX="-13" frameY="-0" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredShootsTiky0002" x="1428" y="484"  width="643" height="542" frameX="-105" frameY="-378" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredShootsTiky0003" x="1" y="963"  width="658" height="542" frameX="-90" frameY="-378" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredShootsTiky0006" x="661" y="967"  width="567" height="619" frameX="-104" frameY="-299" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredShootsTiky0007" x="1230" y="1028"  width="560" height="676" frameX="-104" frameY="-242" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredShootsTiky0009" x="1792" y="1028"  width="562" height="676" frameX="-104" frameY="-242" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredShootsTiky0011" x="1" y="1507"  width="562" height="676" frameX="-104" frameY="-242" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredShootsTiky0004" x="565" y="1706"  width="851" height="707" frameX="-90" frameY="-213" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredShootsTiky0005" x="1418" y="1706"  width="887" height="918" frameX="-104" frameY="-0" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredIdle0002" x="559" y="1"  width="481" height="469" frameX="-0" frameY="-21" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0004" x="1042" y="1"  width="477" height="472" frameX="-4" frameY="-18" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0006" x="1" y="453"  width="475" height="487" frameX="-8" frameY="-3" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0008" x="478" y="472"  width="472" height="489" frameX="-13" frameY="-1" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0010" x="1521" y="1"  width="474" height="481" frameX="-13" frameY="-9" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0012" x="1997" y="1"  width="474" height="481" frameX="-13" frameY="-9" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredIdle0014" x="952" y="475"  width="474" height="490" frameX="-13" frameY="-0" frameWidth="487" frameHeight="490"/>
+  <SubTexture name="HankScaredShootsTiky0008" x="1230" y="1028"  width="560" height="676" frameX="-104" frameY="-242" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredShootsTiky0010" x="1792" y="1028"  width="562" height="676" frameX="-104" frameY="-242" frameWidth="991" frameHeight="920"/>
+  <SubTexture name="HankScaredShootsTiky0012" x="1" y="1507"  width="562" height="676" frameX="-104" frameY="-242" frameWidth="991" frameHeight="920"/>
+</TextureAtlas>

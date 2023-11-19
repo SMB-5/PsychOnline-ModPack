@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="skittlesdies.png" width="1667" height="1575">
+  <SubTexture name="skittlesdeath0009" x="1" y="1"  width="474" height="282" frameX="-341" frameY="-560" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0007" x="477" y="1"  width="403" height="303" frameX="-516" frameY="-545" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0013" x="882" y="1"  width="386" height="311" frameX="-178" frameY="-687" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0005" x="1270" y="1"  width="396" height="341" frameX="-588" frameY="-537" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0012" x="1" y="285"  width="412" height="355" frameX="-135" frameY="-685" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0000" x="415" y="314"  width="479" height="466" frameX="-128" frameY="-36" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0001" x="415" y="314"  width="479" height="466" frameX="-320" frameY="-240" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0011" x="896" y="344"  width="650" height="497" frameX="-0" frameY="-640" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0002" x="1" y="782"  width="654" height="577" frameX="-616" frameY="-590" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0003" x="657" y="843"  width="883" height="731" frameX="-589" frameY="-569" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0004" x="657" y="843"  width="883" height="731" frameX="-589" frameY="-569" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0006" x="1270" y="1"  width="396" height="341" frameX="-588" frameY="-537" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0008" x="477" y="1"  width="403" height="303" frameX="-516" frameY="-545" frameWidth="1472" frameHeight="1300"/>
+  <SubTexture name="skittlesdeath0010" x="1" y="1"  width="474" height="282" frameX="-341" frameY="-560" frameWidth="1472" frameHeight="1300"/>
+</TextureAtlas>

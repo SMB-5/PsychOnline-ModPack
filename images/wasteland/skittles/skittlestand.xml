@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="skittlestand.png" width="2429" height="2468">
+  <SubTexture name="SkittlesStand0001" x="1" y="1"  width="1232" height="2466" frameX="-0" frameY="-0" frameWidth="1232" frameHeight="2466"/>
+  <SubTexture name="SkittlesStand0002" x="1235" y="1"  width="1193" height="2466" frameX="-0" frameY="-0" frameWidth="1232" frameHeight="2466"/>
+</TextureAtlas>

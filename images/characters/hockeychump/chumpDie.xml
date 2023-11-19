@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="chumpDie.png" width="1808" height="1818">
+  <SubTexture name="SportKnifeSpinANDDeath0009" x="1" y="1"  width="463" height="288" frameX="-412" frameY="-122" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0005" x="466" y="1"  width="440" height="291" frameX="-420" frameY="-105" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0003" x="908" y="1"  width="436" height="298" frameX="-420" frameY="-100" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0019" x="1346" y="1"  width="461" height="312" frameX="-419" frameY="-107" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0002" x="1" y="291"  width="439" height="318" frameX="-418" frameY="-114" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0001" x="442" y="294"  width="437" height="370" frameX="-413" frameY="-127" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0014" x="881" y="315"  width="842" height="385" frameX="-26" frameY="-24" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0012" x="1" y="666"  width="793" height="387" frameX="-67" frameY="-10" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0018" x="796" y="702"  width="880" height="387" frameX="-0" frameY="-32" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0010" x="1" y="1055"  width="514" height="398" frameX="-397" frameY="-43" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0016" x="517" y="1091"  width="871" height="389" frameX="-7" frameY="-29" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0011" x="1390" y="1091" width="403" height="726" rotated="true"  frameX="-157" frameY="-0" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0004" x="908" y="1"  width="436" height="298" frameX="-420" frameY="-100" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0006" x="466" y="1"  width="440" height="291" frameX="-420" frameY="-105" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0007" x="466" y="1"  width="440" height="291" frameX="-420" frameY="-105" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0008" x="466" y="1"  width="440" height="291" frameX="-420" frameY="-105" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0013" x="1" y="666"  width="793" height="387" frameX="-67" frameY="-10" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0015" x="881" y="315"  width="842" height="385" frameX="-26" frameY="-24" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0017" x="517" y="1091"  width="871" height="389" frameX="-7" frameY="-29" frameWidth="911" frameHeight="497"/>
+  <SubTexture name="SportKnifeSpinANDDeath0020" x="1346" y="1"  width="461" height="312" frameX="-419" frameY="-107" frameWidth="911" frameHeight="497"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="SNIPER.png" width="619" height="248">
+  <SubTexture name="SniperBATTLEFIELD0001" x="1" y="1"  width="205" height="122" frameX="-0" frameY="-0" frameWidth="205" frameHeight="122"/>
+  <SubTexture name="SniperBATTLEFIELD0002" x="208" y="1"  width="205" height="122" frameX="-0" frameY="-0" frameWidth="205" frameHeight="122"/>
+  <SubTexture name="SniperBATTLEFIELD0003" x="415" y="1"  width="203" height="122" frameX="-2" frameY="-0" frameWidth="205" frameHeight="122"/>
+  <SubTexture name="SniperBATTLEFIELD0004" x="1" y="125"  width="202" height="122" frameX="-3" frameY="-0" frameWidth="205" frameHeight="122"/>
+  <SubTexture name="SniperBATTLEFIELD0005" x="205" y="125"  width="202" height="122" frameX="-3" frameY="-0" frameWidth="205" frameHeight="122"/>
+</TextureAtlas>

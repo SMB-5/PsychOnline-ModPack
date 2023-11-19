@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="uberkid-punch.png" width="1247" height="662">
+  <SubTexture name="UberKidMicAlone0001" x="1" y="1"  width="120" height="61" frameX="-4" frameY="-269" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0014" x="123" y="1"  width="382" height="297" frameX="-4" frameY="-38" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0001" x="507" y="1"  width="359" height="316" frameX="-10" frameY="-20" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0002" x="868" y="1"  width="375" height="317" frameX="-0" frameY="-17" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0004" x="1" y="300"  width="371" height="319" frameX="-2" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0006" x="374" y="319"  width="369" height="319" frameX="-4" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0016" x="745" y="320"  width="501" height="341" frameX="-4" frameY="-0" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0003" x="868" y="1"  width="375" height="317" frameX="-0" frameY="-17" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0005" x="1" y="300"  width="371" height="319" frameX="-2" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0007" x="374" y="319"  width="369" height="319" frameX="-4" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0008" x="374" y="319"  width="369" height="319" frameX="-4" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0009" x="374" y="319"  width="369" height="319" frameX="-4" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0010" x="374" y="319"  width="369" height="319" frameX="-4" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0011" x="374" y="319"  width="369" height="319" frameX="-4" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0012" x="374" y="319"  width="369" height="319" frameX="-4" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0013" x="374" y="319"  width="369" height="319" frameX="-4" frameY="-15" frameWidth="505" frameHeight="341"/>
+  <SubTexture name="UberKidGonnaPunch0015" x="123" y="1"  width="382" height="297" frameX="-4" frameY="-38" frameWidth="505" frameHeight="341"/>
+</TextureAtlas>

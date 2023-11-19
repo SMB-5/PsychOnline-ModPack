@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="pico-readyUp.png" width="1234" height="1120">
+  <SubTexture name="PicoStartUp0011" x="1" y="1"  width="462" height="260" frameX="-0" frameY="-144" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0002" x="465" y="1"  width="264" height="310" frameX="-123" frameY="-93" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoPlans0001" x="731" y="1"  width="264" height="316" frameX="-123" frameY="-88" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0007" x="997" y="1"  width="236" height="356" frameX="-107" frameY="-14" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0013" x="1" y="263"  width="316" height="328" frameX="-102" frameY="-76" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0015" x="319" y="313"  width="364" height="333" frameX="-95" frameY="-74" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0003" x="685" y="319"  width="215" height="368" frameX="-148" frameY="-42" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0005" x="902" y="359"  width="212" height="405" frameX="-140" frameY="-0" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0017" x="1" y="648"  width="347" height="333" frameX="-100" frameY="-73" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0019" x="350" y="689"  width="343" height="333" frameX="-101" frameY="-73" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0009" x="695" y="766"  width="360" height="353" frameX="-53" frameY="-62" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0001" x="731" y="1"  width="264" height="316" frameX="-123" frameY="-88" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0004" x="685" y="319"  width="215" height="368" frameX="-148" frameY="-42" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0006" x="902" y="359"  width="212" height="405" frameX="-140" frameY="-0" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0008" x="997" y="1"  width="236" height="356" frameX="-107" frameY="-14" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0010" x="695" y="766"  width="360" height="353" frameX="-53" frameY="-62" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0012" x="1" y="1"  width="462" height="260" frameX="-0" frameY="-144" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0014" x="1" y="263"  width="316" height="328" frameX="-102" frameY="-76" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0016" x="319" y="313"  width="364" height="333" frameX="-95" frameY="-74" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0018" x="1" y="648"  width="347" height="333" frameX="-100" frameY="-73" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0020" x="350" y="689"  width="343" height="333" frameX="-101" frameY="-73" frameWidth="544" frameHeight="415"/>
+  <SubTexture name="PicoStartUp0021" x="350" y="689"  width="343" height="333" frameX="-101" frameY="-73" frameWidth="544" frameHeight="415"/>
+</TextureAtlas>

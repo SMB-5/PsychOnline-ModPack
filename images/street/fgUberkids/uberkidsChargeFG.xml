@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="uberkidsChargeFG.png" width="1942" height="1347">
+  <SubTexture name="UberKidChargingUp0006" x="1" y="1"  width="484" height="260" frameX="-359" frameY="-321" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidChargingUp0002" x="487" y="1"  width="533" height="325" frameX="-359" frameY="-256" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidChargingUp0003" x="1022" y="1"  width="532" height="332" frameX="-359" frameY="-249" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidChargingUp0001" x="1556" y="1"  width="385" height="581" frameX="-359" frameY="-0" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidDying0005" x="1" y="263"  width="468" height="387" frameX="-397" frameY="-143" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidChargingUp0004" x="471" y="328"  width="531" height="342" frameX="-359" frameY="-239" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidDying0004" x="1004" y="335"  width="494" height="460" frameX="-409" frameY="-61" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidDying0001" x="1" y="672"  width="648" height="356" frameX="-397" frameY="-225" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidDying0002" x="651" y="797"  width="596" height="490" frameX="-359" frameY="-91" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidDying0003" x="1249" y="797"  width="557" height="549" frameX="-359" frameY="-32" frameWidth="1045" frameHeight="954"/>
+  <SubTexture name="UberKidChargingUp0005" x="471" y="328"  width="531" height="342" frameX="-359" frameY="-239" frameWidth="1045" frameHeight="954"/>
+</TextureAtlas>

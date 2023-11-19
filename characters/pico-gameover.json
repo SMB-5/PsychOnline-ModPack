@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				43,
+				25
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "PicoGameOver"
+		},
+		{
+			"offsets": [
+				42,
+				-97
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "PicoRetryLoop"
+		},
+		{
+			"offsets": [
+				42,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "PicoRetryConfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico/pico-gameover",
+	"position": [
+		-84,
+		-70
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.49683944
+}

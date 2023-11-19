@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="cannonball.png" width="2594" height="2860">
+  <SubTexture name="ballexplosion0001" x="1" y="1"  width="59" height="57" frameX="-435" frameY="-693" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0021" x="62" y="1" width="522" height="412" rotated="true"  frameX="-26" frameY="-33" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0019" x="586" y="1" width="769" height="437" rotated="true"  frameX="-21" frameY="-3" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0002" x="1357" y="1"  width="641" height="582" frameX="-159" frameY="-171" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0017" x="2000" y="1"  width="593" height="770" frameX="-33" frameY="-4" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0003" x="1" y="440"  width="797" height="601" frameX="-127" frameY="-169" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0015" x="800" y="585" width="774" height="646" rotated="true"  frameX="-40" frameY="-0" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0005" x="1576" y="773"  width="972" height="666" frameX="-79" frameY="-102" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0013" x="1" y="1043" width="766" height="851" rotated="true"  frameX="-51" frameY="-7" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0011" x="769" y="1233" width="748" height="889" rotated="true"  frameX="-54" frameY="-15" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0007" x="1519" y="1441"  width="963" height="704" frameX="-59" frameY="-60" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0009" x="1" y="2124"  width="967" height="735" frameX="-0" frameY="-32" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0004" x="1" y="440"  width="797" height="601" frameX="-127" frameY="-169" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0006" x="1576" y="773"  width="972" height="666" frameX="-79" frameY="-102" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0008" x="1519" y="1441"  width="963" height="704" frameX="-59" frameY="-60" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0010" x="1" y="2124"  width="967" height="735" frameX="-0" frameY="-32" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0012" x="769" y="1233" width="748" height="889" rotated="true"  frameX="-54" frameY="-15" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0014" x="1" y="1043" width="766" height="851" rotated="true"  frameX="-51" frameY="-7" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0016" x="800" y="585" width="774" height="646" rotated="true"  frameX="-40" frameY="-0" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0018" x="2000" y="1"  width="593" height="770" frameX="-33" frameY="-4" frameWidth="1051" frameHeight="774"/>
+  <SubTexture name="ballexplosion0020" x="586" y="1" width="769" height="437" rotated="true"  frameX="-21" frameY="-3" frameWidth="1051" frameHeight="774"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="tankGirl.png" width="2595" height="1938">
+  <SubTexture name="TankLadyDrinkDown0001" x="1" y="1"  width="454" height="327" frameX="-8" frameY="-47" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0003" x="457" y="1"  width="435" height="351" frameX="-0" frameY="-61" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0002" x="894" y="1"  width="456" height="355" frameX="-0" frameY="-57" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrink0006" x="1352" y="1"  width="414" height="359" frameX="-36" frameY="-14" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrink0004" x="1768" y="1"  width="414" height="360" frameX="-37" frameY="-13" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrink0000" x="2184" y="1"  width="410" height="361" frameX="-45" frameY="-12" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrink0012" x="1" y="330"  width="414" height="361" frameX="-39" frameY="-12" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrink0014" x="417" y="354"  width="414" height="361" frameX="-39" frameY="-12" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrink0002" x="833" y="358"  width="412" height="362" frameX="-41" frameY="-12" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrink0008" x="1247" y="362"  width="416" height="362" frameX="-37" frameY="-11" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrink0010" x="1665" y="363"  width="416" height="362" frameX="-39" frameY="-11" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0000" x="2083" y="364"  width="400" height="375" frameX="-49" frameY="-0" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyReact0000" x="1" y="717"  width="454" height="388" frameX="-0" frameY="-8" frameWidth="473" frameHeight="396"/>
+  <SubTexture name="TankLadyReact0004" x="457" y="722"  width="464" height="388" frameX="-5" frameY="-7" frameWidth="473" frameHeight="396"/>
+  <SubTexture name="TankLadyReact0006" x="923" y="726"  width="467" height="388" frameX="-4" frameY="-7" frameWidth="473" frameHeight="396"/>
+  <SubTexture name="TankLadyDrinkDown0013" x="1392" y="727"  width="445" height="389" frameX="-19" frameY="-18" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0015" x="1839" y="741"  width="442" height="393" frameX="-19" frameY="-14" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0014" x="1" y="1107"  width="441" height="395" frameX="-19" frameY="-12" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyReact0002" x="444" y="1112"  width="466" height="394" frameX="-7" frameY="-0" frameWidth="473" frameHeight="396"/>
+  <SubTexture name="TankLadyDrinkDown0012" x="912" y="1116"  width="444" height="398" frameX="-22" frameY="-9" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0008" x="1358" y="1136"  width="508" height="397" frameX="-22" frameY="-10" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0009" x="1868" y="1136"  width="508" height="397" frameX="-22" frameY="-10" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0010" x="1" y="1508"  width="508" height="397" frameX="-22" frameY="-10" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0006" x="511" y="1516"  width="506" height="398" frameX="-21" frameY="-9" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0007" x="1019" y="1535"  width="509" height="398" frameX="-22" frameY="-9" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0004" x="1530" y="1535"  width="526" height="402" frameX="-23" frameY="-4" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0005" x="2058" y="1535"  width="494" height="402" frameX="-21" frameY="-5" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrink0015" x="417" y="354"  width="414" height="361" frameX="-39" frameY="-12" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0011" x="1" y="1508"  width="508" height="397" frameX="-22" frameY="-10" frameWidth="549" frameHeight="412"/>
+  <SubTexture name="TankLadyDrinkDown0016" x="1839" y="741"  width="442" height="393" frameX="-19" frameY="-14" frameWidth="549" frameHeight="412"/>
+</TextureAtlas>

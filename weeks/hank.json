@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"accelerant",
+			"hank",
+			[
+				244,
+				27,
+				39
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "hank",
+	"difficulties": "Hard,Fucked",
+	"weekCharacters": [
+		"hank",
+		"bf",
+		"gf"
+	],
+	"storyName": "hank",
+	"weekName": "hank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

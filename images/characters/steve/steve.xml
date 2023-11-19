@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="steve.png" width="743" height="493">
+	<SubTexture name="SteveIdle0001" x="1" y="1"  width="249" height="239" frameX="-0" frameY="-7" frameWidth="249" frameHeight="246"/>
+	<SubTexture name="SteveIdle0002" x="252" y="1"  width="246" height="243" frameX="-2" frameY="-3" frameWidth="249" frameHeight="246"/>
+	<SubTexture name="SteveIdle0003" x="500" y="1"  width="242" height="245" frameX="-4" frameY="-1" frameWidth="249" frameHeight="246"/>
+	<SubTexture name="SteveIdle0004" x="1" y="242"  width="242" height="246" frameX="-4" frameY="-0" frameWidth="249" frameHeight="246"/>
+	<SubTexture name="SteveIdle0005" x="245" y="246"  width="242" height="246" frameX="-4" frameY="-0" frameWidth="249" frameHeight="246"/>
+</TextureAtlas>

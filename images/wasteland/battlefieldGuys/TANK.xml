@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="TANK.png" width="963" height="201">
+	<SubTexture name="tankbattlefieldGO0001" x="322" y="1"  width="319" height="199" frameX="-0" frameY="-0" frameWidth="319" frameHeight="199"/>
+	<SubTexture name="tankbattlefieldGO0002" x="1" y="1"  width="319" height="197" frameX="-0" frameY="-2" frameWidth="319" frameHeight="199"/>
+	<SubTexture name="tankbattlefieldGO0003" x="643" y="1"  width="319" height="199" frameX="-0" frameY="-0" frameWidth="319" frameHeight="199"/>
+</TextureAtlas>

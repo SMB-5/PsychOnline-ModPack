@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="sanford.png" width="1548" height="1089">
+  <SubTexture name="SanfordEnter0007" x="1" y="1"  width="375" height="214" frameX="-7" frameY="-393" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordEnter0010" x="378" y="1"  width="381" height="219" frameX="-0" frameY="-388" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordIdle0001" x="761" y="1"  width="389" height="224" frameX="-0" frameY="-4" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordShoot0003" x="1152" y="1"  width="360" height="225" frameX="-222" frameY="-15" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordIdle0003" x="1" y="222"  width="386" height="226" frameX="-2" frameY="-2" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0005" x="389" y="227"  width="383" height="228" frameX="-4" frameY="-1" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordEnter0003" x="774" y="228"  width="389" height="229" frameX="-10" frameY="-398" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordIdle0007" x="1165" y="228"  width="382" height="229" frameX="-4" frameY="-0" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0009" x="1" y="450"  width="381" height="229" frameX="-5" frameY="-0" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordShoot0008" x="384" y="457"  width="381" height="229" frameX="-201" frameY="-11" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordShoot0006" x="767" y="459"  width="378" height="233" frameX="-200" frameY="-7" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordShoot0004" x="1147" y="459"  width="369" height="240" frameX="-208" frameY="-0" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordShoot0001" x="1" y="688"  width="518" height="251" frameX="-69" frameY="-18" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordShoot0002" x="521" y="694"  width="582" height="280" frameX="-0" frameY="-15" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordEnter0001" x="1105" y="701"  width="354" height="387" frameX="-88" frameY="-0" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordEnter0002" x="1105" y="701"  width="354" height="387" frameX="-88" frameY="-0" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordEnter0004" x="774" y="228"  width="389" height="229" frameX="-10" frameY="-398" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordEnter0005" x="774" y="228"  width="389" height="229" frameX="-10" frameY="-398" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordEnter0006" x="774" y="228"  width="389" height="229" frameX="-10" frameY="-398" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordEnter0008" x="1" y="1"  width="375" height="214" frameX="-7" frameY="-393" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordEnter0009" x="1" y="1"  width="375" height="214" frameX="-7" frameY="-393" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordEnter0011" x="378" y="1"  width="381" height="219" frameX="-0" frameY="-388" frameWidth="442" frameHeight="627"/>
+  <SubTexture name="SanfordIdle0002" x="761" y="1"  width="389" height="224" frameX="-0" frameY="-4" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0004" x="1" y="222"  width="386" height="226" frameX="-2" frameY="-2" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0006" x="389" y="227"  width="383" height="228" frameX="-4" frameY="-1" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0008" x="1165" y="228"  width="382" height="229" frameX="-4" frameY="-0" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0010" x="1" y="450"  width="381" height="229" frameX="-5" frameY="-0" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0011" x="1" y="450"  width="381" height="229" frameX="-5" frameY="-0" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0012" x="1" y="450"  width="381" height="229" frameX="-5" frameY="-0" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0013" x="1" y="450"  width="381" height="229" frameX="-5" frameY="-0" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordIdle0014" x="1" y="450"  width="381" height="229" frameX="-5" frameY="-0" frameWidth="389" frameHeight="229"/>
+  <SubTexture name="SanfordShoot0005" x="1147" y="459"  width="369" height="240" frameX="-208" frameY="-0" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordShoot0007" x="767" y="459"  width="378" height="233" frameX="-200" frameY="-7" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordShoot0009" x="384" y="457"  width="381" height="229" frameX="-201" frameY="-11" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordShoot0010" x="384" y="457"  width="381" height="229" frameX="-201" frameY="-11" frameWidth="587" frameHeight="295"/>
+  <SubTexture name="SanfordShoot0011" x="384" y="457"  width="381" height="229" frameX="-201" frameY="-11" frameWidth="587" frameHeight="295"/>
+</TextureAtlas>

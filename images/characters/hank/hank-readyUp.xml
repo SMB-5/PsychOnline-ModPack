@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="hank-readyUp.png" width="1813" height="2032">
+  <SubTexture name="HankGetReady0007" x="1" y="1"  width="539" height="484" frameX="-0" frameY="-26" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0008" x="542" y="1"  width="438" height="484" frameX="-0" frameY="-26" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0004" x="982" y="1"  width="404" height="493" frameX="-14" frameY="-18" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0001" x="1388" y="1"  width="411" height="494" frameX="-14" frameY="-17" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0003" x="1" y="487"  width="500" height="494" frameX="-14" frameY="-18" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0016" x="503" y="487"  width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0022" x="940" y="496"  width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0014" x="1377" y="497"  width="435" height="498" frameX="-16" frameY="-13" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0009" x="1" y="983"  width="447" height="501" frameX="-0" frameY="-9" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0010" x="450" y="985"  width="425" height="501" frameX="-15" frameY="-11" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0005" x="877" y="994"  width="410" height="508" frameX="-14" frameY="-3" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0012" x="1289" y="997"  width="448" height="509" frameX="-14" frameY="-2" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0018" x="1" y="1486"  width="436" height="511" frameX="-15" frameY="-0" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0020" x="439" y="1488"  width="435" height="511" frameX="-16" frameY="-0" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0002" x="876" y="1508"  width="414" height="512" frameX="-14" frameY="-17" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0006" x="1292" y="1508"  width="420" height="523" frameX="-14" frameY="-3" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0011" x="450" y="985"  width="425" height="501" frameX="-15" frameY="-11" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0013" x="1289" y="997"  width="448" height="509" frameX="-14" frameY="-2" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0015" x="1377" y="497"  width="435" height="498" frameX="-16" frameY="-13" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0017" x="503" y="487"  width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0024" x="503" y="487"  width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0019" x="1" y="1486"  width="436" height="511" frameX="-15" frameY="-0" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0021" x="439" y="1488"  width="435" height="511" frameX="-16" frameY="-0" frameWidth="539" frameHeight="529"/>
+  <SubTexture name="HankGetReady0023" x="940" y="496"  width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+</TextureAtlas>

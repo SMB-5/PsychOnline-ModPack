@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="pico-dodge.png" width="1151" height="283">
+  <SubTexture name="PicoDodging0002" x="1" y="1"  width="389" height="270" frameX="-0" frameY="-11" frameWidth="389" frameHeight="281"/>
+  <SubTexture name="PicoDodging0001" x="392" y="1"  width="376" height="280" frameX="-0" frameY="-1" frameWidth="389" frameHeight="281"/>
+  <SubTexture name="PicoDodging0003" x="770" y="1"  width="380" height="281" frameX="-0" frameY="-0" frameWidth="389" frameHeight="281"/>
+</TextureAtlas>

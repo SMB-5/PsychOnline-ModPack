@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="MINE.png" width="1198" height="697">
+  <SubTexture name="MINEXPLO0001" x="1" y="1"  width="21" height="20" frameX="-136" frameY="-217" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0021" x="24" y="1"  width="131" height="166" frameX="-8" frameY="-10" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0002" x="157" y="1"  width="203" height="184" frameX="-50" frameY="-53" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0003" x="362" y="1"  width="254" height="191" frameX="-39" frameY="-52" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0005" x="618" y="1"  width="307" height="211" frameX="-24" frameY="-31" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0013" x="927" y="1"  width="270" height="241" frameX="-15" frameY="-2" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0007" x="1" y="187"  width="305" height="224" frameX="-18" frameY="-18" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0009" x="308" y="194"  width="306" height="233" frameX="-0" frameY="-9" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0011" x="616" y="214"  width="282" height="237" frameX="-16" frameY="-4" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0015" x="900" y="244"  width="205" height="243" frameX="-12" frameY="-0" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0016" x="1" y="413"  width="205" height="243" frameX="-12" frameY="-0" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0017" x="208" y="429"  width="189" height="243" frameX="-10" frameY="-0" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0018" x="399" y="429"  width="189" height="243" frameX="-10" frameY="-0" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0019" x="590" y="453"  width="139" height="243" frameX="-6" frameY="-0" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0004" x="362" y="1"  width="254" height="191" frameX="-39" frameY="-52" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0006" x="618" y="1"  width="307" height="211" frameX="-24" frameY="-31" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0008" x="1" y="187"  width="305" height="224" frameX="-18" frameY="-18" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0010" x="308" y="194"  width="306" height="233" frameX="-0" frameY="-9" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0012" x="616" y="214"  width="282" height="237" frameX="-16" frameY="-4" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0014" x="927" y="1"  width="270" height="241" frameX="-15" frameY="-2" frameWidth="331" frameHeight="243"/>
+  <SubTexture name="MINEXPLO0020" x="590" y="453"  width="139" height="243" frameX="-6" frameY="-0" frameWidth="331" frameHeight="243"/>
+</TextureAtlas>

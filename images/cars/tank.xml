@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="tank.png" width="1862" height="1227">
+	<SubTexture name="Tank0001" x="934" y="1"  width="927" height="613" frameX="-4" frameY="-0" frameWidth="931" frameHeight="617"/>
+	<SubTexture name="Tank0002" x="1" y="1"  width="931" height="610" frameX="-0" frameY="-3" frameWidth="931" frameHeight="617"/>
+	<SubTexture name="Tank0003" x="1" y="613"  width="926" height="613" frameX="-5" frameY="-4" frameWidth="931" frameHeight="617"/>
+</TextureAtlas>

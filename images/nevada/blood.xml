@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="blood.png" width="586" height="532">
+	<SubTexture name="BloodSplash0001" x="1" y="286"  width="75" height="190" frameX="-307" frameY="-108" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0002" x="304" y="330"  width="132" height="201" frameX="-229" frameY="-52" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0003" x="366" y="146"  width="203" height="182" frameX="-134" frameY="-4" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0004" x="375" y="1"  width="210" height="143" frameX="-110" frameY="-0" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0005" x="375" y="1"  width="210" height="143" frameX="-110" frameY="-0" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0006" x="154" y="1"  width="219" height="137" frameX="-74" frameY="-17" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0007" x="154" y="1"  width="219" height="137" frameX="-74" frameY="-17" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0008" x="78" y="322"  width="224" height="182" frameX="-45" frameY="-34" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0009" x="166" y="140"  width="198" height="180" frameX="-23" frameY="-99" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0010" x="1" y="140"  width="163" height="144" frameX="-3" frameY="-174" frameWidth="382" frameHeight="380"/>
+	<SubTexture name="BloodSplash0011" x="1" y="1"  width="151" height="121" frameX="-0" frameY="-259" frameWidth="382" frameHeight="380"/>
+</TextureAtlas>

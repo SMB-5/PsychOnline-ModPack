@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="climbers.png" width="1978" height="1630">
+  <SubTexture name="agentclimb0002" x="1" y="1"  width="123" height="104" frameX="-0" frameY="-89" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0004" x="126" y="1"  width="123" height="108" frameX="-1" frameY="-74" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentdie0007" x="251" y="1"  width="331" height="200" frameX="-20" frameY="-137" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engdie0007" x="584" y="1"  width="339" height="200" frameX="-20" frameY="-137" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntdie0007" x="925" y="1"  width="331" height="200" frameX="-20" frameY="-137" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0001" x="1258" y="1"  width="143" height="224" frameX="-16" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0014" x="1403" y="1"  width="255" height="225" frameX="-36" frameY="-124" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0014" x="1660" y="1"  width="256" height="225" frameX="-37" frameY="-124" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0006" x="1" y="107"  width="86" height="259" frameX="-17" frameY="-64" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0014" x="89" y="203"  width="256" height="225" frameX="-37" frameY="-124" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentdie0001" x="347" y="203"  width="258" height="226" frameX="-38" frameY="-123" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntdie0001" x="607" y="203"  width="259" height="226" frameX="-38" frameY="-123" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0016" x="868" y="203"  width="253" height="230" frameX="-36" frameY="-119" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0016" x="1123" y="227"  width="253" height="230" frameX="-37" frameY="-119" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0016" x="1378" y="228"  width="253" height="230" frameX="-37" frameY="-119" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engdie0001" x="1633" y="228"  width="259" height="240" frameX="-38" frameY="-109" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0007" x="1" y="430"  width="267" height="241" frameX="-32" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0012" x="270" y="431"  width="250" height="242" frameX="-36" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0012" x="522" y="431"  width="251" height="242" frameX="-37" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0012" x="775" y="435"  width="251" height="242" frameX="-37" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0010" x="1028" y="459"  width="250" height="251" frameX="-36" frameY="-98" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0010" x="1280" y="460"  width="251" height="251" frameX="-37" frameY="-98" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0010" x="1533" y="470"  width="251" height="251" frameX="-37" frameY="-98" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0008" x="1" y="673"  width="251" height="265" frameX="-32" frameY="-83" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0008" x="254" y="675"  width="252" height="265" frameX="-32" frameY="-83" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0008" x="508" y="675"  width="252" height="265" frameX="-32" frameY="-83" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0009" x="762" y="679"  width="247" height="266" frameX="-36" frameY="-83" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0009" x="1011" y="712"  width="247" height="266" frameX="-37" frameY="-83" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0009" x="1260" y="713"  width="247" height="266" frameX="-37" frameY="-83" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentdie0006" x="1509" y="723"  width="380" height="272" frameX="-20" frameY="-65" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engdie0006" x="1" y="942"  width="381" height="272" frameX="-20" frameY="-65" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntdie0006" x="384" y="947"  width="381" height="272" frameX="-20" frameY="-65" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntdie0004" x="767" y="980"  width="402" height="311" frameX="-0" frameY="-22" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engdie0004" x="1171" y="997"  width="402" height="312" frameX="-0" frameY="-22" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentdie0004" x="1575" y="997"  width="402" height="314" frameX="-0" frameY="-22" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntdie0002" x="1" y="1216"  width="370" height="333" frameX="-22" frameY="-0" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engdie0002" x="373" y="1221"  width="370" height="334" frameX="-22" frameY="-0" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentdie0002" x="745" y="1293"  width="371" height="336" frameX="-21" frameY="-0" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0001" x="1258" y="1"  width="143" height="224" frameX="-16" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0001" x="1258" y="1"  width="143" height="224" frameX="-16" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0003" x="1" y="1"  width="123" height="104" frameX="-0" frameY="-89" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0002" x="1" y="1"  width="123" height="104" frameX="-0" frameY="-89" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0003" x="1" y="1"  width="123" height="104" frameX="-0" frameY="-89" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0002" x="1" y="1"  width="123" height="104" frameX="-0" frameY="-89" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0003" x="1" y="1"  width="123" height="104" frameX="-0" frameY="-89" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0005" x="126" y="1"  width="123" height="108" frameX="-1" frameY="-74" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0004" x="126" y="1"  width="123" height="108" frameX="-1" frameY="-74" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0005" x="126" y="1"  width="123" height="108" frameX="-1" frameY="-74" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0004" x="126" y="1"  width="123" height="108" frameX="-1" frameY="-74" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0005" x="126" y="1"  width="123" height="108" frameX="-1" frameY="-74" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0006" x="1" y="107"  width="86" height="259" frameX="-17" frameY="-64" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0006" x="1" y="107"  width="86" height="259" frameX="-17" frameY="-64" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0007" x="1" y="430"  width="267" height="241" frameX="-32" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0007" x="1" y="430"  width="267" height="241" frameX="-32" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0011" x="1028" y="459"  width="250" height="251" frameX="-36" frameY="-98" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0013" x="270" y="431"  width="250" height="242" frameX="-36" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentclimb0015" x="1403" y="1"  width="255" height="225" frameX="-36" frameY="-124" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentdie0003" x="745" y="1293"  width="371" height="336" frameX="-21" frameY="-0" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="agentdie0005" x="1575" y="997"  width="402" height="314" frameX="-0" frameY="-22" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0011" x="1280" y="460"  width="251" height="251" frameX="-37" frameY="-98" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0013" x="522" y="431"  width="251" height="242" frameX="-37" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engclimb0015" x="1660" y="1"  width="256" height="225" frameX="-37" frameY="-124" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engdie0003" x="373" y="1221"  width="370" height="334" frameX="-22" frameY="-0" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="engdie0005" x="1171" y="997"  width="402" height="312" frameX="-0" frameY="-22" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0011" x="1533" y="470"  width="251" height="251" frameX="-37" frameY="-98" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0013" x="775" y="435"  width="251" height="242" frameX="-37" frameY="-107" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntclimb0015" x="89" y="203"  width="256" height="225" frameX="-37" frameY="-124" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntdie0003" x="1" y="1216"  width="370" height="333" frameX="-22" frameY="-0" frameWidth="402" frameHeight="349"/>
+  <SubTexture name="gruntdie0005" x="767" y="980"  width="402" height="311" frameX="-0" frameY="-22" frameWidth="402" frameHeight="349"/>
+</TextureAtlas>

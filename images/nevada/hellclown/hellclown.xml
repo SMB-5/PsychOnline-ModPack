@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="hellclown.png" width="4764" height="4527">
+  <SubTexture name="HellClownIdle0003" x="1" y="1"  width="946" height="1454" frameX="-4" frameY="-20" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0010" x="949" y="1"  width="939" height="1454" frameX="-11" frameY="-20" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0002" x="1890" y="1"  width="965" height="1457" frameX="-11" frameY="-17" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0011" x="2857" y="1"  width="946" height="1468" frameX="-4" frameY="-6" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0008" x="3805" y="1"  width="958" height="1507" frameX="-18" frameY="-20" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0009" x="1" y="1457"  width="965" height="1507" frameX="-11" frameY="-20" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0001" x="968" y="1460"  width="965" height="1510" frameX="-11" frameY="-17" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0005" x="1935" y="1471"  width="932" height="1516" frameX="-30" frameY="-27" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0013" x="2869" y="1471"  width="932" height="1516" frameX="-30" frameY="-27" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0007" x="3803" y="1510"  width="951" height="1522" frameX="-18" frameY="-34" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0004" x="1" y="2966"  width="958" height="1523" frameX="-4" frameY="-20" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0006" x="961" y="2972"  width="939" height="1529" frameX="-30" frameY="-27" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0014" x="1902" y="2989"  width="939" height="1529" frameX="-30" frameY="-27" frameWidth="985" frameHeight="1565"/>
+  <SubTexture name="HellClownIdle0012" x="2843" y="2989"  width="958" height="1537" frameX="-4" frameY="-6" frameWidth="985" frameHeight="1565"/>
+</TextureAtlas>

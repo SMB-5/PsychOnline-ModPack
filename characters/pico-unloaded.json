@@ -1,0 +1,137 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-10
+			],
+			"anim": "danceLeft-alt",
+			"fps": 17,
+			"name": "Pico Idle HYPED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-10
+			],
+			"anim": "danceRight-alt",
+			"fps": 17,
+			"name": "Pico Idle HYPED",
+			"indices": []
+		},
+		{
+			"offsets": [
+				71,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PicoLeft"
+		},
+		{
+			"offsets": [
+				56,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PicoDown"
+		},
+		{
+			"offsets": [
+				6,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PicoUp"
+		},
+		{
+			"offsets": [
+				-32,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PicoRight"
+		},
+		{
+			"offsets": [
+				-28,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Pico Taunt"
+		},
+		{
+			"offsets": [
+				-28,
+				-9
+			],
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "hey-loop",
+			"loop": true,
+			"name": "Pico Taunt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico/pico",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		377.571,
+		-163.122
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

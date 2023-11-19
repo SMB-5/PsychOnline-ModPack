@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="uberkid.png" width="2175" height="1713">
+  <SubTexture name="UberKidDown0001" x="1" y="1"  width="397" height="291" frameX="-0" frameY="-10" frameWidth="397" frameHeight="302"/>
+  <SubTexture name="UberKidDown0003" x="400" y="1"  width="389" height="302" frameX="-2" frameY="-0" frameWidth="397" frameHeight="302"/>
+  <SubTexture name="UberKidRight0001" x="791" y="1"  width="373" height="311" frameX="-1" frameY="-1" frameWidth="374" frameHeight="312"/>
+  <SubTexture name="UberKidRight0003" x="1166" y="1"  width="365" height="312" frameX="-0" frameY="-0" frameWidth="374" frameHeight="312"/>
+  <SubTexture name="UberKidReaction0001" x="1533" y="1"  width="285" height="321" frameX="-11" frameY="-30" frameWidth="296" frameHeight="351"/>
+  <SubTexture name="UberKidLeft0001" x="1820" y="1"  width="354" height="333" frameX="-0" frameY="-1" frameWidth="355" frameHeight="334"/>
+  <SubTexture name="UberKidLeft0003" x="1" y="294"  width="345" height="334" frameX="-10" frameY="-0" frameWidth="355" frameHeight="334"/>
+  <SubTexture name="UberKidIdle0001" x="348" y="305"  width="296" height="335" frameX="-1" frameY="-5" frameWidth="297" frameHeight="340"/>
+  <SubTexture name="UberKidIdle0003" x="646" y="314"  width="294" height="335" frameX="-1" frameY="-5" frameWidth="297" frameHeight="340"/>
+  <SubTexture name="UberKidPISSED0001" x="942" y="315"  width="308" height="338" frameX="-1" frameY="-5" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0002" x="1252" y="324"  width="308" height="338" frameX="-1" frameY="-5" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0003" x="1562" y="336"  width="305" height="338" frameX="-2" frameY="-5" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0004" x="1869" y="336"  width="305" height="338" frameX="-2" frameY="-5" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidReaction0005" x="1" y="630"  width="283" height="338" frameX="-0" frameY="-12" frameWidth="296" frameHeight="351"/>
+  <SubTexture name="UberKidIdle0005" x="286" y="642"  width="293" height="339" frameX="-1" frameY="-1" frameWidth="297" frameHeight="340"/>
+  <SubTexture name="UberKidIdle0007" x="581" y="651"  width="293" height="339" frameX="-0" frameY="-1" frameWidth="297" frameHeight="340"/>
+  <SubTexture name="UberKidIdle0009" x="876" y="655"  width="292" height="340" frameX="-0" frameY="-0" frameWidth="297" frameHeight="340"/>
+  <SubTexture name="UberKidPISSED0010" x="1170" y="664"  width="304" height="341" frameX="-0" frameY="-2" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0005" x="1476" y="676"  width="305" height="342" frameX="-1" frameY="-1" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0006" x="1783" y="676"  width="306" height="342" frameX="-0" frameY="-1" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidReaction0007" x="1" y="970"  width="282" height="342" frameX="-0" frameY="-9" frameWidth="296" frameHeight="351"/>
+  <SubTexture name="UberKidReaction0003" x="285" y="983"  width="278" height="349" frameX="-1" frameY="-0" frameWidth="296" frameHeight="351"/>
+  <SubTexture name="UberKidPISSED0007" x="565" y="992"  width="305" height="342" frameX="-0" frameY="-1" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0008" x="872" y="1007"  width="305" height="342" frameX="-0" frameY="-1" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0011" x="1179" y="1020"  width="304" height="342" frameX="-0" frameY="-1" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0012" x="1485" y="1020"  width="304" height="342" frameX="-0" frameY="-1" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0013" x="1791" y="1020"  width="304" height="342" frameX="-0" frameY="-1" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidPISSED0009" x="1" y="1334"  width="304" height="343" frameX="-0" frameY="-0" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidUp0003" x="307" y="1336"  width="312" height="360" frameX="-0" frameY="-1" frameWidth="312" frameHeight="361"/>
+  <SubTexture name="UberKidUp0001" x="621" y="1351"  width="303" height="361" frameX="-5" frameY="-0" frameWidth="312" frameHeight="361"/>
+  <SubTexture name="UberKidDown0002" x="1" y="1"  width="397" height="291" frameX="-0" frameY="-10" frameWidth="397" frameHeight="302"/>
+  <SubTexture name="UberKidIdle0002" x="348" y="305"  width="296" height="335" frameX="-1" frameY="-5" frameWidth="297" frameHeight="340"/>
+  <SubTexture name="UberKidIdle0004" x="646" y="314"  width="294" height="335" frameX="-1" frameY="-5" frameWidth="297" frameHeight="340"/>
+  <SubTexture name="UberKidIdle0006" x="286" y="642"  width="293" height="339" frameX="-1" frameY="-1" frameWidth="297" frameHeight="340"/>
+  <SubTexture name="UberKidIdle0008" x="581" y="651"  width="293" height="339" frameX="-0" frameY="-1" frameWidth="297" frameHeight="340"/>
+  <SubTexture name="UberKidLeft0002" x="1820" y="1"  width="354" height="333" frameX="-0" frameY="-1" frameWidth="355" frameHeight="334"/>
+  <SubTexture name="UberKidPISSED0014" x="1791" y="1020"  width="304" height="342" frameX="-0" frameY="-1" frameWidth="309" frameHeight="343"/>
+  <SubTexture name="UberKidReaction0002" x="1533" y="1"  width="285" height="321" frameX="-11" frameY="-30" frameWidth="296" frameHeight="351"/>
+  <SubTexture name="UberKidReaction0004" x="285" y="983"  width="278" height="349" frameX="-1" frameY="-0" frameWidth="296" frameHeight="351"/>
+  <SubTexture name="UberKidReaction0006" x="1" y="630"  width="283" height="338" frameX="-0" frameY="-12" frameWidth="296" frameHeight="351"/>
+  <SubTexture name="UberKidReaction0008" x="1" y="970"  width="282" height="342" frameX="-0" frameY="-9" frameWidth="296" frameHeight="351"/>
+  <SubTexture name="UberKidRight0002" x="791" y="1"  width="373" height="311" frameX="-1" frameY="-1" frameWidth="374" frameHeight="312"/>
+  <SubTexture name="UberKidUp0002" x="621" y="1351"  width="303" height="361" frameX="-5" frameY="-0" frameWidth="312" frameHeight="361"/>
+</TextureAtlas>

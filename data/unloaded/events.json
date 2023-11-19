@@ -1,0 +1,676 @@
+{
+	"song": {
+		"events": [
+			[
+				5000,
+				[
+					[
+						"Pico Guns Out",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10576.9230769231,
+				[
+					[
+						"Pico Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16730.7692307692,
+				[
+					[
+						"Pico Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23076.9230769231,
+				[
+					[
+						"Pico Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31538.4615384615,
+				[
+					[
+						"Pico Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34615.3846153846,
+				[
+					[
+						"Pico Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42305,
+				[
+					[
+						"Pico Do Do Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43075,
+				[
+					[
+						"Set Up Uberfront",
+						"",
+						""
+					],
+					[
+						"Pico Breakdance",
+						"",
+						""
+					],
+					[
+						"Pico Breakdance Shoot",
+						"",
+						""
+					],
+					[
+						"Pico Do Do Zoom",
+						"",
+						""
+					],
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					],
+					[
+						"Set Property",
+						"camZoomingMult",
+						"1.5"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"1.5"
+					],
+					[
+						"Camera Boom Speed",
+						"1",
+						""
+					],
+					[
+						"Kill Uberkid",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				44038.4615384615,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44423.0769230769,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45576.9230769231,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46153.8461538462,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47115.3846153846,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				47500,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				48076.9230769231,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				48653.8461538462,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				49230.7692307692,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				50192.3076923077,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				50576.9230769231,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				51153.8461538462,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				51730.7692307692,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				52307.6923076923,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				53269.2307692308,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				53653.8461538462,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				53846.1538461539,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				54230.7692307692,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				54807.6923076923,
+				[
+					[
+						"Pico Breakdance Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				55384.6153846154,
+				[
+					[
+						"Pico Breakdance",
+						"",
+						""
+					],
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				56346.1538461539,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				56730.7692307692,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				57307.6923076923,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				57884.6153846154,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				58461.5384615385,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				59423.0769230769,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				59807.6923076923,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				60384.6153846154,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				60961.5384615385,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				61538.4615384616,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				62500,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				62884.6153846154,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				63461.5384615385,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				64038.4615384616,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				64615.3846153846,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				65576.9230769231,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				65961.5384615385,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				66538.4615384616,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				67240,
+				[
+					[
+						"Pico Epic Shoot",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				67513,
+				[
+					[
+						"Set Property",
+						"camZoomingMult",
+						"1"
+					],
+					[
+						"Set Property",
+						"camZoomingDecay",
+						"1.5"
+					],
+					[
+						"Camera Boom Speed",
+						"4",
+						""
+					],
+					[
+						"Epic Part End",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80029,
+				[
+					[
+						"Comic Book Appear",
+						"",
+						""
+					],
+					[
+						"Pico Shoot Bus",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80719,
+				[
+					[
+						"Play Animation",
+						"react",
+						"dad"
+					],
+					[
+						"Set Property",
+						"dad.skipDance",
+						"1"
+					]
+				]
+			],
+			[
+				81304,
+				[
+					[
+						"Bus Run In",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81604,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				82541,
+				[
+					[
+						"Bus Explosion",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82980.7692307692,
+				[
+					[
+						"Set Property",
+						"dad.skipDance",
+						"0"
+					]
+				]
+			],
+			[
+				94615.3846153845,
+				[
+					[
+						"Pico No Ammo",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94999.9999999999,
+				[
+					[
+						"Pico No Ammo",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107018,
+				[
+					[
+						"Final Scene Cam",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107048,
+				[
+					[
+						"Final Scene Prep",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107668,
+				[
+					[
+						"Final Scene",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

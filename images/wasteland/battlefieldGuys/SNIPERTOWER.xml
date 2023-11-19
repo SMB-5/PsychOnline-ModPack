@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="SNIPERTOWER.png" width="967" height="1134">
+	<SubTexture name="TowerBattlefield0001" x="1" y="1"  width="211" height="565" frameX="-115" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerBattlefield0002" x="214" y="1"  width="210" height="565" frameX="-116" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerBattlefield0003" x="426" y="1"  width="210" height="565" frameX="-116" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerBattlefield0004" x="638" y="1"  width="209" height="565" frameX="-116" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerBattlefield0005" x="638" y="1"  width="209" height="565" frameX="-116" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerBattlefield0006" x="638" y="1"  width="209" height="565" frameX="-116" frameY="-0" frameWidth="326" frameHeight="565"/>
+  
+	<SubTexture name="TowerSHOOTINGBattlefield0001" x="1" y="568"  width="325" height="565" frameX="-0" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0002" x="328" y="568"  width="209" height="565" frameX="-116" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0003" x="328" y="568"  width="209" height="565" frameX="-116" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0004" x="539" y="568"  width="212" height="565" frameX="-113" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0005" x="539" y="568"  width="212" height="565" frameX="-113" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0006" x="753" y="568"  width="213" height="565" frameX="-112" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0007" x="753" y="568"  width="213" height="565" frameX="-112" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0008" x="753" y="568"  width="213" height="565" frameX="-112" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0009" x="753" y="568"  width="213" height="565" frameX="-112" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0010" x="753" y="568"  width="213" height="565" frameX="-112" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0011" x="753" y="568"  width="213" height="565" frameX="-112" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0012" x="753" y="568"  width="213" height="565" frameX="-112" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0013" x="753" y="568"  width="213" height="565" frameX="-112" frameY="-0" frameWidth="326" frameHeight="565"/>
+	<SubTexture name="TowerSHOOTINGBattlefield0014" x="753" y="568"  width="213" height="565" frameX="-112" frameY="-0" frameWidth="326" frameHeight="565"/>
+</TextureAtlas>

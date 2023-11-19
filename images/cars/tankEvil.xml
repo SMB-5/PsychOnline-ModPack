@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="tankEvil.png" width="4199" height="2486">
+	<SubTexture name="VehicleTankBad0001" x="1680" y="1655"  width="1685" height="830" frameX="-1" frameY="-0" frameWidth="1686" frameHeight="830"/>
+	<SubTexture name="VehicleTankBad0002" x="1" y="827"  width="1686" height="826" frameX="-0" frameY="-4" frameWidth="1686" frameHeight="830"/>
+	<SubTexture name="VehicleTankBad0003" x="1" y="1"  width="1677" height="824" frameX="-0" frameY="-6" frameWidth="1686" frameHeight="830"/>
+	
+	<SubTexture name="VehicleTankBad0004" x="1689" y="827"  width="1677" height="826" frameX="-0" frameY="-4" frameWidth="1686" frameHeight="830"/>
+	<SubTexture name="VehicleTankBad0005" x="3368" y="1" width="830" height="1676" rotated="true"  frameX="-1" frameY="-0" frameWidth="1686" frameHeight="830"/>
+	<SubTexture name="VehicleTankBad0006" x="1" y="1655"  width="1677" height="826" frameX="-0" frameY="-4" frameWidth="1686" frameHeight="830"/>
+	<SubTexture name="VehicleTankBad0007" x="1680" y="1"  width="1677" height="824" frameX="-0" frameY="-6" frameWidth="1686" frameHeight="830"/>
+</TextureAtlas>

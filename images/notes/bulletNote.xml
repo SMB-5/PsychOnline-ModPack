@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bulletNote.png" width="271" height="239">
+  <SubTexture name="purple0000" x="1" y="1"  width="99" height="67" frameX="-0" frameY="-0" frameWidth="99" frameHeight="67"/>
+  <SubTexture name="purple0001" x="102" y="1"  width="99" height="67" frameX="-0" frameY="-0" frameWidth="99" frameHeight="67"/>
+  <SubTexture name="blue0000" x="203" y="1"  width="67" height="99" frameX="-0" frameY="-0" frameWidth="67" frameHeight="99"/>
+  <SubTexture name="red0000" x="1" y="70"  width="99" height="67" frameX="-0" frameY="-0" frameWidth="99" frameHeight="67"/>
+  <SubTexture name="red0001" x="102" y="70"  width="99" height="67" frameX="-0" frameY="-0" frameWidth="99" frameHeight="67"/>
+  <SubTexture name="blue0001" x="203" y="102"  width="67" height="99" frameX="-0" frameY="-0" frameWidth="67" frameHeight="99"/>
+  <SubTexture name="green0000" x="1" y="139"  width="67" height="99" frameX="-0" frameY="-0" frameWidth="67" frameHeight="99"/>
+  <SubTexture name="green0001" x="70" y="139"  width="67" height="99" frameX="-0" frameY="-0" frameWidth="67" frameHeight="99"/>
+</TextureAtlas>

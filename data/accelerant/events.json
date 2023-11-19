@@ -1,0 +1,256 @@
+{
+	"song": {
+		"events": [
+			[
+				2168,
+				[
+					[
+						"Hank Ready Up",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2941,
+				[
+					[
+						"Heli Fly By",
+						"",
+						""
+					],
+					[
+						"Ready Zoom Out",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26423,
+				[
+					[
+						"Deimos And Sanford Fall",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27439,
+				[
+					[
+						"Cam Back BF",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27024.944,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-handsUp"
+					],
+					[
+						"GF Hands Up",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60557,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-speakers"
+					],
+					[
+						"Throw GF",
+						"",
+						""
+					],
+					[
+						"Tricky Enter",
+						"",
+						""
+					],
+					[
+						"Camera To Tricky",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				61456.5548780488,
+				[
+					[
+						"Set Note Type",
+						"trickyNotes",
+						""
+					]
+				]
+			],
+			[
+				61463,
+				[
+					[
+						"Hank Scared",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67317,
+				[
+					[
+						"Cam Back BF",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67347,
+				[
+					[
+						"Tricky Screams",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73157.0121951219,
+				[
+					[
+						"Set Note Type",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73170,
+				[
+					[
+						"Hank Scared",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79012.9573170731,
+				[
+					[
+						"Set Note Type",
+						"trickyNotes",
+						""
+					]
+				]
+			],
+			[
+				79024,
+				[
+					[
+						"Hank Scared",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84878.0487804877,
+				[
+					[
+						"Set Note Type",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84881,
+				[
+					[
+						"Tricky Turn To Hank",
+						"",
+						""
+					],
+					[
+						"Camera To Tricky",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85518,
+				[
+					[
+						"Vocals Volume",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85606,
+				[
+					[
+						"Hank Shoot Scared",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86337,
+				[
+					[
+						"Hank Scared",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92712,
+				[
+					[
+						"GF Hotdog Walk In",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121457,
+				[
+					[
+						"Hank Scream",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				122998,
+				[
+					[
+						"Hank Scream",
+						"0",
+						""
+					]
+				]
+			]
+		]
+	}
+}

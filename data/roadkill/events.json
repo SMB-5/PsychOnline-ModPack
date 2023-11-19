@@ -1,0 +1,596 @@
+{
+	"song": {
+		"events": [
+			[
+				500,
+				[
+					[
+						"Pan To Bar",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3150,
+				[
+					[
+						"Tank Lady Drink",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4150,
+				[
+					[
+						"Tank Lady Drink",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5150,
+				[
+					[
+						"Tank Lady Drink",
+						"",
+						""
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Do Sound",
+						"pass by",
+						"0.6"
+					]
+				]
+			],
+			[
+				6150,
+				[
+					[
+						"Tank Lady Stop Drink",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8050,
+				[
+					[
+						"Tanks Drive In",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8250,
+				[
+					[
+						"Tank Lady React",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8914,
+				[
+					[
+						"Tanks Slow In",
+						"",
+						""
+					],
+					[
+						"Follow Cars",
+						"",
+						""
+					]
+				]
+			],
+			[
+				9114,
+				[
+					[
+						"Bg Velocity Start",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10097,
+				[
+					[
+						"Tanks Slow In",
+						"",
+						""
+					]
+				]
+			],
+			[
+				11097,
+				[
+					[
+						"Tank Can Adjust",
+						"",
+						""
+					]
+				]
+			],
+			[
+				11771,
+				[
+					[
+						"Set Spawn Rate BG",
+						"15",
+						"0"
+					]
+				]
+			],
+			[
+				23320,
+				[
+					[
+						"Set Spawn Rate BG",
+						"25",
+						"5"
+					]
+				]
+			],
+			[
+				36275,
+				[
+					[
+						"Cap Gun Jammed",
+						"gunDown",
+						""
+					]
+				]
+			],
+			[
+				36725,
+				[
+					[
+						"Cap Gun Jammed",
+						"jammed",
+						""
+					]
+				]
+			],
+			[
+				37765,
+				[
+					[
+						"Set Spawn Rate BG",
+						"30",
+						"20"
+					]
+				]
+			],
+			[
+				72560,
+				[
+					[
+						"Set Spawn Rate BG",
+						"45",
+						"50"
+					]
+				]
+			],
+			[
+				74120,
+				[
+					[
+						"Car Evil Can Adjust",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74005,
+				[
+					[
+						"Chump Car RAM!!",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				74550,
+				[
+					[
+						"Chump Car RAM!!",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				75105,
+				[
+					[
+						"Chump Car RAM!!",
+						"false",
+						"true"
+					]
+				]
+			],
+			[
+				75624,
+				[
+					[
+						"Car Evil Can Adjust",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76928,
+				[
+					[
+						"Chump Car RAM!!",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				77473,
+				[
+					[
+						"Chump Car RAM!!",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				78028,
+				[
+					[
+						"Chump Car RAM!!",
+						"false",
+						"true"
+					]
+				]
+			],
+			[
+				119310,
+				[
+					[
+						"Set Spawn Rate BG",
+						"50",
+						"70"
+					]
+				]
+			],
+			[
+				130558,
+				[
+					[
+						"Set Parachute Spawn",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130896,
+				[
+					[
+						"Pan To Skittles",
+						"",
+						""
+					],
+					[
+						"Bg Velocity Stop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135249,
+				[
+					[
+						"Tank Behind Truck",
+						"",
+						""
+					]
+				]	
+			],
+			[
+				135454,
+				[
+					[
+						"Skittles Spit",
+						"prepSpit",
+						""
+					]
+				]
+			],
+			[
+				136011,
+				[
+					[
+						"Skittles Spit",
+						"spit",
+						""
+					],
+					[
+						"Skittles Pan Down",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136226,
+				[
+					[
+						"Tanks Run Skittles",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136726,
+				[
+					[
+						"Skittles Dies",
+						"",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.5,0.005",
+						"0,0"
+					],
+					[
+						"Cam Back Skittles",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136763,
+				[
+					[
+						"Set Spawn Rate BG",
+						"80",
+						"98"
+					]
+				]
+			],
+			[
+				136826,
+				[
+					[
+						"Bg Velocity Start",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137263,
+				[
+					[
+						"Spawn BG Object",
+						"ENEMY BASE",
+						""
+					]
+				]
+			],
+			[
+				137806,
+				[
+					[
+						"Set Parachute Spawn",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142224,
+				[
+					[
+						"Tank Behind Truck",
+						"",
+						""
+					]
+				]	
+			],
+			[
+				159628,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"bf"
+					]
+				]
+			],
+			[
+				183515,
+				[
+					[
+						"Set Spawn Rate BG",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				184731,
+				[
+					[
+						"Spawn BG Object",
+						"TWO TOWERS",
+						""
+					]
+				]
+			],
+			[
+				196359,
+				[
+					[
+						"Bg Velocity Stop",
+						"true",
+						"true"
+					],
+					[
+						"Tank Skid",
+						"skid",
+						""
+					],
+					[
+						"Pan Tank Ending",
+						"",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.5,0.005",
+						"0,0"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				197393,
+				[
+					[
+						"Tank Skid",
+						"prepShoot",
+						""
+					]
+				]
+			],
+			[
+				197844,
+				[
+					[
+						"Tank Skid",
+						"shoot",
+						""
+					],
+					[
+						"Pan Chump Car Ending",
+						"",
+						""
+					]
+				]
+			],
+			[
+				197994,
+				[
+					[
+						"Chump Die",
+						"knifeSpin",
+						""
+					]
+				]
+			],
+			[
+				198521,
+				[
+					[
+						"Football Chump Play Anim",
+						"surprise",
+						""
+					],
+					[
+						"Chump Die",
+						"death",
+						""
+					]
+				]
+			],
+			[
+				199940,
+				[
+					[
+						"Football Chump Play Anim",
+						"death",
+						""
+					]
+				]
+			],
+			[
+				200240,
+				[
+					[
+						"Pan Tank Ending",
+						"",
+						""
+					]
+				]
+			],
+			[
+				200833,
+				[
+					[
+						"Tank Skid",
+						"talkLoop",
+						""
+					]
+				]
+			],
+			[
+				201839,
+				[
+					[
+						"Tank Skid",
+						"theorem",
+						""
+					]
+				]
+			],
+			[
+				203336,
+				[
+					[
+						"Tank Skid",
+						"bitch",
+						""
+					]
+				]
+			],
+			[
+				204227,
+				[
+					[
+						"Tank Skid",
+						"mock",
+						""
+					]
+				]
+			]
+		]
+	}
+}

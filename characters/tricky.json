@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "trickyidle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "trickyidle"
+		},
+		{
+			"offsets": [
+				95,
+				27
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "trickyileft"
+		},
+		{
+			"offsets": [
+				70,
+				10
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "trickydwon"
+		},
+		{
+			"offsets": [
+				-11,
+				56
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUP",
+			"loop": false,
+			"name": "trickyup"
+		},
+		{
+			"offsets": [
+				116,
+				-23
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "trickyright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tricky/tricky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

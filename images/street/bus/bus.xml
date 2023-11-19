@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bus.png" width="2218" height="1879">
+  <SubTexture name="Bus0002" x="1" y="1"  width="2216" height="611" frameX="-4" frameY="-21" frameWidth="2220" frameHeight="636"/>
+  <SubTexture name="Bus0003" x="1" y="614"  width="2216" height="628" frameX="-0" frameY="-8" frameWidth="2220" frameHeight="636"/>
+  <SubTexture name="Bus0001" x="1" y="1244"  width="2208" height="634" frameX="-8" frameY="-0" frameWidth="2220" frameHeight="636"/>
+</TextureAtlas>

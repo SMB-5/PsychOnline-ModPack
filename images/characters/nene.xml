@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="nene.png" width="1793" height="898">
+  <SubTexture name="Nene PrepStab0001" x="1" y="1"  width="322" height="268" frameX="-62" frameY="-63" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene Stab0002" x="325" y="1"  width="363" height="275" frameX="-14" frameY="-58" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="NeneIdle0003" x="690" y="1"  width="363" height="277" frameX="-1" frameY="-4" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="Nene Stab0004" x="1055" y="1"  width="368" height="278" frameX="-9" frameY="-55" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene Stab0007" x="1425" y="1"  width="367" height="279" frameX="-9" frameY="-54" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="NeneIdle0005" x="1" y="278"  width="353" height="279" frameX="-11" frameY="-2" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="Nene Stab0006" x="356" y="280"  width="368" height="280" frameX="-7" frameY="-53" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="NeneIdle0007" x="726" y="281"  width="346" height="280" frameX="-18" frameY="-1" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="NeneIdle0009" x="1074" y="281"  width="340" height="281" frameX="-24" frameY="-0" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="NeneIdle0001" x="1416" y="282"  width="364" height="281" frameX="-0" frameY="-0" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="Nene Stab0001" x="1" y="562"  width="373" height="284" frameX="-7" frameY="-49" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene PrepStab0002" x="376" y="563"  width="367" height="331" frameX="-4" frameY="-2" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene PrepStab0004" x="745" y="564"  width="367" height="333" frameX="-3" frameY="-0" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene PrepStab0003" x="376" y="563"  width="367" height="331" frameX="-4" frameY="-2" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene PrepStab0005" x="745" y="564"  width="367" height="333" frameX="-3" frameY="-0" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene Stab0003" x="325" y="1"  width="363" height="275" frameX="-14" frameY="-58" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene Stab0005" x="1055" y="1"  width="368" height="278" frameX="-9" frameY="-55" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene Stab0008" x="1425" y="1"  width="367" height="279" frameX="-9" frameY="-54" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene Stab0009" x="1425" y="1"  width="367" height="279" frameX="-9" frameY="-54" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene Stab0010" x="1425" y="1"  width="367" height="279" frameX="-9" frameY="-54" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="Nene Stab0011" x="1425" y="1"  width="367" height="279" frameX="-9" frameY="-54" frameWidth="384" frameHeight="333"/>
+  <SubTexture name="NeneIdle0002" x="1416" y="282"  width="364" height="281" frameX="-0" frameY="-0" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="NeneIdle0004" x="690" y="1"  width="363" height="277" frameX="-1" frameY="-4" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="NeneIdle0006" x="1" y="278"  width="353" height="279" frameX="-11" frameY="-2" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="NeneIdle0008" x="726" y="281"  width="346" height="280" frameX="-18" frameY="-1" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="NeneIdle0010" x="1074" y="281"  width="340" height="281" frameX="-24" frameY="-0" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="NeneIdle0011" x="1074" y="281"  width="340" height="281" frameX="-24" frameY="-0" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="NeneIdle0012" x="1074" y="281"  width="340" height="281" frameX="-24" frameY="-0" frameWidth="364" frameHeight="281"/>
+  <SubTexture name="NeneIdle0013" x="1074" y="281"  width="340" height="281" frameX="-24" frameY="-0" frameWidth="364" frameHeight="281"/>
+</TextureAtlas>

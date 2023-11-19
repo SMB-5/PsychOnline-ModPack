@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="PARACHUTERSHOOT.png" width="407" height="330">
+	<SubTexture name="ParashootBattlefieldEVILGUY0001" x="215" y="166"  width="105" height="163" frameX="-88" frameY="-0" frameWidth="193" frameHeight="163"/>
+	
+	<SubTexture name="ParashootBattlefieldEVILGUYSHOOT0001" x="1" y="1"  width="193" height="163" frameX="-0" frameY="-0" frameWidth="193" frameHeight="163"/>
+	<SubTexture name="ParashootBattlefieldEVILGUYSHOOT0002" x="196" y="1"  width="103" height="163" frameX="-90" frameY="-0" frameWidth="193" frameHeight="163"/>
+	<SubTexture name="ParashootBattlefieldEVILGUYSHOOT0003" x="196" y="1"  width="103" height="163" frameX="-90" frameY="-0" frameWidth="193" frameHeight="163"/>
+	<SubTexture name="ParashootBattlefieldEVILGUYSHOOT0004" x="301" y="1"  width="105" height="163" frameX="-88" frameY="-0" frameWidth="193" frameHeight="163"/>
+	<SubTexture name="ParashootBattlefieldEVILGUYSHOOT0005" x="301" y="1"  width="105" height="163" frameX="-88" frameY="-0" frameWidth="193" frameHeight="163"/>
+	<SubTexture name="ParashootBattlefieldEVILGUYSHOOT0006" x="1" y="166"  width="105" height="163" frameX="-88" frameY="-0" frameWidth="193" frameHeight="163"/>
+	<SubTexture name="ParashootBattlefieldEVILGUYSHOOT0007" x="108" y="166"  width="105" height="163" frameX="-88" frameY="-0" frameWidth="193" frameHeight="163"/>
+</TextureAtlas>

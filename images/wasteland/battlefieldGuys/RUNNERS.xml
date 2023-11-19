@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="RUNNERS.png" width="986" height="554">
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0014" x="1" y="1"  width="122" height="39" frameX="-0" frameY="-124" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0018" x="125" y="1"  width="121" height="42" frameX="-0" frameY="-121" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0016" x="248" y="1"  width="119" height="43" frameX="-1" frameY="-121" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0012" x="369" y="1"  width="175" height="62" frameX="-12" frameY="-56" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0014" x="546" y="1"  width="175" height="62" frameX="-12" frameY="-56" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0012" x="723" y="1"  width="107" height="66" frameX="-16" frameY="-98" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0008" x="832" y="1"  width="123" height="69" frameX="-27" frameY="-83" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0010" x="1" y="45"  width="124" height="70" frameX="-20" frameY="-86" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPBATTLEFIELDRUN003" x="127" y="45"  width="70" height="89" frameX="-167" frameY="-13" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPBATTLEFIELDRUN006" x="199" y="46"  width="70" height="89" frameX="-167" frameY="-13" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPSTEVEFIELDRUN003" x="271" y="46"  width="70" height="90" frameX="-153" frameY="-53" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEFIELDRUN004" x="343" y="65"  width="84" height="90" frameX="-153" frameY="-46" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEFIELDRUN006" x="429" y="65"  width="70" height="90" frameX="-153" frameY="-53" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPBATTLEFIELDRUN004" x="501" y="65"  width="84" height="90" frameX="-167" frameY="-7" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPSTEVEFIELDRUN002" x="587" y="65"  width="94" height="91" frameX="-143" frameY="-50" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEFIELDRUN005" x="683" y="69"  width="82" height="91" frameX="-152" frameY="-51" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPBATTLEFIELDRUN001" x="767" y="72"  width="96" height="91" frameX="-158" frameY="-7" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPBATTLEFIELDRUN002" x="865" y="72"  width="93" height="91" frameX="-158" frameY="-11" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPBATTLEFIELDRUN005" x="1" y="117"  width="81" height="91" frameX="-167" frameY="-11" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPSTEVEFIELDRUN001" x="84" y="136"  width="96" height="92" frameX="-144" frameY="-46" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0001" x="182" y="138"  width="121" height="99" frameX="-125" frameY="-2" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0011" x="305" y="157"  width="220" height="103" frameX="-12" frameY="-15" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0009" x="527" y="162"  width="228" height="116" frameX="-12" frameY="-2" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0010" x="757" y="165"  width="228" height="116" frameX="-12" frameY="-2" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0003" x="1" y="239"  width="233" height="117" frameX="-12" frameY="-1" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0004" x="236" y="262"  width="233" height="117" frameX="-12" frameY="-1" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0002" x="471" y="280"  width="248" height="118" frameX="-0" frameY="-0" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0005" x="721" y="283"  width="232" height="118" frameX="-12" frameY="-0" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0007" x="1" y="358"  width="232" height="118" frameX="-12" frameY="-0" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0001" x="235" y="381"  width="197" height="139" frameX="-23" frameY="-22" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0006" x="434" y="400"  width="124" height="147" frameX="-32" frameY="-4" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0002" x="560" y="400"  width="142" height="150" frameX="-38" frameY="-0" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0004" x="704" y="403"  width="141" height="150" frameX="-38" frameY="-3" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0005" x="847" y="403"  width="138" height="150" frameX="-36" frameY="-3" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0003" x="560" y="400"  width="142" height="150" frameX="-38" frameY="-0" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0007" x="434" y="400"  width="124" height="147" frameX="-32" frameY="-4" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0009" x="832" y="1"  width="123" height="69" frameX="-27" frameY="-83" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0011" x="1" y="45"  width="124" height="70" frameX="-20" frameY="-86" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0013" x="723" y="1"  width="107" height="66" frameX="-16" frameY="-98" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0015" x="1" y="1"  width="122" height="39" frameX="-0" frameY="-124" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0017" x="248" y="1"  width="119" height="43" frameX="-1" frameY="-121" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0019" x="125" y="1"  width="121" height="42" frameX="-0" frameY="-121" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPSTEVEDEATHFIELDRUN0020" x="125" y="1"  width="121" height="42" frameX="-0" frameY="-121" frameWidth="240" frameHeight="164"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0006" x="721" y="283"  width="232" height="118" frameX="-12" frameY="-0" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0008" x="1" y="358"  width="232" height="118" frameX="-12" frameY="-0" frameWidth="254" frameHeight="118"/>
+  <SubTexture name="TANKCAPDEATHBATTLEFIELDRUN0013" x="369" y="1"  width="175" height="62" frameX="-12" frameY="-56" frameWidth="254" frameHeight="118"/>
+</TextureAtlas>

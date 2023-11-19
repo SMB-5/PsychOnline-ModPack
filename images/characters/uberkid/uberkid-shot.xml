@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="uberkid-shot.png" width="1805" height="1443">
+	<SubTexture name="UberKidDies0001" x="1369" y="251"  width="315" height="289" frameX="-530" frameY="-176" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0002" x="1112" y="542"  width="513" height="440" frameX="-313" frameY="-0" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0003" x="1112" y="542"  width="513" height="440" frameX="-313" frameY="-0" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0004" x="592" y="511"  width="518" height="427" frameX="-259" frameY="-13" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0005" x="592" y="511"  width="518" height="427" frameX="-259" frameY="-13" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0006" x="585" y="984"  width="576" height="458" frameX="-210" frameY="-16" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0007" x="585" y="984"  width="576" height="458" frameX="-210" frameY="-16" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0008" x="1" y="925"  width="582" height="451" frameX="-210" frameY="-52" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0009" x="1" y="925"  width="582" height="451" frameX="-210" frameY="-52" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0010" x="1" y="501"  width="589" height="422" frameX="-211" frameY="-78" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0011" x="1" y="501"  width="589" height="422" frameX="-211" frameY="-78" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidDies0012" x="1" y="1"  width="484" height="220" frameX="-211" frameY="-280" frameWidth="845" frameHeight="503"/>
+	
+	<SubTexture name="UberKidGrabbed0001" x="672" y="251"  width="695" height="258" frameX="-0" frameY="-242" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidGrabbed0002" x="1" y="250"  width="669" height="249" frameX="-26" frameY="-251" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidGrabbed0003" x="1143" y="1"  width="661" height="248" frameX="-34" frameY="-252" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidGrabbed0004" x="1143" y="1"  width="661" height="248" frameX="-34" frameY="-252" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidGrabbed0005" x="487" y="1"  width="654" height="247" frameX="-41" frameY="-253" frameWidth="845" frameHeight="503"/>
+	<SubTexture name="UberKidGrabbed0006" x="487" y="1"  width="654" height="247" frameX="-41" frameY="-253" frameWidth="845" frameHeight="503"/>
+</TextureAtlas>

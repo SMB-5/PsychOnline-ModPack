@@ -1,0 +1,8 @@
+{
+	"name": "PsychOnline ModPack",
+	"description": "A mod pack made for Psych Engine Online.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205"
+}

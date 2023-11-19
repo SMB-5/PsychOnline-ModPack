@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="skidshoot.png" width="2495" height="1252">	
+	<SubTexture name="TankTurnShot0001" x="1206" y="348"  width="561" height="483" frameX="-0" frameY="-174" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0002" x="1813" y="1"  width="681" height="411" frameX="-80" frameY="-154" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0003" x="1" y="773"  width="663" height="478" frameX="-60" frameY="-42" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0004" x="1769" y="414"  width="621" height="460" frameX="-55" frameY="-34" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0005" x="1769" y="414"  width="621" height="460" frameX="-55" frameY="-34" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0006" x="604" y="312"  width="600" height="459" frameX="-54" frameY="-14" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0007" x="604" y="312"  width="600" height="459" frameX="-54" frameY="-14" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0008" x="1" y="297"  width="601" height="415" frameX="-47" frameY="-15" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0009" x="1" y="297"  width="601" height="415" frameX="-47" frameY="-15" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0010" x="1290" y="1"  width="521" height="345" frameX="-67" frameY="-15" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0011" x="1290" y="1"  width="521" height="345" frameX="-67" frameY="-15" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0012" x="820" y="1"  width="468" height="309" frameX="-67" frameY="-6" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0013" x="820" y="1"  width="468" height="309" frameX="-67" frameY="-6" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0014" x="372" y="1"  width="446" height="294" frameX="-70" frameY="-0" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0015" x="372" y="1"  width="446" height="294" frameX="-70" frameY="-0" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0016" x="1" y="1"  width="369" height="238" frameX="-73" frameY="-0" frameWidth="761" frameHeight="657"/>
+	<SubTexture name="TankTurnShot0017" x="1" y="1"  width="1" height="1" frameX="-73" frameY="-0" frameWidth="761" frameHeight="657"/>
+</TextureAtlas>

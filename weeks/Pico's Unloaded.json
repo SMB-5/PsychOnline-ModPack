@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"unloaded",
+			"uber",
+			[
+				40,
+				95,
+				168
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "uber",
+	"difficulties": "Hard,Fucked",
+	"weekCharacters": [
+		"Uberkid",
+		"Pico",
+		"nd"
+	],
+	"storyName": "Pico's Unloaded",
+	"weekName": "Unloaded",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

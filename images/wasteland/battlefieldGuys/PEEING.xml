@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="PEEING.png" width="450" height="188">
+  <SubTexture name="Peeing0001" x="1" y="1"  width="73" height="90" frameX="-0" frameY="-2" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0002" x="76" y="1"  width="73" height="90" frameX="-0" frameY="-2" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0003" x="151" y="1"  width="73" height="91" frameX="-0" frameY="-1" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0004" x="226" y="1"  width="73" height="91" frameX="-0" frameY="-1" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0005" x="301" y="1"  width="73" height="92" frameX="-0" frameY="-0" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0006" x="376" y="1"  width="73" height="92" frameX="-0" frameY="-0" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0007" x="1" y="93"  width="73" height="92" frameX="-0" frameY="-0" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0008" x="76" y="93"  width="73" height="92" frameX="-0" frameY="-0" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0009" x="151" y="94"  width="73" height="92" frameX="-0" frameY="-0" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0010" x="226" y="94"  width="73" height="92" frameX="-0" frameY="-0" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0011" x="301" y="95"  width="73" height="92" frameX="-0" frameY="-0" frameWidth="73" frameHeight="92"/>
+  <SubTexture name="Peeing0012" x="151" y="94"  width="73" height="92" frameX="-0" frameY="-0" frameWidth="73" frameHeight="92"/>
+</TextureAtlas>

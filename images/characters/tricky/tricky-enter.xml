@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="trickyEnter.png" width="1860" height="1582">
+  <SubTexture name="trickyentrance0009" x="1" y="1"  width="647" height="523" frameX="-258" frameY="-515" frameWidth="907" frameHeight="1096"/>
+  <SubTexture name="trickyentrance0007" x="650" y="1"  width="628" height="543" frameX="-279" frameY="-499" frameWidth="907" frameHeight="1096"/>
+  <SubTexture name="trickyentrance0005" x="1280" y="1"  width="579" height="661" frameX="-276" frameY="-391" frameWidth="907" frameHeight="1096"/>
+  <SubTexture name="trickyentrance0003" x="1" y="546"  width="661" height="687" frameX="-216" frameY="-409" frameWidth="907" frameHeight="1096"/>
+  <SubTexture name="trickyentrance0001" x="664" y="664"  width="675" height="917" frameX="-0" frameY="-0" frameWidth="907" frameHeight="1096"/>
+  <SubTexture name="trickyentrance0002" x="664" y="664"  width="675" height="917" frameX="-0" frameY="-0" frameWidth="907" frameHeight="1096"/>
+  <SubTexture name="trickyentrance0004" x="1" y="546"  width="661" height="687" frameX="-216" frameY="-409" frameWidth="907" frameHeight="1096"/>
+  <SubTexture name="trickyentrance0006" x="1280" y="1"  width="579" height="661" frameX="-276" frameY="-391" frameWidth="907" frameHeight="1096"/>
+  <SubTexture name="trickyentrance0008" x="650" y="1"  width="628" height="543" frameX="-279" frameY="-499" frameWidth="907" frameHeight="1096"/>
+  <SubTexture name="trickyentrance0010" x="1" y="1"  width="647" height="523" frameX="-258" frameY="-515" frameWidth="907" frameHeight="1096"/>
+</TextureAtlas>
