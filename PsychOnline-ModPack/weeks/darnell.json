@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Darnell",
+			"darnell",
+			[
+				95,
+				85,
+				142
+			]
+		],
+		[
+			"lit up",
+			"darnell",
+			[
+				95,
+				85,
+				142
+			]
+		],
+		[
+			"2hot",
+			"darnell",
+			[
+				95,
+				85,
+				142
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "darnell",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"darnell-menu",
+		"picoplayer",
+		"nenemenu"
+	],
+	"storyName": "Darnell",
+	"weekName": "week 27",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
