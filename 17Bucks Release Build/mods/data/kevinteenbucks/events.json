@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				121192.5,
+				[
+					[
+						"Change Character",
+						"GF",
+						"req"
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Play Animation",
+						"drop",
+						"GF"
+					]
+				]
+			]
+		]
+	}
+}

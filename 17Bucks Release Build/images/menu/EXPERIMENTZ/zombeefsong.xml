@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="zombeefsong.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Symbol 17 instance 10000" x="0" y="0" width="522" height="199"/>
+	<SubTexture name="Symbol 17 instance 10001" x="0" y="199" width="522" height="199"/>
+	<SubTexture name="idleSymbol 17 instance 10000" x="0" y="0" width="522" height="199"/>
+</TextureAtlas>

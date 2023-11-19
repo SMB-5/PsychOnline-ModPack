@@ -1,0 +1,9 @@
+Only exclusive to songs that
+use Defeat's background. Should
+only be used when BF is the player
+and Black as the opponent, as the
+change character events are hardcoded.
+The characters DO NOT CHANGE when
+changing in.
+
+Value 1: 0 to change in, 1 to change out

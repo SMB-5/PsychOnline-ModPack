@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "GF",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				134
+			],
+			"anim": "Death",
+			"fps": 24,
+			"name": "Death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cycgf",
+	"position": [
+		230,
+		140
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		40,
+		80
+	],
+	"camera_position": [
+		-120,
+		80
+	],
+	"sing_duration": 999,
+	"scale": 0.8
+}

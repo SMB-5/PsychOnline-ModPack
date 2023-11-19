@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="options.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="options0000" x="0" y="0" width="369" height="605"/>
+	<SubTexture name="options0001" x="369" y="0" width="369" height="605"/>
+	<SubTexture name="options0002" x="738" y="0" width="369" height="605"/>
+	<SubTexture name="options0003" x="1107" y="0" width="369" height="605"/>
+	<SubTexture name="options0004" x="1476" y="0" width="369" height="605"/>
+	<SubTexture name="options0005" x="0" y="605" width="369" height="605"/>
+	<SubTexture name="options0006" x="369" y="605" width="369" height="605"/>
+	<SubTexture name="options0007" x="738" y="605" width="369" height="605"/>
+	<SubTexture name="options0008" x="1107" y="605" width="369" height="605"/>
+	<SubTexture name="options0009" x="1476" y="605" width="369" height="605"/>
+	<SubTexture name="options0010" x="0" y="1210" width="369" height="605"/>
+	<SubTexture name="idleoptions0000" x="0" y="1210" width="369" height="605"/>
+</TextureAtlas>

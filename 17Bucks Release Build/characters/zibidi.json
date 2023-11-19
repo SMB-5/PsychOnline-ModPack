@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "zSymbol 30"
+		},
+		{
+			"offsets": [
+				110,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "zleft"
+		},
+		{
+			"offsets": [
+				-51,
+				-182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "zright"
+		},
+		{
+			"offsets": [
+				55,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zup"
+		},
+		{
+			"offsets": [
+				40,
+				-178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "zdown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zibidi",
+	"position": [
+		0,
+		-130
+	],
+	"healthicon": "zib",
+	"flip_x": false,
+	"healthbar_colors": [
+		46,
+		50,
+		63
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

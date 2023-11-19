@@ -1,0 +1,4 @@
+Only exclusive to songs that
+use Defeat's background
+
+Value 1: 0 to fade in, 1 to fade out

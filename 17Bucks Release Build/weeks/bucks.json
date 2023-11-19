@@ -1,0 +1,140 @@
+{
+	"storyName": "17bucks",
+	"difficulties": "buck",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"17bucks",
+			"pk",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"jeans",
+			"girlf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"t-for-t",
+			"turnip",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"feeling-b",
+			"alien",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"fitin",
+			"othersos",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hanky-panky",
+			"sos",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"kevinteenbucks",
+			"kev",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"jit",
+			"cycl",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hoagie",
+			"hoagie",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"tweak",
+			"john3",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Boulevard",
+			"john2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"miss-me",
+			"zib",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"fitin-infi",
+			"othersos",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
