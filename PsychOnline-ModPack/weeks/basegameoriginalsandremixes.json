@@ -1,0 +1,28 @@
+{
+	"storyName": "Basegame Originals and Remixes",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		["Dad Battle (Inunoshiri Remix)", "dad", [146, 113, 253]],
+		["Spookeez (Mike Geno Remix)", "spooky", [34, 51, 68]],
+		["Eerie", "spooky", [34, 51, 68]],
+		["Shiver", "spooky", [34, 51, 68]],
+		["Roses Tylenol", "senpai-pixel", [255, 120, 191]],
+		["Test (Rareblin Remix)", "bf-pixel", [100, 100, 100]]
+	],
+	"hideStoryMode": true,
+	"weekName": "basegameoar",
+	"difficulties": "hard",
+}
