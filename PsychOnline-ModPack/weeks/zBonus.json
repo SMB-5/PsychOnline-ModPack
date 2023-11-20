@@ -1,0 +1,41 @@
+{
+	"storyName": "bonus songs / for the funny!",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "funnies",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Dilemma",
+			"mcdeebles",
+			[
+				255,
+				135,
+				60
+			]
+		],
+		[
+			"Drowning",
+			"dd",
+			[
+				160,
+				100,
+				180
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Bonus"
+}

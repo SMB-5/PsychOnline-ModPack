@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="box.png"><SubTexture name="box idle0000" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0001" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0002" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0003" x="0" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0004" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0005" x="1024" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0006" x="1024" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0007" x="0" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0008" x="512" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0009" x="1024" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0010" x="1536" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="box idle0011" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+</TextureAtlas>

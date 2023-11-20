@@ -1,0 +1,67 @@
+{
+	"storyName": "vs annie / dayburn delight",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "annie",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Good Enough",
+			"Annie",
+			[
+				186,
+				40,
+				60
+			]
+		],
+		[
+			"Lover",
+			"annie",
+			[
+				186,
+				40,
+				60
+			]
+		],
+		[
+			"Tug Of War",
+			"annie",
+			[
+				186,
+				40,
+				60
+			]
+		],
+		[
+			"Take A Swig of This",
+			"liquidannie",
+			[
+				66,
+				193,
+				255
+			]
+		],
+		[
+			"Animal",
+			"liquidannie",
+			[
+				66,
+				233,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Annie"
+}

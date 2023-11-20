@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "annie up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "annie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "annie right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "annie left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drinkle",
+			"indices": [],
+			"name": "annie special"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "drinklealt",
+			"fps": 24,
+			"name": "annie altspecial",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				5
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "annie idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/liquidanniepl",
+	"position": [
+		90,
+		100
+	],
+	"healthicon": "Lanniedrowning",
+	"flip_x": true,
+	"healthbar_colors": [
+		118,
+		233,
+		230
+	],
+	"camera_position": [
+		480,
+		-430
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

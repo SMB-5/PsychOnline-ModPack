@@ -19,6 +19,8 @@ Click on the green button that says code then click download zip. Extract the zi
 
 * [V.S. Whitty](https://gamebanana.com/mods/354884) by Sock.clip, Nate Anim8, bbpanzu, KadeDev, juliaa_, TheOnlyVolume, El Senor Beast, tictacto and 8-Bit Nostalgia.
 
+* [Hazy River](https://gamebanana.com/mods/374660) by Atsuover, RageMiner, dyl, nicky and lagoAnims.
+
 * [Eerie](https://gamebanana.com/mods/45746) by subii. [Spooky Month Attic](https://gamebanana.com/mods/55037) by Sr Pelo imported by Starboy8883.
 
 * [Shiver](https://gamebanana.com/mods/45662) by JADS and Rozebud.

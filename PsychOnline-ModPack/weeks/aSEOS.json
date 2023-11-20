@@ -1,0 +1,59 @@
+{
+	"storyName": "vs garcello / smoke 'em out struggle",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "SEOS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Headache",
+			"gar",
+			[
+				0,
+				255,
+				153
+			]
+		],
+		[
+			"Nerves",
+			"gartired",
+			[
+				40,
+				195,
+				133
+			]
+		],
+		[
+			"Release",
+			"gardead",
+			[
+				160,
+				75,
+				175
+			]
+		],
+		[
+			"Fading",
+			"garfade",
+			[
+				200,
+				215,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Garcello",
+	"hiddenUntilUnlocked": false
+}
