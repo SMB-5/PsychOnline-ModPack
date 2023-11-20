@@ -1,4 +1,5 @@
 # PsychOnline ModPack
+<<<<<<< HEAD
 
 An unoffical open-source modpack for [Psych Engine Online](https://github.com/Snirozu/Funkin-Psych-Online). Contains popular mods such as Mind Games, Online VS, Whitty and many more.
 
@@ -27,3 +28,11 @@ An unoffical open-source modpack for [Psych Engine Online](https://github.com/Sn
 * galactic_2005 - Charting, Coding.
 
 * [The Concealed Cow](https://gamebanana.com/members/1739194) - ONLINE VS Psych Engine ports.
+=======
+ An unoffical open source modpack for [PsychEngineOnline](https://github.com/Snirozu/Funkin-Psych-Online). Contains popular mods such as Mind Games, Online VS, Whitty and many more.
+
+ If you have a mod or mods you want added create a Pull Request and I will have a look and might accept.
+
+ # Installation
+ Click on the green button that says code then click download zip. Extract the zip file and open the folder. Next drag PsychOnline-ModPack into your mods folder and enjoy.
+>>>>>>> 2b98c2e9a0e501d66f8ddeda516fcada7490357c

@@ -5,3 +5,4 @@ Online VS::onlinevs::Mod done by TheBlueHatted, FifLeo, philiplol, Zeroh and kiw
 VS Whitty::whitty::Mod done by sock.clip, Nateanim8, KadeDev and bbpanzu::https://gamebanana.com/mods/354884::0xFF708090
 Errie::spookeez::Song by SubiCat, Background from spookymonth::https://gamebanana.com/mods/45746::0xFFd57e00
 Shiver::spookeez::Song by JADS::https://gamebanana.com/mods/45662::0xFFd57e00
+TheConcealedCow::concow::Made the Online VS Ports::https://gamebanana.com/members/1739194::0xFF45B4EC
