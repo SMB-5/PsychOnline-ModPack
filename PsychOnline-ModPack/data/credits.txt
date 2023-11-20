@@ -1,0 +1,7 @@
+Mods used in this modpack
+Darnell Leaked Week::darnell::Sprites by Phantom Arcade, Songs by Kawai Sprite?, Stage from Darnell 4chan fake leak::https://gamebanana.com/mods/387743::0xFF5f558e
+Mind Games::mind games::Mod done by ShadowMario, Riveren and iFlicky::https://gamebanana.com/mods/301107::0xFF580787
+Online VS::onlinevs::Mod done by TheBlueHatted, FifLeo, philiplol, Zeroh and kiwiquest::https://gamebanana.com/mods/286594::ff0000
+VS Whitty::whitty::Mod done by sock.clip, Nateanim8, KadeDev and bbpanzu::https://gamebanana.com/mods/354884::0xFF708090
+Errie::spookeez::Song by SubiCat, Background from spookymonth::https://gamebanana.com/mods/45746::0xFFd57e00
+Shiver::spookeez::Song by JADS::https://gamebanana.com/mods/45662::0xFFd57e00
