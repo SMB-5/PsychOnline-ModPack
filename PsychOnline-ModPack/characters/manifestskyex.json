@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				-77
+			],
+			"anim": "singUP",
+			"fps": 36,
+			"name": "sky mad up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-154
+			],
+			"anim": "singLEFT",
+			"fps": 36,
+			"name": "sky mad left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-144
+			],
+			"anim": "singRIGHT",
+			"fps": 36,
+			"name": "sky mad right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-235
+			],
+			"anim": "singDOWN",
+			"fps": 36,
+			"name": "sky mad down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				-120
+			],
+			"loop": true,
+			"fps": 36,
+			"anim": "idle",
+			"indices": [],
+			"name": "sky mad idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				-98
+			],
+			"anim": "singUP-alt",
+			"fps": 36,
+			"name": "sky mad scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sky_mad_ex",
+	"position": [
+		210,
+		-20
+	],
+	"healthicon": "manifestex",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-230,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

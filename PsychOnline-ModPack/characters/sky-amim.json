@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "grr",
+			"indices": [],
+			"name": "sky annoyed grr"
+		},
+		{
+			"offsets": [
+				10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ugh",
+			"indices": [],
+			"name": "sky annoyed ugh"
+		},
+		{
+			"offsets": [
+				4,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oh",
+			"indices": [],
+			"name": "sky annoyed oh"
+		},
+		{
+			"offsets": [
+				20,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "huh",
+			"indices": [],
+			"name": "sky annoyed huh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "what",
+			"fps": 24,
+			"name": "sky annoyed what",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sky_annoyed_assets",
+	"position": [
+		-20,
+		230
+	],
+	"healthicon": "sky",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		107,
+		215
+	],
+	"camera_position": [
+		-120,
+		100
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

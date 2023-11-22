@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-manifestex.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ManifestAngryIcon0000" x="10" y="10" width="139" height="138"/>
+	<SubTexture name="ManifestAngryIcon0001" x="159" y="10" width="139" height="138"/>
+	<SubTexture name="ManifestAngryIcon0002" x="308" y="10" width="139" height="138"/>
+	<SubTexture name="ManifestAngryIcon0003" x="10" y="158" width="139" height="138"/>
+	<SubTexture name="ManifestAngryIcon0004" x="159" y="158" width="139" height="138"/>
+	<SubTexture name="ManifestNormalIcon0000" x="308" y="158" width="139" height="138"/>
+	<SubTexture name="ManifestNormalIcon0001" x="10" y="306" width="139" height="138"/>
+	<SubTexture name="ManifestNormalIcon0002" x="159" y="306" width="139" height="138"/>
+	<SubTexture name="ManifestNormalIcon0003" x="308" y="306" width="139" height="138"/>
+</TextureAtlas>

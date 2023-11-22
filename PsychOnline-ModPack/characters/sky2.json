@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-120,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ohno",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "SkyOhno"
+		},
+		{
+			"offsets": [
+				-120,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Lookin",
+			"indices": [
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47
+			],
+			"name": "SkyOhno"
+		},
+		{
+			"offsets": [
+				-165,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Looking",
+			"indices": [
+				0,
+				1
+			],
+			"name": "SkyLookingUp"
+		},
+		{
+			"offsets": [
+				-165,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Tom",
+			"indices": [],
+			"name": "SkyLookingUp"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sky_assets_ski",
+	"position": [
+		-220,
+		110
+	],
+	"healthicon": "tord",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		112,
+		255
+	],
+	"camera_position": [
+		200,
+		90
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

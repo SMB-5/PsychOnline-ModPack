@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Wife Forever",
+			"sky",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"Sky",
+			"sky",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"Manifest",
+			"manifest",
+			[
+				26,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "shift",
+	"difficulties": "",
+	"weekCharacters": [
+		"sky",
+		"bf",
+		"gf"
+	],
+	"storyName": "Sky",
+	"weekName": "sky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

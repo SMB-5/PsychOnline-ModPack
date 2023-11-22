@@ -1,0 +1,9 @@
+{
+	"directory": "sky",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [848.75, -75.65],
+	"girlfriend": [479.3, -56.1],
+	"opponent": [89.3, 93.9]
+}

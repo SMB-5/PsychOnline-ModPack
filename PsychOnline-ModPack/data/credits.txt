@@ -4,9 +4,10 @@ Mind Games::mind games::By riveren, Shadow Mario, iFlicky, Leomming, PJsVoiceArt
 Online VS::onlinevs::By TheBlueHatted, FifLeo, philipllo, Banbuds, Zeroh and kiwiquest::https://gamebanana.com/mods/286594::ff0000
 VS Whitty::whitty::By Sock.clip, Nate Anim8, bbpanzu, KadeDev, juliaa_, TheOnlyVolume, El Senor Beast, tictacto and 8-Bit Nostalgia.::https://gamebanana.com/mods/354884::0xFF708090
 Hazy River::ga::By Atsuover, RageMiner, dyl, nicky and lagoAnims.::https://gamebanana.com/mods/374660::0xFF00fa9a
+VS Sky::sky::By bb-panzu, Alexander0110_ and Dra9onSlayer5.::https://gamebanana.com/mods/370008::9c6ecc
 Errie::spookeez::By subii. Stage by Sr Pelo imported by Starboy8883.::https://gamebanana.com/mods/45746::0xFFd57e00
-Shiver::spookeez::By JADS and RozebudS::https://gamebanana.com/mods/45662::0xFFd57e00
-Rainbow Tylenol::senpai::by LiterallyNoOne::https://gamejolt.com/games/tylenol/661011::ffaa6f
+Shiver::spookeez::By JADS and Rozebud.::https://gamebanana.com/mods/45662::0xFFd57e00
+Rainbow Tylenol::senpai::by LiterallyNoOne.::https://gamejolt.com/games/tylenol/661011::ffaa6f
 
 Modpack Credits
 SMB::smb::Modpack Creator/Owner, Main Contributor.::https://smb-bio.carrd.co/::0xFFEC1C26

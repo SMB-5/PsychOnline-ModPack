@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sonic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				25
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS Sonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				202
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS Sonic up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				67,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISS Sonic left"
+		},
+		{
+			"offsets": [
+				27,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISS Sonic right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				43
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "GAME OVER",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				8
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GAME OVER loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "GAME OVER enter",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "Sonic right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ManifestSky fw",
+	"position": [
+		20,
+		40
+	],
+	"healthicon": "sonic icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		66,
+		137
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

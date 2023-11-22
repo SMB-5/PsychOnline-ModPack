@@ -21,6 +21,8 @@ Click on the green button that says code then click download zip. Extract the zi
 
 * [Hazy River](https://gamebanana.com/mods/374660) by Atsuover, RageMiner, dyl, nicky and lagoAnims.
 
+* [VS Sky](https://gamebanana.com/mods/370008) by By bb-panzu, Alexander0110_ and Dra9onSlayer5.
+
 * [Eerie](https://gamebanana.com/mods/45746) by subii. [Spooky Month Attic](https://gamebanana.com/mods/55037) by Sr Pelo imported by Starboy8883.
 
 * [Shiver](https://gamebanana.com/mods/45662) by JADS and Rozebud.
