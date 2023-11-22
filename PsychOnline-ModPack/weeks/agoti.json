@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Screenplay",
+			"agoti",
+			[
+				186,
+				30,
+				36
+			]
+		],
+		[
+			"Parasite",
+			"agoti",
+			[
+				186,
+				30,
+				36
+			]
+		],
+		[
+			"Skybreaker",
+			"agoti_angry",
+			[
+				186,
+				30,
+				36
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"agotiMenu",
+		"bf",
+		"gf"
+	],
+	"storyName": "Agoti",
+	"weekName": "agoti",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
