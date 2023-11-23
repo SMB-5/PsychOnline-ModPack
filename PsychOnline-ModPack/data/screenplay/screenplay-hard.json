@@ -3637,7 +3637,7 @@
 		"disableNoteRGB": true,
 		"stage": "void",
 		"arrowSkin": "AGOTI_Notes",
-		"splashSkin": "agotinoteSplashes",
+		"splashSkin": "noteSplashes/noteSplashes-entity",
 		"needsVoices": true,
 		"sections": 0,
 		"speed": 2.8,

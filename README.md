@@ -21,6 +21,8 @@ Click on the green button that says code then click download zip. Extract the zi
 
 * [Hazy River](https://gamebanana.com/mods/374660) by Atsuover, RageMiner, dyl, nicky and lagoAnims.
 
+* [Entity/Agoti](https://gamebanana.com/mods/284934) by Sugarratio, Tenzubushi, EbolaHorny, Moro Nighteye, GrassJeak, jyrocopter, NetBa, Cherri, Mercurie, MashProTato, elikapika, TheInnuendo, Saruky_, Mamon, MartyKrimson74, Rozebud, CDMusic, orenji, kaydotnet, srPerez, Ash, Hazelpy, Taeyai, s0kudo, Sulayre, AlchoholicDj, Pointy, Cerbera and Kullix.
+
 * [VS Sky](https://gamebanana.com/mods/370008) by By bb-panzu, Alexander0110_ and Dra9onSlayer5.
 
 * [Eerie](https://gamebanana.com/mods/45746) by subii. [Spooky Month Attic](https://gamebanana.com/mods/55037) by Sr Pelo imported by Starboy8883.

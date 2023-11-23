@@ -4358,7 +4358,7 @@
 		"offset": 0,
 		"song": "Parasite",
 		"arrowSkin": "AGOTI_Notes",
-		"splashSkin": "agotinoteSplashes",
+		"splashSkin": "noteSplashes/noteSplashes-entity",
 		"validScore": true,
 		"speed": 2.8,
 		"sectionLengths": [],

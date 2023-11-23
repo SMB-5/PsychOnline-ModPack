@@ -5222,7 +5222,7 @@
 			}
 		],
 		"gfVersion": "gf-empty",
-		"splashSkin": "agotinoteSplashes",
+		"splashSkin": "noteSplashes/noteSplashes-entity",
 		"song": "Skybreaker",
 		"disableNoteRGB": true,
 		"validScore": true,
