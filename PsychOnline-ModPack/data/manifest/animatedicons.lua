@@ -5,7 +5,8 @@ function onCreate()
 		addAnimationByPrefix('animatedicon', 'losing', 'ManifestAngryIcon', 300, true)
 		setScrollFactor('animatedicon', 0, 0)
 		setObjectCamera('animatedicon', 'hud')
-                setObjectOrder('animatedicon', getObjectOrder("iconP2"))
+			setObjectOrder('animatedicon', getObjectOrder("iconP2"))
+
 		addLuaSprite('animatedicon', true)
 		objectPlayAnimation('animatedicon', 'normal', false)
 		setProperty('animatedicon.visible', false)
@@ -13,12 +14,13 @@ function onCreate()
 end
 
 function onUpdate(elapsed)
-    if curStep >= 0 then
-	setProperty('iconP2.alpha', 0)
-	setProperty('animatedicon.visible', true)
+	if curStep >= 0 then
+		setProperty('iconP2.alpha', 0)
+		setProperty('animatedicon.visible', true)
 	else
-	setProperty('iconP2.alpha', 1)
+		setProperty('iconP2.alpha', 1)
 	end
+
 	if dadName == 'manifest' then
 		if getProperty('health') > 1.6 then
 			objectPlayAnimation('animatedicon', 'losing', false)
@@ -27,6 +29,7 @@ function onUpdate(elapsed)
 		end
 	end
 	setProperty('camOther.zoom', getProperty('camHUD.zoom'))
+
 	setProperty('animatedicon.x', getProperty('iconP2.x'))
 	setProperty('animatedicon.angle', getProperty('iconP2.angle'))
 	setProperty('animatedicon.y', getProperty('iconP2.y') + 15)

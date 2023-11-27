@@ -7,9 +7,8 @@ function onCreate()
 	objectPlayAnimation('halloweenBG', 'halloweem bg', true);
 end
 
-lightningStrikeBeat = 0
-lightningOffset = 8
-
+local lightningStrikeBeat = 0
+local lightningOffset = 8
 function lightningStrikeShit()
 	playSound('thunder_' ..  math.random(1,2), 0.5);
 
@@ -20,6 +19,6 @@ end
 function onBeatHit()
 	checkValue = math.random(0,10);
 	if checkValue == 10 and curBeat > lightningStrikeBeat + lightningOffset then
-		lightningStrikeShit()
+		lightningStrikeShit();
 	end
 end

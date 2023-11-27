@@ -13,6 +13,10 @@ function onCreate()
 	updateHitbox('eff')
 	setBlendMode('eff','multiply')
 	addLuaSprite('eff', false);
+
+	if not flashingLights then
+		close(false);
+	end
 end
 
 function onUpdatePost()

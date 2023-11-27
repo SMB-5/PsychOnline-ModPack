@@ -8,5 +8,5 @@ function onCreate()
 	addLuaSprite('stageback', false);
 	addLuaSprite('stagefront', false);
 	
-	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
+	close(false); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
 end

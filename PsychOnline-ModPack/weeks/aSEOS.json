@@ -53,7 +53,7 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekName": "Garcello",
 	"hiddenUntilUnlocked": false
 }
