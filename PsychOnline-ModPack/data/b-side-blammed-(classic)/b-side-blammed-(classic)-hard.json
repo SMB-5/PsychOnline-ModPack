@@ -1,8 +1,8 @@
 {
 	"song": {
 		"sectionLengths": [],
-		"player1": "bf",
-		"player2": "pico",
+		"player1": "bside-classic-bf",
+		"player2": "bside-classic-pico",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -3452,7 +3452,7 @@
 				"bpm": 172
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "bside-classic-gf",
 		"events": [],
 		"player3": null,
 		"song": "B-Side Blammed (Classic)",

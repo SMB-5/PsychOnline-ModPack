@@ -31,10 +31,12 @@ Click on the green button that says code then click download zip. Extract the zi
 
 * [Rainbow Tylenol](https://gamejolt.com/games/tylenol/661011) by LiterallyNoOne.
 
+* [B Side Remixes](https://gamebanana.com/mods/42724) by Rozebud, JADS, Cval, elikapika and fluffyhairs.
+
 ### Modpack Creators
 
 * SMB-5 - Modpack Creator/Owner, Main Contributor.
 
-* galactic_2005 - Charting, Coding.
+* galactic_2005 - Contributor, Charting, Coding.
 
 * [The Concealed Cow](https://gamebanana.com/members/1739194) - ONLINE VS Psych Engine ports.

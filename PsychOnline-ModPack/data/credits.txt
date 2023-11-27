@@ -8,9 +8,10 @@ Entity/Agoti::entity::by Sugarratio, Tenzubushi, EbolaHorny, Moro Nighteye, Gras
 VS Sky::sky::By bb-panzu, Alexander0110_ and Dra9onSlayer5.::https://gamebanana.com/mods/370008::9c6ecc
 Errie::spookeez::By subii. Stage by Sr Pelo imported by Starboy8883.::https://gamebanana.com/mods/45746::0xFFd57e00
 Shiver::spookeez::By JADS and Rozebud.::https://gamebanana.com/mods/45662::0xFFd57e00
-Rainbow Tylenol::senpai::by LiterallyNoOne.::https://gamejolt.com/games/tylenol/661011::ffaa6f
+Rainbow Tylenol::senpai::By LiterallyNoOne.::https://gamejolt.com/games/tylenol/661011::ffaa6f
+B Side Remixes::placeholder::By Rozebud, JADS, Cval, elikapika and fluffyhairs::https://gamebanana.com/mods/42724::fb97c2
 
 Modpack Credits
 SMB::smb::Modpack Creator/Owner, Main Contributor.::https://smb-bio.carrd.co/::0xFFEC1C26
-galactic_2005::placeholder::Charting, Coding.::https://twitter.com/galactic_2005::0ed145
+galactic_2005::placeholder::Contributor, Charting, Coding.::https://twitter.com/galactic_2005::0ed145
 TheConcealedCow::concow::ONLINE VS Psych Engine ports.::https://gamebanana.com/members/1739194::0xFF45B4EC
