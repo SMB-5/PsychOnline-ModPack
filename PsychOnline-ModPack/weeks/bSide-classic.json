@@ -1,0 +1,30 @@
+{
+	"difficulties": "hard",
+	"weekBackground": "stage",
+	"songs": [
+		["B-Side Tutorial (Classic)", "bside-classic-gf", [219, 150, 154]],
+		["B-Side Bopeebo (Classic)", "bside-classic-dad", [219, 150, 154]],
+		["B-Side Fresh (Classic)", "bside-classic-dad", [219, 150, 154]],
+		["B-Side Dadbattle (Classic)", "bside-classic-dad", [219, 150, 154]],
+		["B-Side Spookeez (Classic)", "bside-classic-spooky", [34, 51, 68]],
+		["B-Side South (Classic)", "bside-classic-spooky", [34, 51, 68]],
+		["B-Side Pico (Classic)", "bside-classic-pico", [148, 22, 83]],
+		["B-Side Philly Nice (Classic)", "bside-classic-pico", [148, 22, 83]],
+		["B-Side Blammed (Classic)", "bside-classic-pico", [148, 22, 83]]
+	],
+
+	"weekCharacters": ["dad", "bf", "gf"],
+	"freeplayColor": [
+		21,
+		89,
+		101
+	],
+
+	"storyName": "B Sides Classic",
+	"weekBefore": "",
+	"weekName": "B-Sides Classic",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

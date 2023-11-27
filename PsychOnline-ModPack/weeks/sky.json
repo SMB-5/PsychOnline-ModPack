@@ -31,7 +31,7 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "shift",
-	"difficulties": "",
+	"difficulties": "hard",
 	"weekCharacters": [
 		"sky",
 		"bf",
@@ -44,7 +44,7 @@
 		113,
 		253
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
 }

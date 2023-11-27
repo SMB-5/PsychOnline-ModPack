@@ -83,6 +83,5 @@ function onCreate()
 	setProperty('boyfriendGroup.antialiasing', true);
 	setObjectOrder('boyfriendGroup', 15);
 
-
-	close(true);
+	close(false);
 end
