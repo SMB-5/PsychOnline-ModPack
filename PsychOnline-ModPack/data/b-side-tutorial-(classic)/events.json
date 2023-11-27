@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				1500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				2500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				3500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				5500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				6500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				7750,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				7875,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bside-classic-bf"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bside-classic-gf"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"Dad"
+					]
+				]
+			],
+			[
+				15500,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				23500,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				31500,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				39500,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			]
+		]
+	}
+}
