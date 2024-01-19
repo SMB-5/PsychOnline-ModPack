@@ -7,6 +7,10 @@ If you have a mod or mods you want added create a Pull Request and I will have a
 ## Installation
 Click on the green button that says code then click download zip. Extract the zip file and open the folder. Next drag PsychOnline-ModPack into your mods folder and enjoy.
 
+If you are playing online with your opponent and they have the modpack but it says something like they don't have a song.json make sure they are using the latest version of the modpack. If that doesn't fix the issue send them your data folder in the modpack (mods/PsychOnline-ModPack/data) and it should resolve the issue.
+
+NOTE: Currently this modpack does not work properly due to a weird bug with the latest version of PsychEngine Online. It is recomended that you use [version 0.2.3](https://github.com/Snirozu/Funkin-Psych-Online/releases/tag/0.2.3) and run your own server for the time being. I will remove this message and the txt file when the issue has been resolved.
+
 ## Credits
 
 ### Original Mods
@@ -22,6 +26,8 @@ Click on the green button that says code then click download zip. Extract the zi
 * [Hazy River](https://gamebanana.com/mods/374660) by Atsuover, RageMiner, dyl, nicky and lagoAnims.
 
 * [Entity/Agoti](https://gamebanana.com/mods/284934) by Sugarratio, Tenzubushi, EbolaHorny, Moro Nighteye, GrassJeak, jyrocopter, NetBa, Cherri, Mercurie, MashProTato, elikapika, TheInnuendo, Saruky_, Mamon, MartyKrimson74, Rozebud, CDMusic, orenji, kaydotnet, srPerez, Ash, Hazelpy, Taeyai, s0kudo, Sulayre, AlchoholicDj, Pointy, Cerbera and Kullix.
+
+* [Vs. LSE](https://gamebanana.com/mods/358645) by LongestSoloEver, SAMH, iFlicky, StarBreak, Serkoid, BCTIX, Norbee, Cerbera, niffirg, Polarin, Eun, FullCombro, MarbleInsanity, Manicies, SPACE_DUST_, Cougar MacDowall, Victoria Rose and Kerebuu.
 
 * [VS Sky](https://gamebanana.com/mods/370008) by By bb-panzu, Alexander0110_ and Dra9onSlayer5.
 

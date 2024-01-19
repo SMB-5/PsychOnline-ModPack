@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				87843.1372549019,
+				[
+					[
+						"Shader Glitch",
+						"0.010",
+						"2.5"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				88235.294117647,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				89803.9215686274,
+				[
+					[
+						"Shader Glitch",
+						"0.010",
+						"2.5"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				90196.0784313725,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				90980.3921568627,
+				[
+					[
+						"Shader Glitch",
+						"0.010",
+						"2.5"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				92941.1764705882,
+				[
+					[
+						"Shader Glitch",
+						"0.010",
+						"2.5"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				94117.6470588235,
+				[
+					[
+						"Shader Glitch",
+						"0.010",
+						"2.5"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				94509.8039215686,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				96078.431372549,
+				[
+					[
+						"Shader Glitch",
+						"0.010",
+						"2.5"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				96470.5882352941,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				97254.9019607843,
+				[
+					[
+						"Shader Glitch",
+						"0.010",
+						"2.5"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				99215.6862745098,
+				[
+					[
+						"Shader Glitch",
+						"0.010",
+						"2.5"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

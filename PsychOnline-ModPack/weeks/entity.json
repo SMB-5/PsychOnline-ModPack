@@ -1,0 +1,50 @@
+{
+	"storyName": "Entity",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Shotgun Shell",
+			"aldryx",
+			[
+				67,
+				67,
+				67
+			]
+		],
+		[
+			"Venom Shred",
+			"aldryx",
+			[
+				67,
+				67,
+				67
+			]
+		],
+		[
+			"Godrays",
+			"sol",
+			[
+				76,
+				209,
+				226
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "entity",
+	"hiddenUntilUnlocked": false
+}
