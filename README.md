@@ -9,8 +9,6 @@ Click on the green button that says code then click download zip. Extract the zi
 
 If you are playing online with your opponent and they have the modpack but it says something like they don't have a song.json make sure they are using the latest version of the modpack. If that doesn't fix the issue send them your data folder in the modpack (mods/PsychOnline-ModPack/data) and it should resolve the issue.
 
-NOTE: Currently this modpack does not work properly due to a weird bug with the latest version of PsychEngine Online. It is recomended that you use [version 0.2.3](https://github.com/Snirozu/Funkin-Psych-Online/releases/tag/0.2.3) and run your own server for the time being. I will remove this message and the txt file when the issue has been resolved.
-
 ## Credits
 
 ### Original Mods
