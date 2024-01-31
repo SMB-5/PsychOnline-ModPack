@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Experimental Phase",
+			"daidem",
+			[
+				84,
+				155,
+				149
+			]
+		],
+		[
+			"Perfection",
+			"daidem",
+			[
+				84,
+				155,
+				149
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Origins: Breakout",
+	"weekName": "origins",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

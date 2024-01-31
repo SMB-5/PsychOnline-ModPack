@@ -25,6 +25,8 @@ If you are playing online with your opponent and they have the modpack but it sa
 
 * [Entity/Agoti](https://gamebanana.com/mods/284934) by Sugarratio, Tenzubushi, EbolaHorny, Moro Nighteye, GrassJeak, jyrocopter, NetBa, Cherri, Mercurie, MashProTato, elikapika, TheInnuendo, Saruky_, Mamon, MartyKrimson74, Rozebud, CDMusic, orenji, kaydotnet, srPerez, Ash, Hazelpy, Taeyai, s0kudo, Sulayre, AlchoholicDj, Pointy, Cerbera and Kullix.
 
+* [Entity Origins: Breakout](https://gamebanana.com/mods/319127) by Tenzubushi, TheInnuendo, kaydotnet, liquidmercury and Kullix.
+
 * [Vs. LSE](https://gamebanana.com/mods/358645) by LongestSoloEver, SAMH, iFlicky, StarBreak, Serkoid, BCTIX, Norbee, Cerbera, niffirg, Polarin, Eun, FullCombro, MarbleInsanity, Manicies, SPACE_DUST_, Cougar MacDowall, Victoria Rose and Kerebuu.
 
 * [VS Sky](https://gamebanana.com/mods/370008) by By bb-panzu, Alexander0110_ and Dra9onSlayer5.
