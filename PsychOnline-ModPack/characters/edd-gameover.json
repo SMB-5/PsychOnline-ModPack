@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "EddGameOver",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-86,
+				10
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "EddRetryLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				48
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "EddRetryConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/edd/edd-gameover",
+	"position": [
+		-80,
+		0
+	],
+	"healthicon": "edd",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.046
+}

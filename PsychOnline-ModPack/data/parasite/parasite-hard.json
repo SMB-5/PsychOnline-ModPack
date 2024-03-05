@@ -4373,7 +4373,7 @@
 			}
 		],
 		"stage": "void",
-		"disableNoteRGB": true,
+		"disableNoteRGB": false,
 		"needsVoices": true,
 		"sections": 0,
 		"bpm": 160,

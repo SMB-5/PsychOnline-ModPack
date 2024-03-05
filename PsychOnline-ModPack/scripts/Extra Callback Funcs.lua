@@ -1,6 +1,121 @@
 function onCreate()
 	addHaxeLibrary('LuaUtils', 'psychlua');
 	runHaxeCode([[
+		import psychlua.LuaUtils;
+		import flixel.group.FlxTypedGroup;
+		import flixel.group.FlxTypedSpriteGroup;
+		
+		function sizeUpOff(obj:String, s:Float) {
+			var o = LuaUtils.getObjectDirectly(obj, false);
+			 for(i in o.animOffsets.keys()) {
+				o.animOffsets[i][0] *= s;
+				o.animOffsets[i][1] *= s;
+			}
+			
+			var currFrame = o.animation.curAnim.curFrame;
+			o.playAnim(o.animation.curAnim.name, true);
+			o.animation.curAnim.curFrame = currFrame;
+		}
+		
+		var widthOff = ((640 / 0.7) - 640);
+		var heightOff = ((360 / 0.7) - 360);
+		
+		createGlobalCallback('subScrollPos', function(s) {
+			return [widthOff * (s - 1), heightOff * (s - 1)];
+		});
+		
+		createGlobalCallback('resizeOffsets', function(o:String, s:Float) {
+			sizeUpOff(o, s);
+		});
+		
+		createGlobalCallback('makeGroup', function(o) {
+			var grp:FlxTypedGroup<FlxBasic>;
+			grp = new FlxTypedGroup();
+			setVar(o, grp);
+		});
+		
+		createGlobalCallback('makeSpriteGrp', function(o, ?x, ?y) {
+			var grp:FlxTypedSpriteGroup<FlxSprite>;
+			grp = new FlxTypedSpriteGroup(x, y);
+			setVar(o, grp);
+		});
+		
+		createGlobalCallback('addToGrp', function(o, g) {
+			getVar(g).add(LuaUtils.getObjectDirectly(o, false));
+		});
+		
+		createGlobalCallback('setObjFrameRate', function(o, a, f) {
+			return LuaUtils.getObjectDirectly(o, false).animation._animations.get(a).frameRate = f;
+		});
+		
+		createGlobalCallback('setLoopPoint', function(o, a, l) {
+			return LuaUtils.getObjectDirectly(o, false).animation._animations.get(a).loopPoint = l;
+		});
+		
+		createGlobalCallback('setObjAlpha', function(o, a) {
+			var b = LuaUtils.getObjectDirectly(o, false);
+			return b.alpha = a;
+		});
+		
+		createGlobalCallback('getObjCen', function(o:String) {
+			var b = LuaUtils.getObjectDirectly(o, false);
+			return [(b.frameWidth - b.width) * 0.5, (b.frameHeight - b.height) * 0.5];
+		});
+		
+		createGlobalCallback('getObjPos', function(b) {
+			var h = LuaUtils.getObjectDirectly(b, false);
+			return [h.x, h.y];
+		});
+		
+		createGlobalCallback('setObjPos', function(b, x, y) {
+			LuaUtils.getObjectDirectly(b, false).setPosition(x, y);
+		});
+		
+		createGlobalCallback('getObjX', function(o) {
+			return LuaUtils.getObjectDirectly(o, false).x;
+		});
+		
+		createGlobalCallback('setObjX', function(o, x) {
+			var sp = LuaUtils.getObjectDirectly(o, false);
+			sp.x = x;
+		});
+		
+		createGlobalCallback('getObjY', function(o) {
+			return LuaUtils.getObjectDirectly(o, false).y;
+		});
+		
+		createGlobalCallback('addToY', function(o, y) {
+			var sp = LuaUtils.getObjectDirectly(o, false);
+			sp.y += y;
+		});
+		
+		createGlobalCallback('getCurFrame', function(o) {
+			return LuaUtils.getObjectDirectly(o, false).animation.curAnim.curFrame;
+		});
+		
+		createGlobalCallback('setCurFrame', function(o, f) {
+			LuaUtils.getObjectDirectly(o, false).animation.curAnim.curFrame = f;
+		});
+		
+		createGlobalCallback('setObjectColor', function(o, c) {
+			LuaUtils.getObjectDirectly(o, false).color = c;
+		});
+		
+		createGlobalCallback('setCamFollow', function(?x:Float = 0., ?y:Float = 0.) {
+			game.camFollow.setPosition(x, y);
+		});
+		
+		createGlobalCallback('removeObjOnFinishAnim', function(o) {
+			var obj = LuaUtils.getObjectDirectly(o, false);
+			obj.animation.finishCallback = function() {
+				parentLua.call('removeLuaSprite', [o]);
+			}
+		});
+		
+		createGlobalCallback('reloadHealthBar', function() {
+			game.reloadHealthBarColors();
+		});
+		
 		function sizeUpOff(obj:String, s:Float) {
 			var o = LuaUtils.getObjectDirectly(obj, false);
 			 for(i in o.animOffsets.keys()) {

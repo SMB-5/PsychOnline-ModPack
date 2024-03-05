@@ -1,8 +1,9 @@
 Mods used in this modpack
-Darnell Leaked Week::darnell::Sprites by Phantom Arcade, Songs by Kawai Sprite?, Stage from Darnell 4chan fake leak.::https://gamebanana.com/mods/387743::0xFF5f558e
+Darnell Leaked Week::darnell::Sprites by Phantom Arcade, Songs by Kawai Sprite, Stage from Darnell 4chan fake leak.::https://gamebanana.com/mods/387743::0xFF5f558e
 Mind Games::mind games::By riveren, Shadow Mario, iFlicky, Leomming, PJsVoiceArts, lymph, longestsoloever and ScaredMotion.::https://gamebanana.com/mods/301107::0xFF580787
 Online VS::onlinevs::By TheBlueHatted, FifLeo, philipllo, Banbuds, Zeroh and kiwiquest::https://gamebanana.com/mods/286594::ff0000
 VS Whitty::whitty::By Sock.clip, Nate Anim8, bbpanzu, KadeDev, juliaa_, TheOnlyVolume, El Senor Beast, tictacto and 8-Bit Nostalgia.::https://gamebanana.com/mods/354884::0xFF708090
+The Full-Ass Tricky Mod::tricky::By BanBuds, Rozebud, KadeDev, Cval, YingYang48, JADS and Moro::https://gamebanana.com/mods/44334::0xFFff0000
 Hazy River::ga::By Atsuover, RageMiner, dyl, nicky and lagoAnims.::https://gamebanana.com/mods/374660::0xFF00fa9a
 Entity/Agoti::entity::by Sugarratio, Tenzubushi, EbolaHorny, Moro Nighteye, GrassJeak, jyrocopter, NetBa, Cherri, Mercurie, MashProTato, elikapika, TheInnuendo, Saruky_, Mamon, MartyKrimson74, Rozebud, CDMusic, orenji, kaydotnet, srPerez, Ash, Hazelpy, Taeyai, s0kudo, Sulayre, AlchoholicDj, Pointy, Cerbera and Kullix.::https://gamebanana.com/mods/284934::0xFFba1e24
 Entity Origins: Breakout::origins::by Tenzubushi, TheInnuendo, kaydotnet, liquidmercury and Kullix::https://gamebanana.com/mods/319127::559b95

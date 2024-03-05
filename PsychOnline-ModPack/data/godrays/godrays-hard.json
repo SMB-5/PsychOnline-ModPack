@@ -3989,7 +3989,7 @@
 		"player3": "gf-glow",
 		"song": "Godrays",
         "stage": "city",
-		"disableNoteRGB": true,
+		"disableNoteRGB": false,
 		"arrowSkin": "AGOTI_Notes",
 		"splashSkin": "noteSplashes/noteSplashes-entity",
 		"validScore": true,

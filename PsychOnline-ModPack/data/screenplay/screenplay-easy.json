@@ -3610,6 +3610,7 @@
 		"player2": "agoti",
 		"player3": "gf-rock",
 		"song": "Screenplay",
+		"disableNoteRGB": false,
 		"needsVoices": true,
 		"sections": 0,
 		"stage": "void",

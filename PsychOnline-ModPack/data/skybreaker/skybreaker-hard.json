@@ -5224,7 +5224,7 @@
 		"gfVersion": "gf-empty",
 		"splashSkin": "noteSplashes/noteSplashes-entity",
 		"song": "Skybreaker",
-		"disableNoteRGB": true,
+		"disableNoteRGB": false,
 		"validScore": true,
 		"stage": "void-crazy",
 		"arrowSkin": "AGOTI_Notes",

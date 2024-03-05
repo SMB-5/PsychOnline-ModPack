@@ -3634,7 +3634,7 @@
 		"player3": "gf-rock",
 		"song": "Screenplay",
 		"validScore": true,
-		"disableNoteRGB": true,
+		"disableNoteRGB": false,
 		"stage": "void",
 		"arrowSkin": "AGOTI_Notes",
 		"splashSkin": "noteSplashes/noteSplashes-entity",

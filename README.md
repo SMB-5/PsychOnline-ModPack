@@ -21,6 +21,8 @@ If you are playing online with your opponent and they have the modpack but it sa
 
 * [V.S. Whitty](https://gamebanana.com/mods/354884) by Sock.clip, Nate Anim8, bbpanzu, KadeDev, juliaa_, TheOnlyVolume, El Senor Beast, tictacto and 8-Bit Nostalgia.
 
+* [The Full-Ass Tricky Mod](https://gamebanana.com/mods/44334) by BanBuds, Rozebud, KadeDev, Cval, YingYang48, JADS and Moro.
+
 * [Hazy River](https://gamebanana.com/mods/374660) by Atsuover, RageMiner, dyl, nicky and lagoAnims.
 
 * [Entity/Agoti](https://gamebanana.com/mods/284934) by Sugarratio, Tenzubushi, EbolaHorny, Moro Nighteye, GrassJeak, jyrocopter, NetBa, Cherri, Mercurie, MashProTato, elikapika, TheInnuendo, Saruky_, Mamon, MartyKrimson74, Rozebud, CDMusic, orenji, kaydotnet, srPerez, Ash, Hazelpy, Taeyai, s0kudo, Sulayre, AlchoholicDj, Pointy, Cerbera and Kullix.

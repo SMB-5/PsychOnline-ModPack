@@ -1,0 +1,167 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "EduardoIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				4,
+				5
+			],
+			"fps": 12,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "EduardoIdle"
+		},
+		{
+			"offsets": [
+				2,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "EduardoLeft"
+		},
+		{
+			"offsets": [
+				2,
+				-6
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "EduardoLeft"
+		},
+		{
+			"offsets": [
+				13,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "EduardoDown"
+		},
+		{
+			"offsets": [
+				13,
+				-20
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "EduardoDown"
+		},
+		{
+			"offsets": [
+				-17,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "EduardoUp"
+		},
+		{
+			"offsets": [
+				-17,
+				20
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "EduardoUp"
+		},
+		{
+			"offsets": [
+				-3,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EduardoRight"
+		},
+		{
+			"offsets": [
+				-3,
+				-6
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "EduardoRight"
+		},
+		{
+			"offsets": [
+				-3,
+				2
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "hey",
+			"loop": false,
+			"name": "EduardoWell"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eduardo/eduardo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "eduardo",
+	"flip_x": false,
+	"healthbar_colors": [
+		17,
+		113,
+		43
+	],
+	"camera_position": [
+		-194,
+		-7
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -6686,7 +6686,7 @@
 		"gfVersion": "gf-market",
 		"player3": "gf-market",
 		"song": "venom-shred",
-		"disableNoteRGB": true,
+		"disableNoteRGB": false,
 		"arrowSkin": "AGOTI_Notes",
 		"splashSkin": "noteSplashes/noteSplashes-entity",
 		"needsVoices": true,

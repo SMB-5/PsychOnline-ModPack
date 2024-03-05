@@ -3753,6 +3753,7 @@
 		"song": "Parasite",
 		"arrowSkin": "AGOTI_Notes",
 		"splashSkin": "agotinoteSplashes",
+		"disableNoteRGB": false,
 		"validScore": true,
 		"speed": 2.6,
 		"sectionLengths": [],

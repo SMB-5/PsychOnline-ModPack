@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "EddSideIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				4,
+				5
+			],
+			"fps": 12,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "EddSideIdle"
+		},
+		{
+			"offsets": [
+				5,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "EddSideLeft"
+		},
+		{
+			"offsets": [
+				5,
+				3
+			],
+			"indices": [
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "EddSideLeft"
+		},
+		{
+			"offsets": [
+				26,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "EddSideDown"
+		},
+		{
+			"offsets": [
+				26,
+				-60
+			],
+			"indices": [
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "EddSideDown"
+		},
+		{
+			"offsets": [
+				-19,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "EddSideUp"
+		},
+		{
+			"offsets": [
+				-19,
+				38
+			],
+			"indices": [
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "EddSideUp"
+		},
+		{
+			"offsets": [
+				-9,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EddSideRight"
+		},
+		{
+			"offsets": [
+				-9,
+				-1
+			],
+			"indices": [
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "EddSideRight"
+		},
+		{
+			"offsets": [
+				2,
+				13
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "turn",
+			"loop": false,
+			"name": "EddTurnAround"
+		},
+		{
+			"offsets": [
+				2,
+				13
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 19,
+			"anim": "turn-loop",
+			"loop": true,
+			"name": "EddTurnAround"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/edd/edd-side",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		-305.708,
+		53
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

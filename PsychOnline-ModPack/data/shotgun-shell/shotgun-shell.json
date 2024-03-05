@@ -4211,7 +4211,7 @@
 		"player3": "gf-market",
 		"song": "Shotgun-Shell",
 		"stage": "market",
-		"disableNoteRGB": true,
+		"disableNoteRGB": false,
 		"arrowSkin": "AGOTI_Notes",
 		"splashSkin": "noteSplashes/noteSplashes-entity",
 		"validScore": true,

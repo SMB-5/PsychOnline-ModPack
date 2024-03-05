@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"challeng-edd",
+			"edd",
+			[
+				51,
+				173,
+				51
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "eddsworld",
+	"difficulties": "Hard,Fucked",
+	"weekCharacters": [
+		"edd",
+		"bf",
+		"gf"
+	],
+	"storyName": "Edd's Crappy Challenge",
+	"weekName": "challeng-edd",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
