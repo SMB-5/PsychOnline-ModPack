@@ -1,4 +1,4 @@
-# PsychOnline ModPack
+# SMB's PsychOnline ModPack
 
 An unoffical open-source modpack for [Psych Engine Online](https://github.com/Snirozu/Funkin-Psych-Online). Contains popular mods such as Mind Games, Online VS, Whitty and many more.
 
@@ -12,8 +12,6 @@ If you are playing online with your opponent and they have the modpack but it sa
 ## Credits
 
 ### Original Mods
-
-* [Darnell Fake Leak](https://gamebanana.com/mods/387743) by EvilVaye, westy_yeehaw, fabrDX, mollyTov, HejjoDude, Mark_Zer0, dif and RojÃ³.
 
 * [Mind Games](https://gamebanana.com/mods/301107) by riveren, Shadow Mario, iFlicky, Leomming, PJsVoiceArts, lymph, longestsoloever and ScaredMotion.
 
