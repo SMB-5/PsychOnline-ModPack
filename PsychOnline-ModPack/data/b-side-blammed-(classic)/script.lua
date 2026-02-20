@@ -101,6 +101,7 @@ end
 
 function updateBackgroundPosition()
 	setProperty('phillyWindow.x', getProperty('phillyWindow.x') + 50)
+	setProperty('phillyWindow.visible', false)
 
 	if getProperty('phillyWindow.x') > -1309.65 then
 		setProperty('phillyWindow.x', -2776.4)
@@ -117,6 +118,7 @@ function toggleEvent()
 		setProperty('streetBehind.visible', true)
 		setProperty('phillyStreet.visible', true)
 		setProperty('phillyTrain.visible', true)
+		setProperty('phillyWindow.visible', true)
 
 		setProperty('boyfriend.color', 0xFFFFFF)
 		setProperty('dad.color', 0xFFFFFF)

@@ -1,6 +1,7 @@
 local characterZooms = {0, 0}
 
 function onCreatePost()
+	setProperty('dad.visible', false)
 	if getProperty('defaultCamZoom') == 0 then
 		setProperty('defaultCamZoom', 1)
 	end
