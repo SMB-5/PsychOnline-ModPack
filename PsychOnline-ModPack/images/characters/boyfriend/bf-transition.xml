@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf-transition.png" width="2389" height="1545">
+	<SubTexture name="BFOthersideUhoh0001" x="1" y="593"  width="414" height="400" frameX="-12" frameY="-39" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0002" x="1053" y="647"  width="408" height="408" frameX="-14" frameY="-32" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0003" x="1" y="995"  width="409" height="409" frameX="-13" frameY="-31" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0004" x="412" y="1000"  width="408" height="410" frameX="-14" frameY="-30" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0005" x="412" y="1000"  width="408" height="410" frameX="-14" frameY="-30" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0006" x="412" y="1000"  width="408" height="410" frameX="-14" frameY="-30" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0007" x="412" y="1000"  width="408" height="410" frameX="-14" frameY="-30" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0008" x="412" y="1000"  width="408" height="410" frameX="-14" frameY="-30" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0009" x="822" y="1057"  width="450" height="419" frameX="-0" frameY="-16" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0010" x="1093" y="280"  width="414" height="365" frameX="-59" frameY="-81" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0011" x="1" y="246"  width="450" height="345" frameX="-63" frameY="-98" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0012" x="1274" y="1110"  width="712" height="434" frameX="-98" frameY="-6" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0013" x="1463" y="715"  width="607" height="393" frameX="-250" frameY="-0" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0014" x="453" y="270"  width="638" height="357" frameX="-277" frameY="-25" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0015" x="417" y="629"  width="634" height="369" frameX="-367" frameY="-64" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0016" x="700" y="1"  width="484" height="267" frameX="-533" frameY="-169" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0017" x="1" y="1"  width="351" height="236" frameX="-712" frameY="-203" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0018" x="354" y="1"  width="344" height="243" frameX="-775" frameY="-196" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0019" x="1641" y="1"  width="343" height="301" frameX="-823" frameY="-144" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0020" x="1186" y="1"  width="453" height="277" frameX="-776" frameY="-167" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0021" x="1986" y="1"  width="402" height="328" frameX="-812" frameY="-118" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0022" x="1509" y="304"  width="358" height="366" frameX="-831" frameY="-91" frameWidth="1229" frameHeight="457"/>
+	<SubTexture name="BFOthersideUhoh0023" x="1869" y="331"  width="406" height="382" frameX="-802" frameY="-69" frameWidth="1229" frameHeight="457"/>
+</TextureAtlas>

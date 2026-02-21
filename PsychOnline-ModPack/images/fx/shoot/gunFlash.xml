@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="gunFlash.png" width="829" height="724">
+	<SubTexture name="AlienMussleFlashDef0001" x="1" y="286"  width="295" height="340" frameX="-6" frameY="-16" frameWidth="549" frameHeight="380"/>
+	<SubTexture name="AlienMussleFlashDef0002" x="1" y="1"  width="429" height="283" frameX="-22" frameY="-66" frameWidth="549" frameHeight="380"/>
+	<SubTexture name="AlienMussleFlashDef0003" x="298" y="375"  width="530" height="348" frameX="-8" frameY="-5" frameWidth="549" frameHeight="380"/>
+	<SubTexture name="AlienMussleFlashDef0004" x="432" y="1"  width="198" height="338" frameX="-211" frameY="-3" frameWidth="549" frameHeight="380"/>
+	<SubTexture name="AlienMussleFlashDef0005" x="632" y="1"  width="196" height="372" frameX="-268" frameY="-8" frameWidth="549" frameHeight="380"/>
+	<SubTexture name="AlienMussleFlashDef0006" x="0" y="0"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="549" frameHeight="380"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="shipFire.png" width="982" height="1142">
+	<SubTexture name="ShipFire0001" x="1" y="1"  width="465" height="544" frameX="-10" frameY="-15" frameWidth="508" frameHeight="586"/>
+	<SubTexture name="ShipFire0002" x="473" y="560"  width="508" height="581" frameX="-0" frameY="-5" frameWidth="508" frameHeight="586"/>
+	<SubTexture name="ShipFire0003" x="468" y="1"  width="490" height="557" frameX="-6" frameY="-0" frameWidth="508" frameHeight="586"/>
+	<SubTexture name="ShipFire0004" x="1" y="560"  width="470" height="561" frameX="-6" frameY="-0" frameWidth="508" frameHeight="586"/>
+</TextureAtlas>

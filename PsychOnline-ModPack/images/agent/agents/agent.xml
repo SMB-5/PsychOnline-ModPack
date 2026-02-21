@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="agent.png" width="1298" height="1141">
+	<SubTexture name="AgentWalk0001" x="885" y="1"  width="412" height="373" frameX="-37" frameY="-10" frameWidth="470" frameHeight="385"/>
+	<SubTexture name="AgentWalk0002" x="1" y="1"  width="470" height="330" frameX="-0" frameY="-0" frameWidth="470" frameHeight="385"/>
+	<SubTexture name="AgentWalk0003" x="398" y="374"  width="421" height="376" frameX="-34" frameY="-8" frameWidth="470" frameHeight="385"/>
+	<SubTexture name="AgentWalk0004" x="473" y="1"  width="410" height="371" frameX="-41" frameY="-14" frameWidth="470" frameHeight="385"/>
+  
+	<SubTexture name="AgentIdle0001" x="1" y="333"  width="395" height="376" frameX="-0" frameY="-6" frameWidth="406" frameHeight="382"/>
+	<SubTexture name="AgentIdle0002" x="821" y="376"  width="393" height="380" frameX="-2" frameY="-2" frameWidth="406" frameHeight="382"/>
+	<SubTexture name="AgentIdle0003" x="1" y="752"  width="401" height="380" frameX="-3" frameY="-2" frameWidth="406" frameHeight="382"/>
+	<SubTexture name="AgentIdle0004" x="404" y="752"  width="400" height="381" frameX="-5" frameY="-1" frameWidth="406" frameHeight="382"/>
+	<SubTexture name="AgentIdle0005" x="806" y="758"  width="401" height="382" frameX="-5" frameY="-0" frameWidth="406" frameHeight="382"/>
+</TextureAtlas>

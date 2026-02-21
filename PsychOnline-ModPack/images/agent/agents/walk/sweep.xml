@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="walk-sweep.png" width="1060" height="786">
+	<SubTexture name="AgentSweeping0001" x="1" y="382"  width="513" height="388" frameX="-62" frameY="-2" frameWidth="575" frameHeight="402"/>
+	<SubTexture name="AgentSweeping0002" x="540" y="1"  width="487" height="380" frameX="-37" frameY="-7" frameWidth="575" frameHeight="402"/>
+	<SubTexture name="AgentSweeping0003" x="516" y="383"  width="543" height="402" frameX="-0" frameY="-0" frameWidth="575" frameHeight="402"/>
+	<SubTexture name="AgentSweeping0004" x="1" y="1"  width="537" height="379" frameX="-34" frameY="-9" frameWidth="575" frameHeight="402"/>
+</TextureAtlas>

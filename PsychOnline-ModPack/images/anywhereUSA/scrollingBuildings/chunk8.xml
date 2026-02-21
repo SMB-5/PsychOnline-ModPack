@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="chunk8.png" width="1545" height="684">
+	<SubTexture name="Flash0000" x="0" y="0"  width="1543" height="340" frameX="-0" frameY="-46" frameWidth="1543" frameHeight="437"/>
+	<SubTexture name="Flash0001" x="0" y="342"  width="1543" height="340" frameX="-0" frameY="-46" frameWidth="1543" frameHeight="437"/>
+</TextureAtlas>

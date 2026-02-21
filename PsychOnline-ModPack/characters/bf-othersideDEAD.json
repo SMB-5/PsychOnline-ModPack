@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-43,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "WalkingGAMEOVER"
+		},
+		{
+			"offsets": [
+				-61,
+				5
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "GAMEOVERLoop"
+		},
+		{
+			"offsets": [
+				-61,
+				51
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "GAMEOVERConfirm"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/boyfriend/bf-gameover",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		61,
+		-51
+	],
+	"sing_duration": 4,
+	"scale": 1.03606789,
+	"_editor_isPlayer": true
+}

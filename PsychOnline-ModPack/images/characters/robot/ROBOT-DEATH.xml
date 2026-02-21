@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="ROBOT-DEATH.png" width="4274" height="3843">
+	<SubTexture name="robotHIT!0001" x="1" y="1073"  width="1016" height="697" frameX="-114" frameY="-24" frameWidth="1149" frameHeight="750"/>
+	<SubTexture name="robotHIT!0002" x="2743" y="1156"  width="1130" height="742" frameX="-19" frameY="-1" frameWidth="1149" frameHeight="750"/>
+	<SubTexture name="robotHIT!0003" x="2877" y="573"  width="905" height="581" frameX="-230" frameY="-169" frameWidth="1149" frameHeight="750"/>
+	<SubTexture name="robotHIT!0004" x="1993" y="529"  width="882" height="573" frameX="-236" frameY="-169" frameWidth="1149" frameHeight="750"/>
+	<SubTexture name="robotHIT!0005" x="3404" y="1"  width="869" height="570" frameX="-239" frameY="-169" frameWidth="1149" frameHeight="750"/>
+	<SubTexture name="robotHIT!0006" x="1121" y="528"  width="870" height="570" frameX="-239" frameY="-169" frameWidth="1149" frameHeight="750"/>
+	<SubTexture name="robotHIT!0007" x="3404" y="1"  width="869" height="570" frameX="-239" frameY="-169" frameWidth="1149" frameHeight="750"/>
+	
+	<SubTexture name="fuckedfinalbossSHAKE0001" x="1132" y="1"  width="1119" height="525" frameX="-535" frameY="-229" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossSHAKE0002" x="1" y="1"  width="1129" height="514" frameX="-529" frameY="-241" frameWidth="2064" frameHeight="1094"/>
+	
+	<SubTexture name="fuckedfinalbossDEATH0001" x="1132" y="1"  width="1119" height="525" frameX="-535" frameY="-229" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0002" x="1" y="1"  width="1129" height="514" frameX="-529" frameY="-241" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0003" x="1" y="517"  width="1118" height="554" frameX="-537" frameY="-214" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0004" x="1" y="517"  width="1118" height="554" frameX="-537" frameY="-214" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0005" x="2253" y="1"  width="1149" height="526" frameX="-531" frameY="-210" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0006" x="2253" y="1"  width="1149" height="526" frameX="-531" frameY="-210" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0007" x="1" y="2575"  width="1622" height="974" frameX="-291" frameY="-0" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0008" x="1679" y="1900"  width="1968" height="950" frameX="-48" frameY="-133" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0009" x="1679" y="1900"  width="1968" height="950" frameX="-48" frameY="-133" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0010" x="1625" y="2852"  width="2064" height="990" frameX="-0" frameY="-104" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0011" x="1625" y="2852"  width="2064" height="990" frameX="-0" frameY="-104" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0012" x="1019" y="1104"  width="1722" height="726" frameX="-210" frameY="-88" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0013" x="1019" y="1104"  width="1722" height="726" frameX="-210" frameY="-88" frameWidth="2064" frameHeight="1094"/>
+	<SubTexture name="fuckedfinalbossDEATH0014" x="1" y="1832"  width="1676" height="741" frameX="-230" frameY="-80" frameWidth="2064" frameHeight="1094"/>
+</TextureAtlas>

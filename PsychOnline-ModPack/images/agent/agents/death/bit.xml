@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="alien.png" width="2995" height="1990">
+	<SubTexture name="AgentPrepBiteAlien0001" x="1" y="1168"  width="697" height="592" frameX="-257" frameY="-26" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentPrepBiteAlien0002" x="700" y="1371"  width="697" height="618" frameX="-257" frameY="-0" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentPrepBiteAlien0003" x="2271" y="990"  width="722" height="579" frameX="-232" frameY="-39" frameWidth="1065" frameHeight="625"/>
+  
+	<SubTexture name="AgentBitAlien0001" x="1" y="635"  width="799" height="531" frameX="-128" frameY="-14" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0002" x="1483" y="990"  width="786" height="543" frameX="-141" frameY="-2" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0003" x="1733" y="477"  width="788" height="511" frameX="-141" frameY="-45" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0004" x="967" y="335"  width="764" height="495" frameX="-144" frameY="-94" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0005" x="802" y="832"  width="679" height="537" frameX="-152" frameY="-68" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0006" x="2082" y="1"  width="912" height="474" frameX="-153" frameY="-151" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0007" x="1" y="225"  width="964" height="408" frameX="-79" frameY="-217" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0008" x="1052" y="1"  width="1028" height="332" frameX="-18" frameY="-293" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0009" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0010" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0011" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0012" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0013" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0014" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0015" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0016" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="AgentBitAlien0017" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="AgentBitAlien0018" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0019" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0020" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="AgentBitAlien0021" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="AgentBitAlien0022" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+	<SubTexture name="AgentBitAlien0023" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="AgentBitAlien0024" x="4" y="1"  width="1046" height="222" frameX="-0" frameY="-403" frameWidth="1065" frameHeight="625"/>
+</TextureAtlas>

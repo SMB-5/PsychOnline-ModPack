@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 14,
+			"name": "AlienHominidIdle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				19
+			],
+			"anim": "stare",
+			"fps": 15,
+			"name": "AlienHominidStare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-55
+			],
+			"anim": "dash",
+			"fps": 18,
+			"name": "AlienDash",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-142,
+				12
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "idle",
+			"indices": [],
+			"name": "alienwalkcycle0"
+		},
+		{
+			"offsets": [
+				-122,
+				17
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "alienwalkcycleLEFT"
+		},
+		{
+			"offsets": [
+				-129,
+				-35
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "alienwalkcycleDOWN"
+		},
+		{
+			"offsets": [
+				-139,
+				57
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "singUP",
+			"indices": [],
+			"name": "alienwalkcycleUP"
+		},
+		{
+			"offsets": [
+				-79,
+				26
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "alienwalkcycleRIGHT"
+		},
+		{
+			"offsets": [
+				-170,
+				-266
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "walk",
+			"indices": [],
+			"name": "alienlegsshoot"
+		},
+		{
+			"offsets": [
+				52,
+				34
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "shoot",
+			"indices": [],
+			"name": "AlienHominidShoots"
+		},
+		{
+			"offsets": [
+				11,
+				211
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "stab",
+			"indices": [],
+			"name": "AlienHominidKnifeSwing"
+		},
+		{
+			"offsets": [
+				-126,
+				42
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "jump",
+			"indices": [],
+			"name": "AlienHominidJump0"
+		},
+		{
+			"offsets": [
+				-126,
+				42
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "fall",
+			"loop": false,
+			"name": "AlienHominidFall"
+		},
+		{
+			"offsets": [
+				-126,
+				42
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "jump-shoot",
+			"loop": false,
+			"name": "AlienHominidJumpShoot"
+		},
+		{
+			"offsets": [
+				-53,
+				-16
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "transition",
+			"loop": false,
+			"name": "hominidtransition"
+		},
+		{
+			"offsets": [
+				-58,
+				-76
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "watch-left",
+			"loop": false,
+			"name": "AlienHominidCrouchIdleRight"
+		},
+		{
+			"offsets": [
+				-58,
+				-76
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "watch-right",
+			"loop": false,
+			"name": "AlienHominidCrouchIdleLeft"
+		},
+		{
+			"offsets": [
+				-58,
+				101
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "hey",
+			"loop": true,
+			"name": "AlienHominidVICTORY!!!!"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alien/alien",
+	"position": [
+		-130,
+		318
+	],
+	"healthicon": "alien",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		250,
+		16
+	],
+	"camera_position": [
+		306,
+		-15.5
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

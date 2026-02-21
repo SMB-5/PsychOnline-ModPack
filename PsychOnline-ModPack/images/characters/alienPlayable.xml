@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="alienPlayable.png" width="3028" height="1961">
+	<SubTexture name="AlienHominidIdle0000" x="926" y="884"  width="415" height="459" frameX="-47" frameY="-0" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0001" x="926" y="884"  width="415" height="459" frameX="-47" frameY="-0" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0002" x="944" y="432"  width="459" height="450" frameX="-40" frameY="-9" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0003" x="944" y="432"  width="459" height="450" frameX="-40" frameY="-9" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0004" x="1405" y="432"  width="477" height="450" frameX="-23" frameY="-10" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0005" x="1405" y="432"  width="477" height="450" frameX="-23" frameY="-10" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0006" x="476" y="432"  width="466" height="445" frameX="-0" frameY="-15" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0007" x="476" y="432"  width="466" height="445" frameX="-0" frameY="-15" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0008" x="474" y="879"  width="450" height="457" frameX="-5" frameY="-3" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0009" x="1884" y="433"  width="451" height="454" frameX="-5" frameY="-6" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0010" x="1884" y="433"  width="451" height="454" frameX="-5" frameY="-6" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0011" x="1884" y="433"  width="451" height="454" frameX="-5" frameY="-6" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0012" x="1884" y="433"  width="451" height="454" frameX="-5" frameY="-6" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0013" x="1884" y="433"  width="451" height="454" frameX="-5" frameY="-6" frameWidth="500" frameHeight="460"/>
+	
+	<SubTexture name="HominidLeftPlay0000" x="1" y="432"  width="473" height="439" frameX="-0" frameY="-15" frameWidth="474" frameHeight="454"/>
+	<SubTexture name="HominidLeftPlay0001" x="1" y="432"  width="473" height="439" frameX="-0" frameY="-15" frameWidth="474" frameHeight="454"/>
+	<SubTexture name="HominidLeftPlay0002" x="2337" y="440"  width="471" height="454" frameX="-3" frameY="-0" frameWidth="474" frameHeight="454"/>
+	<SubTexture name="HominidLeftPlay0003" x="2337" y="440"  width="471" height="454" frameX="-3" frameY="-0" frameWidth="474" frameHeight="454"/>
+	<SubTexture name="HominidLeftPlay0004" x="1" y="873"  width="471" height="454" frameX="-3" frameY="-0" frameWidth="474" frameHeight="454"/>
+	<SubTexture name="HominidLeftPlay0005" x="1" y="873"  width="471" height="454" frameX="-3" frameY="-0" frameWidth="474" frameHeight="454"/>
+	
+	<SubTexture name="HominidDownPlay0000" x="1" y="1"  width="443" height="426" frameX="-0" frameY="-4" frameWidth="485" frameHeight="430"/>
+	<SubTexture name="HominidDownPlay0001" x="1" y="1"  width="443" height="426" frameX="-0" frameY="-4" frameWidth="485" frameHeight="430"/>
+	<SubTexture name="HominidDownPlay0002" x="446" y="1"  width="474" height="429" frameX="-11" frameY="-1" frameWidth="485" frameHeight="430"/>
+	<SubTexture name="HominidDownPlay0003" x="446" y="1"  width="474" height="429" frameX="-11" frameY="-1" frameWidth="485" frameHeight="430"/>
+	<SubTexture name="HominidDownPlay0004" x="2011" y="1"  width="470" height="430" frameX="-11" frameY="-0" frameWidth="485" frameHeight="430"/>
+	<SubTexture name="HominidDownPlay0005" x="2011" y="1"  width="470" height="430" frameX="-11" frameY="-0" frameWidth="485" frameHeight="430"/>
+	
+	<SubTexture name="HominidUpPlay0000" x="1343" y="884"  width="474" height="485" frameX="-13" frameY="-16" frameWidth="495" frameHeight="501"/>
+	<SubTexture name="HominidUpPlay0001" x="1343" y="884"  width="474" height="485" frameX="-13" frameY="-16" frameWidth="495" frameHeight="501"/>
+	<SubTexture name="HominidUpPlay0002" x="2316" y="896"  width="495" height="501" frameX="-0" frameY="-0" frameWidth="495" frameHeight="501"/>
+	<SubTexture name="HominidUpPlay0003" x="2316" y="896"  width="495" height="501" frameX="-0" frameY="-0" frameWidth="495" frameHeight="501"/>
+	<SubTexture name="HominidUpPlay0004" x="1819" y="889"  width="495" height="495" frameX="-0" frameY="-6" frameWidth="495" frameHeight="501"/>
+	<SubTexture name="HominidUpPlay0005" x="1819" y="889"  width="495" height="495" frameX="-0" frameY="-6" frameWidth="495" frameHeight="501"/>
+	
+	<SubTexture name="HominidRightPlay0000" x="2483" y="1"  width="544" height="437" frameX="-7" frameY="-0" frameWidth="551" frameHeight="437"/>
+	<SubTexture name="HominidRightPlay0001" x="2483" y="1"  width="544" height="437" frameX="-7" frameY="-0" frameWidth="551" frameHeight="437"/>
+	<SubTexture name="HominidRightPlay0002" x="922" y="1"  width="545" height="429" frameX="-0" frameY="-8" frameWidth="551" frameHeight="437"/>
+	<SubTexture name="HominidRightPlay0003" x="922" y="1"  width="545" height="429" frameX="-0" frameY="-8" frameWidth="551" frameHeight="437"/>
+	<SubTexture name="HominidRightPlay0004" x="1469" y="1"  width="540" height="429" frameX="-0" frameY="-8" frameWidth="551" frameHeight="437"/>
+	<SubTexture name="HominidRightPlay0005" x="1469" y="1"  width="540" height="429" frameX="-0" frameY="-8" frameWidth="551" frameHeight="437"/>
+	
+	<SubTexture name="AlienHominidVICTORY!!!!0000" x="2112" y="1399"  width="551" height="561" frameX="-0" frameY="-0" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0001" x="2112" y="1399"  width="551" height="561" frameX="-0" frameY="-0" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0002" x="1" y="1338"  width="533" height="516" frameX="-1" frameY="-44" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0003" x="1" y="1338"  width="533" height="516" frameX="-1" frameY="-44" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0004" x="1064" y="1371"  width="524" height="523" frameX="-6" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0005" x="536" y="1345"  width="526" height="521" frameX="-6" frameY="-39" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0006" x="1590" y="1386"  width="520" height="524" frameX="-9" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0007" x="1064" y="1371"  width="524" height="523" frameX="-6" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0008" x="536" y="1345"  width="526" height="521" frameX="-6" frameY="-39" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0009" x="1590" y="1386"  width="520" height="524" frameX="-9" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0010" x="1064" y="1371"  width="524" height="523" frameX="-6" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0011" x="536" y="1345"  width="526" height="521" frameX="-6" frameY="-39" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0012" x="1590" y="1386"  width="520" height="524" frameX="-9" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0013" x="1064" y="1371"  width="524" height="523" frameX="-6" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0014" x="536" y="1345"  width="526" height="521" frameX="-6" frameY="-39" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0015" x="1590" y="1386"  width="520" height="524" frameX="-9" frameY="-37" frameWidth="551" frameHeight="561"/>
+</TextureAtlas>

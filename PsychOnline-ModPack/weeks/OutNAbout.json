@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Anywhere USA",
+			"alien",
+			[
+				188,
+				79,
+				235
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "alien",
+	"difficulties": "Hard,Fucked",
+	"weekCharacters": [
+		"menualien",
+		"menubfgf",
+		"menuagent"
+	],
+	"storyName": "ANYWHERE, U.S.A",
+	"weekName": "anywhere usa",
+	"freeplayColor": [
+		188,
+		79,
+		235
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

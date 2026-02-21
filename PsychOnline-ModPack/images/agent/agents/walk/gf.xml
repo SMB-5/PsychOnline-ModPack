@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="walk-GF.png" width="1079" height="1156">
+	<SubTexture name="AgentsCarryGF0001" x="507" y="578"  width="526" height="577" frameX="-0" frameY="-4" frameWidth="557" frameHeight="583"/>
+	<SubTexture name="AgentsCarryGF0002" x="1" y="1"  width="531" height="528" frameX="-8" frameY="-0" frameWidth="557" frameHeight="583"/>
+	<SubTexture name="AgentsCarryGF0003" x="534" y="1"  width="544" height="575" frameX="-13" frameY="-7" frameWidth="557" frameHeight="583"/>
+	<SubTexture name="AgentsCarryGF0004" x="1" y="531"  width="504" height="576" frameX="-25" frameY="-7" frameWidth="557" frameHeight="583"/>
+</TextureAtlas>

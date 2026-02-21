@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf-otherSide.png" width="2780" height="2040">
+	<SubTexture name="BF idle dance otherside0001" x="1598" y="375"  width="419" height="391" frameX="-0" frameY="-13" frameWidth="419" frameHeight="404"/>
+	<SubTexture name="BF idle dance otherside0002" x="2363" y="376"  width="416" height="392" frameX="-0" frameY="-11" frameWidth="419" frameHeight="404"/>
+	<SubTexture name="BF idle dance otherside0003" x="1944" y="769"  width="411" height="401" frameX="-1" frameY="-3" frameWidth="419" frameHeight="404"/>
+	<SubTexture name="BF idle dance otherside0004" x="741" y="1160"  width="408" height="402" frameX="-4" frameY="-2" frameWidth="419" frameHeight="404"/>
+	<SubTexture name="BF idle dance otherside0005" x="2367" y="1173"  width="407" height="404" frameX="-5" frameY="-0" frameWidth="419" frameHeight="404"/>
+	
+	<SubTexture name="BFWalkLeft0001" x="1" y="724"  width="414" height="395" frameX="-0" frameY="-6" frameWidth="437" frameHeight="407"/>
+	<SubTexture name="BFWalkLeft0002" x="1103" y="764"  width="433" height="394" frameX="-4" frameY="-10" frameWidth="437" frameHeight="407"/>
+	<SubTexture name="BFWalkLeft0003" x="2019" y="376"  width="342" height="391" frameX="-13" frameY="-13" frameWidth="437" frameHeight="407"/>
+	<SubTexture name="BFWalkLeft0004" x="757" y="753"  width="344" height="399" frameX="-3" frameY="-8" frameWidth="437" frameHeight="407"/>
+	<SubTexture name="BFWalkLeft0005" x="1" y="348"  width="420" height="374" frameX="-0" frameY="-0" frameWidth="437" frameHeight="407"/>
+	
+	<SubTexture name="BFWalkDown0001" x="2109" y="1"  width="437" height="373" frameX="-3" frameY="-5" frameWidth="456" frameHeight="383"/>
+	<SubTexture name="BFWalkDown0002" x="1326" y="1"  width="437" height="372" frameX="-4" frameY="-8" frameWidth="456" frameHeight="383"/>
+	<SubTexture name="BFWalkDown0003" x="1765" y="1"  width="342" height="372" frameX="-65" frameY="-8" frameWidth="456" frameHeight="383"/>
+	<SubTexture name="BFWalkDown0004" x="792" y="368"  width="378" height="383" frameX="-19" frameY="-0" frameWidth="456" frameHeight="383"/>
+	<SubTexture name="BFWalkDown0005" x="453" y="1"  width="456" height="355" frameX="-0" frameY="-0" frameWidth="456" frameHeight="383"/>
+	
+	<SubTexture name="BFWalkUp0001" x="1151" y="1574"  width="389" height="422" frameX="-3" frameY="-7" frameWidth="406" frameHeight="435"/>
+	<SubTexture name="BFWalkUp0002" x="761" y="1564"  width="388" height="423" frameX="-4" frameY="-9" frameWidth="406" frameHeight="435"/>
+	<SubTexture name="BFWalkUp0003" x="407" y="1134"  width="332" height="418" frameX="-12" frameY="-14" frameWidth="406" frameHeight="435"/>
+	<SubTexture name="BFWalkUp0004" x="1" y="1525"  width="342" height="421" frameX="-0" frameY="-14" frameWidth="406" frameHeight="435"/>
+	<SubTexture name="BFWalkUp0005" x="2357" y="770"  width="406" height="401" frameX="-0" frameY="-0" frameWidth="406" frameHeight="435"/>
+	
+	<SubTexture name="BFWalkRight0001" x="1538" y="768"  width="404" height="400" frameX="-4" frameY="-14" frameWidth="424" frameHeight="420"/>
+	<SubTexture name="BFWalkRight0002" x="1151" y="1170"  width="406" height="402" frameX="-3" frameY="-15" frameWidth="424" frameHeight="420"/>
+	<SubTexture name="BFWalkRight0003" x="417" y="735"  width="338" height="397" frameX="-74" frameY="-20" frameWidth="424" frameHeight="420"/>
+	<SubTexture name="BFWalkRight0004" x="1559" y="1172"  width="395" height="402" frameX="-11" frameY="-18" frameWidth="424" frameHeight="420"/>
+	<SubTexture name="BFWalkRight0005" x="1172" y="375"  width="424" height="387" frameX="-0" frameY="-0" frameWidth="424" frameHeight="420"/>
+	
+	<SubTexture name="BFjumpsintocar0001" x="911" y="1"  width="413" height="365" frameX="-0" frameY="-128" frameWidth="684" frameHeight="493"/>
+	<SubTexture name="BFjumpsintocar0002" x="1" y="1"  width="450" height="345" frameX="-8" frameY="-148" frameWidth="684" frameHeight="493"/>
+	<SubTexture name="BFjumpsintocar0003" x="2044" y="1579"  width="643" height="460" frameX="-41" frameY="-28" frameWidth="684" frameHeight="493"/>
+	<SubTexture name="BFjumpsintocar0004" x="1542" y="1578"  width="500" height="429" frameX="-74" frameY="-6" frameWidth="684" frameHeight="493"/>
+	<SubTexture name="BFjumpsintocar0005" x="423" y="358"  width="367" height="375" frameX="-100" frameY="-0" frameWidth="684" frameHeight="493"/>
+  
+	<SubTexture name="BF otherside  HEY!0001" x="345" y="1564"  width="414" height="408" frameX="-1" frameY="-0" frameWidth="415" frameHeight="408"/>
+	<SubTexture name="BF otherside  HEY!0002" x="1" y="1121"  width="404" height="402" frameX="-4" frameY="-3" frameWidth="415" frameHeight="408"/>
+	<SubTexture name="BF otherside  HEY!0003" x="1956" y="1173"  width="409" height="403" frameX="-0" frameY="-2" frameWidth="415" frameHeight="408"/>
+	<SubTexture name="BF otherside  HEY!0004" x="1956" y="1173"  width="409" height="403" frameX="-0" frameY="-2" frameWidth="415" frameHeight="408"/>
+</TextureAtlas>

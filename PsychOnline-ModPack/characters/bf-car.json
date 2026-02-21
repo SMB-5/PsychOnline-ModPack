@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFCarIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 9,
+			"name": "BFCarLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 9,
+			"name": "BFCarDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				19
+			],
+			"anim": "singUP",
+			"fps": 9,
+			"name": "BFCarUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 9,
+			"name": "BFCarRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boyfriend/bf-car",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-666,
+		172
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

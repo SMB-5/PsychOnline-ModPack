@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="powerUpOrb.png" width="516" height="165">
+	<SubTexture name="hover0001" x="1" y="1"  width="170" height="163" frameX="-2" frameY="-1" frameWidth="176" frameHeight="168"/>
+	<SubTexture name="hover0002" x="173" y="1"  width="170" height="163" frameX="-2" frameY="-1" frameWidth="176" frameHeight="168"/>
+	<SubTexture name="hover0003" x="345" y="1"  width="170" height="163" frameX="-2" frameY="-1" frameWidth="176" frameHeight="168"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="fallIce.png" width="219" height="133">
+	<SubTexture name="ICECREAMFALL0000" x="188" y="1"  width="30" height="131" frameX="-14" frameY="-0" frameWidth="65" frameHeight="172"/>
+	<SubTexture name="ICECREAMFALL0001" x="188" y="1"  width="30" height="131" frameX="-14" frameY="-0" frameWidth="65" frameHeight="172"/>
+	<SubTexture name="ICECREAMFALL0002" x="1" y="1"  width="65" height="80" frameX="-0" frameY="-92" frameWidth="65" frameHeight="172"/>
+	<SubTexture name="ICECREAMFALL0003" x="1" y="1"  width="65" height="80" frameX="-0" frameY="-92" frameWidth="65" frameHeight="172"/>
+	<SubTexture name="ICECREAMFALL0004" x="128" y="1"  width="58" height="85" frameX="-4" frameY="-87" frameWidth="65" frameHeight="172"/>
+	<SubTexture name="ICECREAMFALL0005" x="128" y="1"  width="58" height="85" frameX="-4" frameY="-87" frameWidth="65" frameHeight="172"/>
+	<SubTexture name="ICECREAMFALL0006" x="68" y="1"  width="58" height="84" frameX="-4" frameY="-88" frameWidth="65" frameHeight="172"/>
+	<SubTexture name="ICECREAMFALL0007" x="68" y="1"  width="58" height="84" frameX="-4" frameY="-88" frameWidth="65" frameHeight="172"/>
+</TextureAtlas>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bfGf2.png" width="5078" height="3330">
+	<SubTexture name="IntroCutsceneBFandGF0001" x="2275" y="1"  width="699" height="632" frameX="-0" frameY="-3" frameWidth="699" frameHeight="635"/>
+	<SubTexture name="IntroCutsceneBFandGF0002" x="1574" y="1"  width="699" height="631" frameX="-0" frameY="-4" frameWidth="699" frameHeight="635"/>
+	<SubTexture name="IntroCutsceneBFandGF0003" x="3677" y="1"  width="699" height="635" frameX="-0" frameY="-0" frameWidth="699" frameHeight="635"/>
+	<SubTexture name="IntroCutsceneBFandGF0004" x="2976" y="1"  width="699" height="634" frameX="-0" frameY="-1" frameWidth="699" frameHeight="635"/>
+	<SubTexture name="IntroCutsceneBFandGF0005" x="2976" y="1"  width="699" height="634" frameX="-0" frameY="-1" frameWidth="699" frameHeight="635"/>
+	<SubTexture name="IntroCutsceneBFandGF0006" x="2976" y="1"  width="699" height="634" frameX="-0" frameY="-1" frameWidth="699" frameHeight="635"/>
+	
+	<SubTexture name="IntroCutsceneReaction0001" x="873" y="1"  width="699" height="628" frameX="-0" frameY="-21" frameWidth="699" frameHeight="649"/>
+	<SubTexture name="IntroCutsceneReaction0002" x="2104" y="1927"  width="699" height="649" frameX="-0" frameY="-0" frameWidth="699" frameHeight="649"/>
+	<SubTexture name="IntroCutsceneReaction0003" x="3506" y="1283"  width="699" height="645" frameX="-0" frameY="-4" frameWidth="699" frameHeight="649"/>
+	<SubTexture name="IntroCutsceneReaction0004" x="702" y="1921"  width="699" height="647" frameX="-0" frameY="-2" frameWidth="699" frameHeight="649"/>
+	
+	<SubTexture name="IntroCutsceneAltBFandGF0001" x="2104" y="1280"  width="699" height="645" frameX="-0" frameY="-2" frameWidth="699" frameHeight="647"/>
+	<SubTexture name="IntroCutsceneAltBFandGF0002" x="2805" y="1282"  width="699" height="645" frameX="-0" frameY="-2" frameWidth="699" frameHeight="647"/>
+	<SubTexture name="IntroCutsceneAltBFandGF0003" x="4207" y="1285"  width="699" height="647" frameX="-0" frameY="-0" frameWidth="699" frameHeight="647"/>
+	<SubTexture name="IntroCutsceneAltBFandGF0004" x="1" y="1909"  width="699" height="647" frameX="-0" frameY="-0" frameWidth="699" frameHeight="647"/>
+	
+	<SubTexture name="IntroIceCreamStolen0001" x="1" y="1909"  width="699" height="647" frameX="-0" frameY="-203" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0002" x="1" y="622"  width="699" height="640" frameX="-0" frameY="-210" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0003" x="702" y="631"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0004" x="1403" y="1279"  width="699" height="644" frameX="-0" frameY="-206" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0005" x="1403" y="634"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0006" x="1403" y="634"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0007" x="1403" y="634"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0008" x="4378" y="1"  width="699" height="637" frameX="-0" frameY="-213" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0009" x="2104" y="635"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0010" x="2805" y="637"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0011" x="3506" y="638"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0012" x="3506" y="638"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0013" x="3506" y="638"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0014" x="3506" y="638"  width="699" height="643" frameX="-0" frameY="-207" frameWidth="1616" frameHeight="850"/>
+	
+	<SubTexture name="IntroOfftheSpeakers0001" x="4207" y="640"  width="699" height="643" frameX="-0" frameY="-24" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0002" x="1" y="1264"  width="699" height="643" frameX="-0" frameY="-24" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0003" x="1" y="1264"  width="699" height="643" frameX="-0" frameY="-24" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0004" x="702" y="1276"  width="699" height="643" frameX="-0" frameY="-24" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0005" x="702" y="1276"  width="699" height="643" frameX="-0" frameY="-24" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0006" x="1403" y="1925"  width="699" height="647" frameX="-0" frameY="-20" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0007" x="2805" y="1930"  width="716" height="647" frameX="-0" frameY="-20" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0008" x="3523" y="1934"  width="847" height="667" frameX="-0" frameY="-0" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0009" x="3523" y="1934"  width="847" height="667" frameX="-0" frameY="-0" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0010" x="1" y="1"  width="870" height="619" frameX="-0" frameY="-48" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0011" x="1" y="1"  width="870" height="619" frameX="-0" frameY="-48" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0012" x="857" y="2574"  width="848" height="698" frameX="-0" frameY="-33" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0013" x="857" y="2574"  width="848" height="698" frameX="-0" frameY="-33" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0014" x="1707" y="2578"  width="871" height="700" frameX="-0" frameY="-36" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0015" x="1707" y="2578"  width="871" height="700" frameX="-0" frameY="-36" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0016" x="1" y="2570"  width="854" height="691" frameX="-0" frameY="-49" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0017" x="1" y="2570"  width="854" height="691" frameX="-0" frameY="-49" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0018" x="2580" y="2579"  width="817" height="715" frameX="-0" frameY="-43" frameWidth="871" frameHeight="758"/>
+	<SubTexture name="IntroOfftheSpeakers0019" x="3399" y="2603"  width="817" height="726" frameX="-0" frameY="-32" frameWidth="871" frameHeight="758"/>
+</TextureAtlas>

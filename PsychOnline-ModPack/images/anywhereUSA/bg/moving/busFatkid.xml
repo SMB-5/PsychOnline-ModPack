@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BUS FATKID.png" width="1740" height="652">
+	<SubTexture name="BUSBG0001" x="1" y="1"  width="433" height="321" frameX="-0" frameY="-5" frameWidth="433" frameHeight="326"/>
+	<SubTexture name="BUSBG0002" x="436" y="1"  width="433" height="321" frameX="-0" frameY="-5" frameWidth="433" frameHeight="326"/>
+	<SubTexture name="BUSBG0003" x="1306" y="1"  width="433" height="324" frameX="-0" frameY="-2" frameWidth="433" frameHeight="326"/>
+	<SubTexture name="BUSBG0004" x="871" y="1"  width="433" height="322" frameX="-0" frameY="-4" frameWidth="433" frameHeight="326"/>
+	<SubTexture name="BUSBG0005" x="436" y="324"  width="433" height="325" frameX="-0" frameY="-1" frameWidth="433" frameHeight="326"/>
+	<SubTexture name="BUSBG0006" x="1" y="324"  width="433" height="324" frameX="-0" frameY="-2" frameWidth="433" frameHeight="326"/>
+	<SubTexture name="BUSBG0007" x="871" y="325"  width="433" height="326" frameX="-0" frameY="-0" frameWidth="433" frameHeight="326"/>
+</TextureAtlas>

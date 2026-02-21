@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="alien-introSplat.png" width="1943" height="1884">
+	<SubTexture name="HominidFacePlanted0001" x="1" y="779"  width="699" height="323" frameX="-63" frameY="-301" frameWidth="909" frameHeight="624"/>
+	<SubTexture name="HominidFacePlanted0002" x="654" y="1109"  width="635" height="368" frameX="-79" frameY="-254" frameWidth="909" frameHeight="624"/>
+	<SubTexture name="HominidFacePlanted0003" x="1" y="1479"  width="664" height="404" frameX="-75" frameY="-215" frameWidth="909" frameHeight="624"/>
+	<SubTexture name="HominidFacePlanted0004" x="1291" y="1360"  width="651" height="390" frameX="-81" frameY="-230" frameWidth="909" frameHeight="624"/>
+	<SubTexture name="HominidFacePlanted0005" x="1" y="1104"  width="651" height="347" frameX="-81" frameY="-273" frameWidth="909" frameHeight="624"/>
+	<SubTexture name="HominidFacePlanted0006" x="748" y="519"  width="722" height="292" frameX="-81" frameY="-328" frameWidth="909" frameHeight="624"/>
+	<SubTexture name="HominidFacePlanted0007" x="1" y="1"  width="828" height="257" frameX="-81" frameY="-363" frameWidth="909" frameHeight="624"/>
+	<SubTexture name="HominidFacePlanted0008" x="831" y="1"  width="826" height="257" frameX="-81" frameY="-363" frameWidth="909" frameHeight="624"/>
+	<SubTexture name="HominidFacePlanted0009" x="1" y="260"  width="824" height="257" frameX="-81" frameY="-363" frameWidth="909" frameHeight="624"/>
+	<SubTexture name="HominidFacePlanted0010" x="827" y="260"  width="823" height="257" frameX="-81" frameY="-363" frameWidth="909" frameHeight="624"/>
+	
+	<SubTexture name="Hominidgetsup0001" x="1" y="519"  width="745" height="258" frameX="-176" frameY="-189" frameWidth="921" frameHeight="452"/>
+	<SubTexture name="Hominidgetsup0002" x="1" y="519"  width="745" height="258" frameX="-176" frameY="-189" frameWidth="921" frameHeight="452"/>
+	<SubTexture name="Hominidgetsup0003" x="702" y="813"  width="748" height="294" frameX="-129" frameY="-158" frameWidth="921" frameHeight="452"/>
+	<SubTexture name="Hominidgetsup0004" x="1452" y="931"  width="409" height="427" frameX="-0" frameY="-0" frameWidth="921" frameHeight="452"/>
+	<SubTexture name="Hominidgetsup0005" x="1472" y="519"  width="408" height="410" frameX="-21" frameY="-17" frameWidth="921" frameHeight="452"/>
+	<SubTexture name="Hominidgetsup0006" x="1472" y="519"  width="408" height="410" frameX="-21" frameY="-17" frameWidth="921" frameHeight="452"/>
+</TextureAtlas>

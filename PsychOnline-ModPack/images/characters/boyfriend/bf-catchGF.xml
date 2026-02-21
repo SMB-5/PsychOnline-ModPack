@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf-catchGF.png" width="2053" height="1703">
+	<SubTexture name="BFCatchingGF0001" x="1623" y="857"  width="410" height="395" frameX="-161" frameY="-900" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0002" x="1" y="1305"  width="402" height="397" frameX="-172" frameY="-898" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0003" x="1641" y="1"  width="411" height="429" frameX="-193" frameY="-873" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0004" x="1616" y="1277"  width="432" height="418" frameX="-176" frameY="-883" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0005" x="1623" y="436"  width="427" height="419" frameX="-178" frameY="-883" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0006" x="1623" y="436"  width="427" height="419" frameX="-178" frameY="-883" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0007" x="1" y="1"  width="523" height="1302" frameX="-82" frameY="-0" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0008" x="526" y="1"  width="489" height="927" frameX="-116" frameY="-375" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0009" x="1046" y="1277"  width="568" height="355" frameX="-16" frameY="-943" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0010" x="526" y="1277"  width="518" height="393" frameX="-54" frameY="-908" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0011" x="1017" y="1"  width="622" height="433" frameX="-0" frameY="-862" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0012" x="1017" y="858"  width="598" height="417" frameX="-12" frameY="-875" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0013" x="1017" y="436"  width="604" height="420" frameX="-7" frameY="-875" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0014" x="1017" y="436"  width="604" height="420" frameX="-7" frameY="-875" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0015" x="1017" y="436"  width="604" height="420" frameX="-7" frameY="-875" frameWidth="622" frameHeight="1304"/>
+	<SubTexture name="BFCatchingGF0016" x="1017" y="436"  width="604" height="420" frameX="-7" frameY="-875" frameWidth="622" frameHeight="1304"/>
+</TextureAtlas>

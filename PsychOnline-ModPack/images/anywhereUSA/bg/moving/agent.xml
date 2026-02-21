@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="agent.png" width="628" height="536">
+	<SubTexture name="FBIguyBACK0001" x="1" y="238"  width="290" height="266" frameX="-26" frameY="-7" frameWidth="335" frameHeight="274"/>
+	<SubTexture name="FBIguyBACK0002" x="1" y="1"  width="335" height="235" frameX="-0" frameY="-0" frameWidth="335" frameHeight="274"/>
+	<SubTexture name="FBIguyBACK0003" x="293" y="267"  width="296" height="268" frameX="-24" frameY="-6" frameWidth="335" frameHeight="274"/>
+	<SubTexture name="FBIguyBACK0004" x="338" y="1"  width="289" height="264" frameX="-28" frameY="-10" frameWidth="335" frameHeight="274"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="pow.png" width="778" height="694">
+	<SubTexture name="pow0001" x="351" y="591"  width="89" height="89" frameX="-1" frameY="-1" frameWidth="93" frameHeight="200"/>
+	<SubTexture name="pow0002" x="442" y="591"  width="89" height="89" frameX="-1" frameY="-1" frameWidth="93" frameHeight="200"/>
+	<SubTexture name="pow0003" x="533" y="591"  width="89" height="89" frameX="-1" frameY="-1" frameWidth="93" frameHeight="200"/>
+	
+	<SubTexture name="BIGSHOT0001" x="672" y="1"  width="105" height="109" frameX="-1" frameY="-1" frameWidth="109" frameHeight="230"/>
+	<SubTexture name="BIGSHOT0002" x="672" y="112"  width="105" height="109" frameX="-1" frameY="-1" frameWidth="109" frameHeight="230"/>
+	<SubTexture name="BIGSHOT0003" x="672" y="223"  width="105" height="109" frameX="-1" frameY="-1" frameWidth="109" frameHeight="230"/>
+  
+	<SubTexture name="Splash0001" x="360" y="335"  width="260" height="254" frameX="-77" frameY="-14" frameWidth="355" frameHeight="357"/>
+	<SubTexture name="Splash0002" x="360" y="1"  width="310" height="332" frameX="-40" frameY="-3" frameWidth="355" frameHeight="357"/>
+	<SubTexture name="Splash0003" x="1" y="345"  width="348" height="348" frameX="-7" frameY="-1" frameWidth="355" frameHeight="357"/>
+	<SubTexture name="Splash0004" x="1" y="1" width="357" height="342" rotated="true"  frameX="-0" frameY="-0" frameWidth="355" frameHeight="357"/>
+</TextureAtlas>

@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "FatKidPlayable0"
+		},
+		{
+			"offsets": [
+				-10,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "FatKidLeft"
+		},
+		{
+			"offsets": [
+				-33,
+				-28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FatKidDown"
+		},
+		{
+			"offsets": [
+				-27,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "FatKidUp"
+		},
+		{
+			"offsets": [
+				-45,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FatKidRight"
+		},
+		{
+			"offsets": [
+				-16,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "FatKidPlayableHEY!"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/fatKidPlayable",
+	"position": [
+		-10,
+		300
+	],
+	"healthicon": "kid",
+	"flip_x": true,
+	"healthbar_colors": [
+		244,
+		159,
+		28
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="alien-car.png" width="1476" height="1084">
+	<SubTexture name="AHCarIdle0001" x="1155" y="1"  width="320" height="340" frameX="-0" frameY="-8" frameWidth="320" frameHeight="348"/>
+	<SubTexture name="AHCarIdle0002" x="841" y="1"  width="312" height="336" frameX="-2" frameY="-12" frameWidth="320" frameHeight="348"/>
+	<SubTexture name="AHCarIdle0003" x="539" y="1"  width="300" height="335" frameX="-6" frameY="-13" frameWidth="320" frameHeight="348"/>
+	<SubTexture name="AHCarIdle0004" x="1" y="338"  width="291" height="341" frameX="-7" frameY="-7" frameWidth="320" frameHeight="348"/>
+	<SubTexture name="AHCarIdle0005" x="586" y="339"  width="287" height="348" frameX="-7" frameY="-0" frameWidth="320" frameHeight="348"/>
+	<SubTexture name="AHCarIdle0006" x="294" y="338"  width="290" height="347" frameX="-7" frameY="-1" frameWidth="320" frameHeight="348"/>
+	
+	<SubTexture name="AHCarLeft0001" x="860" y="695"  width="278" height="388" frameX="-0" frameY="-0" frameWidth="290" frameHeight="388"/>
+	<SubTexture name="AHCarLeft0002" x="575" y="689"  width="283" height="386" frameX="-7" frameY="-2" frameWidth="290" frameHeight="388"/>
+  
+	<SubTexture name="AHCarDown0001" x="1" y="1"  width="269" height="325" frameX="-4" frameY="-10" frameWidth="273" frameHeight="335"/>
+	<SubTexture name="AHCarDown0002" x="272" y="1"  width="265" height="335" frameX="-0" frameY="-0" frameWidth="273" frameHeight="335"/>
+  
+	<SubTexture name="AHCarUp0001" x="352" y="687"  width="221" height="373" frameX="-2" frameY="-0" frameWidth="229" frameHeight="373"/>
+	<SubTexture name="AHCarUp0002" x="1240" y="343"  width="229" height="365" frameX="-0" frameY="-8" frameWidth="229" frameHeight="373"/>
+  
+	<SubTexture name="AHCarRight0001" x="875" y="343"  width="363" height="350" frameX="-0" frameY="-0" frameWidth="363" frameHeight="350"/>
+	<SubTexture name="AHCarRight0002" x="1" y="687"  width="349" height="350" frameX="-0" frameY="-0" frameWidth="363" frameHeight="350"/>
+</TextureAtlas>

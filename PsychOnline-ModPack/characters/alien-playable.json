@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AlienHominidIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HominidRightPlay",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HominidDownPlay",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HominidUpPlay",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HominidLeftPlay",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "AlienHominidVICTORY!!!!"
+		},
+		{
+			"offsets": [
+				25,
+				99
+			],
+			"indices": [
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "hey-loop",
+			"loop": true,
+			"name": "AlienHominidVICTORY!!!!"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/alienPlayable",
+	"position": [
+		10,
+		290
+	],
+	"healthicon": "alien",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		250,
+		16
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

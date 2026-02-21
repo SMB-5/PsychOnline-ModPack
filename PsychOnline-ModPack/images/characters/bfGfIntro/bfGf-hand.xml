@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bfGf-hand.png" width="1788" height="715">
+	<SubTexture name="IntroIceCreamStolen0001" x="1015" y="97"  width="772" height="617" frameX="-492" frameY="-0" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0002" x="1" y="67"  width="1012" height="122" frameX="-252" frameY="-435" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0003" x="1" y="339"  width="986" height="162" frameX="-278" frameY="-424" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0004" x="1" y="191"  width="987" height="146" frameX="-277" frameY="-430" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0005" x="1" y="191"  width="987" height="146" frameX="-277" frameY="-430" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0006" x="1" y="191"  width="987" height="146" frameX="-277" frameY="-430" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0007" x="1" y="191"  width="987" height="146" frameX="-277" frameY="-430" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0008" x="1" y="503"  width="955" height="180" frameX="-309" frameY="-383" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0009" x="1157" y="1"  width="445" height="94" frameX="-798" frameY="-358" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0010" x="739" y="1"  width="416" height="64" frameX="-733" frameY="-363" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0011" x="338" y="1"  width="399" height="62" frameX="-702" frameY="-374" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0012" x="4" y="1"  width="332" height="57" frameX="-700" frameY="-382" frameWidth="1616" frameHeight="850"/>
+	<SubTexture name="IntroIceCreamStolen0013" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="IntroIceCreamStolen0014" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+</TextureAtlas>

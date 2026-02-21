@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="death-slashed.png" width="1997" height="1882">
+	<SubTexture name="AgentSlashed0001" x="1489" y="1"  width="507" height="449" frameX="-334" frameY="-281" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0002" x="1" y="200"  width="463" height="588" frameX="-327" frameY="-137" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0003" x="515" y="896"  width="521" height="711" frameX="-296" frameY="-0" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0004" x="1038" y="1144"  width="542" height="737" frameX="-280" frameY="-29" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0005" x="1" y="896"  width="512" height="702" frameX="-308" frameY="-32" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0006" x="466" y="206"  width="678" height="688" frameX="-140" frameY="-58" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0007" x="1146" y="452"  width="810" height="690" frameX="-0" frameY="-114" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0008" x="751" y="1"  width="736" height="203" frameX="-12" frameY="-606" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0009" x="4" y="1"  width="745" height="197" frameX="-8" frameY="-610" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0010" x="4" y="1"  width="745" height="197" frameX="-8" frameY="-610" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0011" x="4" y="1"  width="745" height="197" frameX="-8" frameY="-610" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0012" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="AgentSlashed0013" x="4" y="1"  width="745" height="197" frameX="-8" frameY="-610" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0014" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="AgentSlashed0015" x="4" y="1"  width="745" height="197" frameX="-8" frameY="-610" frameWidth="841" frameHeight="809"/>
+	<SubTexture name="AgentSlashed0016" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+</TextureAtlas>

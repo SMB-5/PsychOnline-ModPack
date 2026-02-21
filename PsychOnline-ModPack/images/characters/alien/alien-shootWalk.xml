@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="alien-shootWalk.png" width="1188" height="813">
+	<SubTexture name="AlienHominidShootsRun0001" x="734" y="389"  width="433" height="423" frameX="-252" frameY="-0" frameWidth="690" frameHeight="450"/>
+	<SubTexture name="AlienHominidShootsRun0002" x="402" y="355"  width="330" height="394" frameX="-206" frameY="-38" frameWidth="690" frameHeight="450"/>
+	<SubTexture name="AlienHominidShootsRun0003" x="1" y="341"  width="399" height="356" frameX="-40" frameY="-70" frameWidth="690" frameHeight="450"/>
+	<SubTexture name="AlienHominidShootsRun0004" x="1" y="1"  width="454" height="338" frameX="-0" frameY="-85" frameWidth="690" frameHeight="450"/>
+	<SubTexture name="AlienHominidShootsRun0005" x="457" y="1"  width="427" height="352" frameX="-46" frameY="-98" frameWidth="690" frameHeight="450"/>
+	<SubTexture name="AlienHominidShootsRun0006" x="886" y="1"  width="301" height="386" frameX="-172" frameY="-41" frameWidth="690" frameHeight="450"/>
+</TextureAtlas>

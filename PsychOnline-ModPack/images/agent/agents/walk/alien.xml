@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="walk-alien.png" width="1055" height="1057">
+	<SubTexture name="AgentRunAlien0001" x="480" y="1"  width="574" height="491" frameX="-0" frameY="-29" frameWidth="574" frameHeight="568"/>
+	<SubTexture name="AgentRunAlien0002" x="476" y="494"  width="535" height="562" frameX="-11" frameY="-0" frameWidth="574" frameHeight="568"/>
+	<SubTexture name="AgentRunAlien0003" x="1" y="483"  width="473" height="550" frameX="-10" frameY="-18" frameWidth="574" frameHeight="568"/>
+	<SubTexture name="AgentRunAlien0004" x="1" y="1"  width="477" height="480" frameX="-17" frameY="-88" frameWidth="574" frameHeight="568"/>
+</TextureAtlas>

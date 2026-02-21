@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="agent.png" width="1520" height="288">
+	<SubTexture name="FIBDudeInfront0001" x="506" y="1"  width="514" height="283" frameX="-12" frameY="-24" frameWidth="539" frameHeight="353"/>
+	<SubTexture name="FIBDudeInfront0002" x="506" y="1"  width="514" height="283" frameX="-12" frameY="-24" frameWidth="539" frameHeight="353"/>
+	<SubTexture name="FIBDudeInfront0003" x="1022" y="1"  width="497" height="286" frameX="-10" frameY="-0" frameWidth="539" frameHeight="353"/>
+	<SubTexture name="FIBDudeInfront0004" x="1022" y="1"  width="497" height="286" frameX="-10" frameY="-0" frameWidth="539" frameHeight="353"/>
+	<SubTexture name="FIBDudeInfront0005" x="1" y="1"  width="503" height="280" frameX="-7" frameY="-6" frameWidth="539" frameHeight="353"/>
+	<SubTexture name="FIBDudeInfront0006" x="1" y="1"  width="503" height="280" frameX="-7" frameY="-6" frameWidth="539" frameHeight="353"/>
+</TextureAtlas>

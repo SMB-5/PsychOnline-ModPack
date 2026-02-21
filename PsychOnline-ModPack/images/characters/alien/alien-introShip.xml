@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="alien-introShip.png" width="1608" height="536">
+	<SubTexture name="AlienOnShip0001" x="1" y="1"  width="802" height="534" frameX="-0" frameY="-0" frameWidth="802" frameHeight="534"/>
+	<SubTexture name="AlienOnShip0002" x="805" y="1"  width="802" height="534" frameX="-0" frameY="-0" frameWidth="802" frameHeight="534"/>
+</TextureAtlas>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="fatKidIntro.png" width="1263" height="946">
+  <SubTexture name="fatkidreacts0001" x="1" y="1"  width="240" height="279" frameX="-6" frameY="-53" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidlooks0001" x="243" y="1"  width="249" height="297" frameX="-17" frameY="-36" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidlooks0005" x="494" y="1"  width="232" height="301" frameX="-17" frameY="-33" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidreacts0004" x="728" y="1"  width="247" height="301" frameX="-18" frameY="-32" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidicecreamlick0007" x="977" y="1"  width="265" height="302" frameX="-0" frameY="-32" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidlooks0007" x="1" y="282"  width="231" height="302" frameX="-18" frameY="-32" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidreacts0006" x="234" y="300"  width="243" height="304" frameX="-20" frameY="-30" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidicecreamlick0001" x="479" y="304"  width="263" height="304" frameX="-0" frameY="-30" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidicecreamlick0003" x="744" y="305"  width="258" height="305" frameX="-6" frameY="-29" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidicecreamlick0006" x="1004" y="305"  width="258" height="306" frameX="-1" frameY="-28" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidlooks0003" x="1" y="586"  width="226" height="306" frameX="-19" frameY="-28" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidicecreamlick0004" x="229" y="610"  width="261" height="307" frameX="-4" frameY="-27" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidreacts0002" x="492" y="610"  width="231" height="335" frameX="-23" frameY="-0" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidicecreamlick0002" x="479" y="304"  width="263" height="304" frameX="-0" frameY="-30" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidicecreamlick0005" x="229" y="610"  width="261" height="307" frameX="-4" frameY="-27" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidlooks0002" x="243" y="1"  width="249" height="297" frameX="-17" frameY="-36" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidtransition0001" x="243" y="1"  width="249" height="297" frameX="-17" frameY="-36" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidlooks0004" x="1" y="586"  width="226" height="306" frameX="-19" frameY="-28" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidlooks0006" x="494" y="1"  width="232" height="301" frameX="-17" frameY="-33" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidreacts0003" x="492" y="610"  width="231" height="335" frameX="-23" frameY="-0" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidreacts0005" x="728" y="1"  width="247" height="301" frameX="-18" frameY="-32" frameWidth="266" frameHeight="335"/>
+  <SubTexture name="fatkidreacts0007" x="234" y="300"  width="243" height="304" frameX="-20" frameY="-30" frameWidth="266" frameHeight="335"/>
+</TextureAtlas>

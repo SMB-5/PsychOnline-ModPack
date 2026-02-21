@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance otherside"
+		},
+		{
+			"offsets": [
+				-5,
+				3
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFWalkLeft"
+		},
+		{
+			"offsets": [
+				5,
+				-23
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFWalkDown"
+		},
+		{
+			"offsets": [
+				-26,
+				30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFWalkUp"
+		},
+		{
+			"offsets": [
+				-27,
+				15
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFWalkRight"
+		},
+		{
+			"offsets": [
+				-1,
+				4
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF otherside  HEY!"
+		},
+		{
+			"offsets": [
+				-57,
+				89
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "jump",
+			"indices": [],
+			"name": "BFjumpsintocar"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boyfriend/bf-otherSide",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-526,
+		-32
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

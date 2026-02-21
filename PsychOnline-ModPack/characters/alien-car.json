@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "idle",
+			"loop": false,
+			"name": "AHCarIdle"
+		},
+		{
+			"offsets": [
+				12,
+				40
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "AHCarLeft"
+		},
+		{
+			"offsets": [
+				21,
+				-13
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "AHCarDown"
+		},
+		{
+			"offsets": [
+				12,
+				23
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singUP",
+			"loop": false,
+			"name": "AHCarUp"
+		},
+		{
+			"offsets": [
+				-8,
+				2
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "AHCarRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alien/alien-car",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "alien",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		250,
+		16
+	],
+	"camera_position": [
+		210.43,
+		163
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

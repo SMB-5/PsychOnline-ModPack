@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="ROBOT LEGS.png" width="1065" height="701">
+	<SubTexture name="FBILEGSIDLE0001" x="1" y="1"  width="357" height="147" frameX="-0" frameY="-6" frameWidth="357" frameHeight="153"/>
+	<SubTexture name="FBILEGSIDLE0002" x="360" y="1"  width="351" height="149" frameX="-3" frameY="-4" frameWidth="357" frameHeight="153"/>
+	<SubTexture name="FBILEGSIDLE0003" x="713" y="1"  width="351" height="151" frameX="-3" frameY="-2" frameWidth="357" frameHeight="153"/>
+	<SubTexture name="FBILEGSIDLE0004" x="1" y="150"  width="347" height="151" frameX="-5" frameY="-2" frameWidth="357" frameHeight="153"/>
+	<SubTexture name="FBILEGSIDLE0005" x="1" y="303"  width="345" height="153" frameX="-6" frameY="-0" frameWidth="357" frameHeight="153"/>
+	<SubTexture name="FBILEGSIDLE0006" x="1" y="303"  width="345" height="153" frameX="-6" frameY="-0" frameWidth="357" frameHeight="153"/>
+  
+	<SubTexture name="FBILEGSWALK0001" x="1" y="502"  width="461" height="198" frameX="-44" frameY="-10" frameWidth="556" frameHeight="211"/>
+	<SubTexture name="FBILEGSWALK0002" x="350" y="154"  width="556" height="149" frameX="-0" frameY="-0" frameWidth="556" frameHeight="211"/>
+	<SubTexture name="FBILEGSWALK0003" x="348" y="305"  width="387" height="195" frameX="-40" frameY="-15" frameWidth="556" frameHeight="211"/>
+	<SubTexture name="FBILEGSWALK0004" x="737" y="305"  width="258" height="196" frameX="-169" frameY="-15" frameWidth="556" frameHeight="211"/>
+</TextureAtlas>

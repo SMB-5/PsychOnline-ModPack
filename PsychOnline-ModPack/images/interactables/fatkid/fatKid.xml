@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="fatKid.png" width="1496" height="1226">
+	<SubTexture name="fatkididle0001" x="547" y="1"  width="238" height="297" frameX="-0" frameY="-6" frameWidth="245" frameHeight="303"/>
+	<SubTexture name="fatkididle0002" x="787" y="1"  width="236" height="297" frameX="-2" frameY="-6" frameWidth="245" frameHeight="303"/>
+	<SubTexture name="fatkididle0003" x="468" y="300"  width="239" height="301" frameX="-2" frameY="-2" frameWidth="245" frameHeight="303"/>
+	<SubTexture name="fatkididle0004" x="215" y="600"  width="241" height="302" frameX="-2" frameY="-1" frameWidth="245" frameHeight="303"/>
+	<SubTexture name="fatkididle0005" x="898" y="603"  width="243" height="303" frameX="-2" frameY="-0" frameWidth="245" frameHeight="303"/>
+  
+	<SubTexture name="fatkidturns0001" x="898" y="603"  width="243" height="303" frameX="-5" frameY="-11" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="fatkidturns0002" x="1" y="1"  width="223" height="291" frameX="-0" frameY="-22" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="fatkidturns0003" x="1289" y="300"  width="206" height="314" frameX="-11" frameY="-0" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="fatkidturns0004" x="1" y="595"  width="212" height="302" frameX="-4" frameY="-12" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="fatkidturns0005" x="830" y="908"  width="213" height="304" frameX="-5" frameY="-10" frameWidth="248" frameHeight="314"/>
+	
+	<SubTexture name="fatkidturnidle0001" x="1" y="294"  width="223" height="299" frameX="-0" frameY="-14" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="fatkidturnidle0002" x="458" y="603"  width="219" height="302" frameX="-2" frameY="-12" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="fatkidturnidle0003" x="679" y="603"  width="217" height="302" frameX="-3" frameY="-11" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="fatkidturnidle0004" x="1045" y="921"  width="213" height="304" frameX="-5" frameY="-10" frameWidth="248" frameHeight="314"/>
+	<SubTexture name="fatkidturnidle0005" x="830" y="908"  width="213" height="304" frameX="-5" frameY="-10" frameWidth="248" frameHeight="314"/>
+	
+	<SubTexture name="fatkidpowerupoffer0001" x="334" y="907"  width="257" height="304" frameX="-79" frameY="-0" frameWidth="336" frameHeight="305"/>
+	<SubTexture name="fatkidpowerupoffer0002" x="593" y="907"  width="235" height="304" frameX="-97" frameY="-1" frameWidth="336" frameHeight="305"/>
+	<SubTexture name="fatkidpowerupoffer0003" x="226" y="299"  width="240" height="299" frameX="-96" frameY="-6" frameWidth="336" frameHeight="305"/>
+	<SubTexture name="fatkidpowerupoffer0004" x="593" y="907"  width="235" height="304" frameX="-97" frameY="-1" frameWidth="336" frameHeight="305"/>
+	<SubTexture name="fatkidpowerupoffer0005" x="226" y="299"  width="240" height="299" frameX="-96" frameY="-6" frameWidth="336" frameHeight="305"/>
+	<SubTexture name="fatkidpowerupoffer0006" x="709" y="300"  width="247" height="301" frameX="-81" frameY="-3" frameWidth="336" frameHeight="305"/>
+	<SubTexture name="fatkidpowerupoffer0007" x="226" y="1"  width="319" height="296" frameX="-8" frameY="-7" frameWidth="336" frameHeight="305"/>
+	
+	<SubTexture name="fatkidpoweruptransition0001" x="334" y="907"  width="257" height="304" frameX="-79" frameY="-0" frameWidth="336" frameHeight="305"/>
+  
+	<SubTexture name="fatkidpowerupidle0001" x="1025" y="1"  width="326" height="297" frameX="-0" frameY="-6" frameWidth="336" frameHeight="305"/>
+	<SubTexture name="fatkidpowerupidle0002" x="958" y="300"  width="329" height="301" frameX="-0" frameY="-3" frameWidth="336" frameHeight="305"/>
+	<SubTexture name="fatkidpowerupidle0003" x="1143" y="616"  width="329" height="303" frameX="-3" frameY="-1" frameWidth="336" frameHeight="305"/>
+	<SubTexture name="fatkidpowerupidle0004" x="1" y="904"  width="331" height="303" frameX="-3" frameY="-1" frameWidth="336" frameHeight="305"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="alien-transition.png" width="1974" height="1930">
+	<SubTexture name="AlienHominidUhOh0001" x="886" y="976"  width="570" height="471" frameX="-1246" frameY="-7" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0002" x="1458" y="984"  width="508" height="473" frameX="-1255" frameY="-7" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0003" x="514" y="1449"  width="509" height="480" frameX="-1260" frameY="-0" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0004" x="1" y="1326"  width="511" height="479" frameX="-1259" frameY="-1" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0005" x="1" y="1326"  width="511" height="479" frameX="-1259" frameY="-1" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0006" x="1" y="1326"  width="511" height="479" frameX="-1259" frameY="-1" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0007" x="1" y="1326"  width="511" height="479" frameX="-1259" frameY="-1" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0008" x="1494" y="616"  width="348" height="366" frameX="-1282" frameY="-109" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0009" x="1193" y="290"  width="397" height="319" frameX="-1258" frameY="-153" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0011" x="1592" y="290"  width="381" height="324" frameX="-994" frameY="-67" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0010" x="1" y="520"  width="455" height="324" frameX="-1086" frameY="-101" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0012" x="458" y="558"  width="552" height="350" frameX="-754" frameY="-101" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0013" x="571" y="1"  width="479" height="266" frameX="-704" frameY="-203" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0014" x="1" y="1"  width="283" height="217" frameX="-676" frameY="-233" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0015" x="286" y="1"  width="283" height="217" frameX="-559" frameY="-233" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0016" x="1416" y="1"  width="310" height="287" frameX="-435" frameY="-166" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0017" x="1052" y="1"  width="362" height="269" frameX="-301" frameY="-195" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0018" x="570" y="272"  width="621" height="284" frameX="-28" frameY="-214" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0019" x="1" y="220"  width="567" height="298" frameX="-0" frameY="-206" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0020" x="1012" y="611"  width="480" height="363" frameX="-35" frameY="-139" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0021" x="1" y="846"  width="444" height="414" frameX="-47" frameY="-89" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0022" x="447" y="910"  width="437" height="414" frameX="-51" frameY="-89" frameWidth="1816" frameHeight="504"/>
+	<SubTexture name="AlienHominidUhOh0023" x="447" y="910"  width="437" height="414" frameX="-51" frameY="-89" frameWidth="1816" frameHeight="504"/>
+</TextureAtlas>

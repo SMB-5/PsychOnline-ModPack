@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf-car.png" width="1698" height="967">
+	<SubTexture name="BFCarIdle0001" x="336" y="301"  width="340" height="308" frameX="-13" frameY="-14" frameWidth="353" frameHeight="325"/>
+	<SubTexture name="BFCarIdle0002" x="678" y="303"  width="341" height="310" frameX="-9" frameY="-15" frameWidth="353" frameHeight="325"/>
+	<SubTexture name="BFCarIdle0003" x="1021" y="307"  width="337" height="314" frameX="-2" frameY="-3" frameWidth="353" frameHeight="325"/>
+	<SubTexture name="BFCarIdle0005" x="1360" y="314"  width="336" height="316" frameX="-0" frameY="-0" frameWidth="353" frameHeight="325"/>
+	<SubTexture name="BFCarIdle0004" x="1" y="611"  width="336" height="317" frameX="-0" frameY="-0" frameWidth="353" frameHeight="325"/>
+  
+	<SubTexture name="BFCarLeft0001" x="342" y="1"  width="339" height="298" frameX="-0" frameY="-0" frameWidth="351" frameHeight="298"/>
+	<SubTexture name="BFCarLeft0002" x="1" y="1"  width="339" height="291" frameX="-12" frameY="-2" frameWidth="351" frameHeight="298"/>
+  
+	<SubTexture name="BFCarDown0001" x="1023" y="1"  width="338" height="304" frameX="-3" frameY="-5" frameWidth="341" frameHeight="309"/>
+	<SubTexture name="BFCarDown0002" x="683" y="1"  width="338" height="300" frameX="-0" frameY="-0" frameWidth="341" frameHeight="309"/>
+  
+	<SubTexture name="BFCarUp0001" x="339" y="611"  width="320" height="350" frameX="-0" frameY="-0" frameWidth="330" frameHeight="359"/>
+	<SubTexture name="BFCarUp0002" x="661" y="615"  width="326" height="351" frameX="-4" frameY="-8" frameWidth="330" frameHeight="359"/>
+  
+	<SubTexture name="BFCarRight0001" x="1363" y="1"  width="334" height="311" frameX="-7" frameY="-1" frameWidth="341" frameHeight="312"/>
+	<SubTexture name="BFCarRight0002" x="1" y="294"  width="333" height="312" frameX="-0" frameY="-0" frameWidth="341" frameHeight="312"/>
+</TextureAtlas>

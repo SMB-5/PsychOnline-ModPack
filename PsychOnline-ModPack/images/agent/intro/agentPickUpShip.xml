@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="agentPickUpShip.png" width="2425" height="1599">
+  <SubTexture name="AgentsPickUpShip0002" x="1" y="1"  width="766" height="332" frameX="-36" frameY="-90" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0003" x="769" y="1"  width="732" height="332" frameX="-53" frameY="-90" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0005" x="1503" y="1"  width="732" height="336" frameX="-53" frameY="-86" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0012" x="1" y="335"  width="808" height="354" frameX="-15" frameY="-73" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0001" x="811" y="339"  width="784" height="365" frameX="-27" frameY="-62" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0007" x="1597" y="339"  width="805" height="410" frameX="-17" frameY="-14" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0008" x="1" y="691"  width="794" height="416" frameX="-22" frameY="-9" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0006" x="797" y="706"  width="787" height="418" frameX="-26" frameY="-7" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0015" x="1586" y="751"  width="838" height="420" frameX="-0" frameY="-5" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0014" x="1" y="1126"  width="832" height="424" frameX="-3" frameY="-1" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0013" x="835" y="1173"  width="814" height="425" frameX="-12" frameY="-0" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0004" x="769" y="1"  width="732" height="332" frameX="-53" frameY="-90" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0009" x="1" y="691"  width="794" height="416" frameX="-22" frameY="-9" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0010" x="1" y="691"  width="794" height="416" frameX="-22" frameY="-9" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0011" x="1" y="691"  width="794" height="416" frameX="-22" frameY="-9" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0016" x="1586" y="751"  width="838" height="420" frameX="-0" frameY="-5" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0017" x="1586" y="751"  width="838" height="420" frameX="-0" frameY="-5" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0018" x="1586" y="751"  width="838" height="420" frameX="-0" frameY="-5" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0019" x="1586" y="751"  width="838" height="420" frameX="-0" frameY="-5" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0020" x="1586" y="751"  width="838" height="420" frameX="-0" frameY="-5" frameWidth="838" frameHeight="427"/>
+  <SubTexture name="AgentsPickUpShip0021" x="1586" y="751"  width="838" height="420" frameX="-0" frameY="-5" frameWidth="838" frameHeight="427"/>
+</TextureAtlas>

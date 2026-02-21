@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="alien.png" width="4000" height="3969">
+	<SubTexture name="AlienHominidIdle0001" x="2651" y="1907"  width="416" height="459" frameX="-47" frameY="-0" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0002" x="1734" y="1403"  width="459" height="450" frameX="-40" frameY="-9" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0003" x="2195" y="1448"  width="477" height="450" frameX="-23" frameY="-10" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0004" x="1265" y="1402"  width="467" height="445" frameX="-0" frameY="-15" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0005" x="1708" y="1855"  width="450" height="457" frameX="-5" frameY="-3" frameWidth="500" frameHeight="460"/>
+	<SubTexture name="AlienHominidIdle0006" x="797" y="1787"  width="451" height="454" frameX="-5" frameY="-6" frameWidth="500" frameHeight="460"/>
+  
+	<SubTexture name="AlienHominidStare0001" x="2674" y="1455"  width="462" height="450" frameX="-41" frameY="-28" frameWidth="503" frameHeight="479"/>
+	<SubTexture name="AlienHominidStare0002" x="2160" y="1900"  width="489" height="456" frameX="-6" frameY="-23" frameWidth="503" frameHeight="479"/>
+	<SubTexture name="AlienHominidStare0003" x="915" y="2776"  width="460" height="478" frameX="-0" frameY="-0" frameWidth="503" frameHeight="479"/>
+	<SubTexture name="AlienHominidStare0004" x="3138" y="1457"  width="456" height="450" frameX="-6" frameY="-29" frameWidth="503" frameHeight="479"/>
+	<SubTexture name="AlienHominidStare0005" x="1250" y="1849"  width="456" height="455" frameX="-2" frameY="-23" frameWidth="503" frameHeight="479"/>
+	<SubTexture name="AlienHominidStare0006" x="1" y="1668"  width="456" height="453" frameX="-2" frameY="-25" frameWidth="503" frameHeight="479"/>
+	
+	<SubTexture name="AlienDash0001" x="2952" y="290"  width="348" height="365" frameX="-137" frameY="-40" frameWidth="607" frameHeight="405"/>
+	<SubTexture name="AlienDash0002" x="1" y="134"  width="396" height="318" frameX="-112" frameY="-86" frameWidth="607" frameHeight="405"/>
+	<SubTexture name="AlienDash0003" x="399" y="148"  width="454" height="324" frameX="-0" frameY="-33" frameWidth="607" frameHeight="405"/>
+	<SubTexture name="AlienDash0004" x="855" y="149"  width="380" height="324" frameX="-106" frameY="-0" frameWidth="607" frameHeight="405"/>
+	<SubTexture name="AlienDash0005" x="3302" y="306"  width="552" height="350" frameX="-55" frameY="-33" frameWidth="607" frameHeight="405"/>
+	<SubTexture name="AlienDash0006" x="1887" y="1"  width="479" height="266" frameX="-49" frameY="-135" frameWidth="607" frameHeight="405"/>
+	<SubTexture name="AlienDash0007" x="1324" y="1"  width="282" height="217" frameX="-186" frameY="-178" frameWidth="607" frameHeight="405"/>
+	<SubTexture name="AlienDash0008" x="3097" y="1"  width="310" height="287" frameX="-155" frameY="-109" frameWidth="607" frameHeight="405"/>
+	<SubTexture name="AlienDash0009" x="2368" y="1"  width="363" height="268" frameX="-131" frameY="-134" frameWidth="607" frameHeight="405"/>
+	<SubTexture name="AlienDash0010" x="3409" y="1"  width="386" height="303" frameX="-125" frameY="-89" frameWidth="607" frameHeight="405"/>
+	
+	<SubTexture name="alienwalkcycle0001" x="1" y="2123"  width="330" height="461" frameX="-16" frameY="-3" frameWidth="346" frameHeight="472"/>
+	<SubTexture name="alienwalkcycle0002" x="968" y="2306"  width="292" height="466" frameX="-27" frameY="-5" frameWidth="346" frameHeight="472"/>
+	<SubTexture name="alienwalkcycle0003" x="683" y="2243"  width="283" height="465" frameX="-23" frameY="-6" frameWidth="346" frameHeight="472"/>
+	<SubTexture name="alienwalkcycle0004" x="1706" y="2314"  width="305" height="469" frameX="-16" frameY="-3" frameWidth="346" frameHeight="472"/>
+	<SubTexture name="alienwalkcycle0005" x="472" y="1241"  width="339" height="431" frameX="-0" frameY="-0" frameWidth="346" frameHeight="472"/>
+	
+	<SubTexture name="alienwalkcycleLEFT0001" x="333" y="2131"  width="348" height="462" frameX="-6" frameY="-7" frameWidth="354" frameHeight="477"/>
+	<SubTexture name="alienwalkcycleLEFT0002" x="3375" y="2376"  width="342" height="474" frameX="-3" frameY="-2" frameWidth="354" frameHeight="477"/>
+	<SubTexture name="alienwalkcycleLEFT0003" x="1" y="2586"  width="310" height="474" frameX="-0" frameY="-3" frameWidth="354" frameHeight="477"/>
+	<SubTexture name="alienwalkcycleLEFT0004" x="313" y="2595"  width="307" height="476" frameX="-2" frameY="-1" frameWidth="354" frameHeight="477"/>
+	<SubTexture name="alienwalkcycleLEFT0005" x="2559" y="609"  width="324" height="428" frameX="-5" frameY="-0" frameWidth="354" frameHeight="477"/>
+	
+	<SubTexture name="alienwalkcycleDOWN0001" x="2356" y="1039"  width="474" height="407" frameX="-5" frameY="-12" frameWidth="482" frameHeight="425"/>
+	<SubTexture name="alienwalkcycleDOWN0002" x="2832" y="1045"  width="456" height="408" frameX="-22" frameY="-16" frameWidth="482" frameHeight="425"/>
+	<SubTexture name="alienwalkcycleDOWN0003" x="466" y="842"  width="421" height="397" frameX="-61" frameY="-28" frameWidth="482" frameHeight="425"/>
+	<SubTexture name="alienwalkcycleDOWN0004" x="889" y="944"  width="459" height="403" frameX="-18" frameY="-22" frameWidth="482" frameHeight="425"/>
+	<SubTexture name="alienwalkcycleDOWN0005" x="1065" y="555"  width="468" height="387" frameX="-0" frameY="-0" frameWidth="482" frameHeight="425"/>
+	
+	<SubTexture name="alienwalkcycleUP0001" x="2847" y="2846"  width="301" height="503" frameX="-26" frameY="-5" frameWidth="327" frameHeight="517"/>
+	<SubTexture name="alienwalkcycleUP0002" x="3438" y="2852"  width="295" height="507" frameX="-29" frameY="-9" frameWidth="327" frameHeight="517"/>
+	<SubTexture name="alienwalkcycleUP0003" x="622" y="2710"  width="291" height="499" frameX="-33" frameY="-17" frameWidth="327" frameHeight="517"/>
+	<SubTexture name="alienwalkcycleUP0004" x="3150" y="2852"  width="286" height="503" frameX="-36" frameY="-14" frameWidth="327" frameHeight="517"/>
+	<SubTexture name="alienwalkcycleUP0005" x="3069" y="1909"  width="323" height="460" frameX="-0" frameY="-0" frameWidth="327" frameHeight="517"/>
+	
+	<SubTexture name="alienwalkcycleRIGHT0001" x="1262" y="2306"  width="442" height="468" frameX="-7" frameY="-10" frameWidth="461" frameHeight="486"/>
+	<SubTexture name="alienwalkcycleRIGHT0002" x="2922" y="2371"  width="451" height="473" frameX="-2" frameY="-12" frameWidth="461" frameHeight="486"/>
+	<SubTexture name="alienwalkcycleRIGHT0003" x="2013" y="2358"  width="459" height="469" frameX="-0" frameY="-16" frameWidth="461" frameHeight="486"/>
+	<SubTexture name="alienwalkcycleRIGHT0004" x="1377" y="2785"  width="448" height="479" frameX="-3" frameY="-7" frameWidth="461" frameHeight="486"/>
+	<SubTexture name="alienwalkcycleRIGHT0005" x="813" y="1349"  width="450" height="436" frameX="-11" frameY="-0" frameWidth="461" frameHeight="486"/>
+	
+	<SubTexture name="alienlegsshoot0001" x="1009" y="1"  width="313" height="146" frameX="-5" frameY="-41" frameWidth="318" frameHeight="195"/>
+	<SubTexture name="alienlegsshoot0002" x="422" y="1"  width="272" height="137" frameX="-19" frameY="-57" frameWidth="318" frameHeight="195"/>
+	<SubTexture name="alienlegsshoot0003" x="1" y="1"  width="166" height="122" frameX="-72" frameY="-72" frameWidth="318" frameHeight="195"/>
+	<SubTexture name="alienlegsshoot0004" x="169" y="1"  width="251" height="131" frameX="-15" frameY="-64" frameWidth="318" frameHeight="195"/>
+	<SubTexture name="alienlegsshoot0005" x="696" y="1"  width="311" height="145" frameX="-0" frameY="-0" frameWidth="318" frameHeight="195"/>
+	
+	<SubTexture name="AlienHominidJump0001" x="3394" y="1913"  width="305" height="461" frameX="-38" frameY="-15" frameWidth="362" frameHeight="557"/>
+	<SubTexture name="AlienHominidJump0002" x="1237" y="220"  width="303" height="333" frameX="-33" frameY="-72" frameWidth="362" frameHeight="557"/>
+	<SubTexture name="AlienHominidJump0003" x="1608" y="1"  width="277" height="219" frameX="-21" frameY="-128" frameWidth="362" frameHeight="557"/>
+	<SubTexture name="AlienHominidJump0004" x="3097" y="1"  width="310" height="287" frameX="-18" frameY="-71" frameWidth="362" frameHeight="557"/>
+	<SubTexture name="AlienHominidJump0005" x="2733" y="1"  width="362" height="269" frameX="-0" frameY="-96" frameWidth="362" frameHeight="557"/>
+	
+	<SubTexture name="AlienHominidFall" x="536" y="3211"  width="323" height="557" frameX="-9" frameY="-0" frameWidth="362" frameHeight="557"/>
+  
+	<SubTexture name="AlienHominidJumpShoot0001" x="3701" y="1913"  width="298" height="461" frameX="-32" frameY="-15" frameWidth="362" frameHeight="557"/>
+	<SubTexture name="AlienHominidJumpShoot0002" x="3394" y="1913"  width="305" height="461" frameX="-38" frameY="-15" frameWidth="362" frameHeight="557"/>
+  
+	<SubTexture name="AlienHominidKnifeSwing0001" x="1542" y="222"  width="312" height="361" frameX="-88" frameY="-311" frameWidth="609" frameHeight="672"/>
+	<SubTexture name="AlienHominidKnifeSwing0002" x="3524" y="3361"  width="432" height="607" frameX="-177" frameY="-0" frameWidth="609" frameHeight="672"/>
+	<SubTexture name="AlienHominidKnifeSwing0003" x="2437" y="3351"  width="532" height="525" frameX="-0" frameY="-26" frameWidth="609" frameHeight="672"/>
+	<SubTexture name="AlienHominidKnifeSwing0004" x="1827" y="2829"  width="533" height="485" frameX="-3" frameY="-75" frameWidth="609" frameHeight="672"/>
+	<SubTexture name="AlienHominidKnifeSwing0005" x="1827" y="2829"  width="533" height="485" frameX="-3" frameY="-75" frameWidth="609" frameHeight="672"/>
+	
+	<SubTexture name="AlienHominidShoots0001" x="2362" y="2841"  width="483" height="495" frameX="-202" frameY="-0" frameWidth="690" frameHeight="495"/>
+	<SubTexture name="AlienHominidShoots0002" x="459" y="1674"  width="336" height="455" frameX="-200" frameY="-38" frameWidth="690" frameHeight="495"/>
+	<SubTexture name="AlienHominidShoots0003" x="1" y="1241"  width="469" height="425" frameX="-40" frameY="-70" frameWidth="690" frameHeight="495"/>
+	<SubTexture name="AlienHominidShoots0004" x="3290" y="1045"  width="506" height="410" frameX="-0" frameY="-85" frameWidth="690" frameHeight="495"/>
+	<SubTexture name="AlienHominidShoots0005" x="1" y="841"  width="463" height="396" frameX="-46" frameY="-98" frameWidth="690" frameHeight="495"/>
+	<SubTexture name="AlienHominidShoots0006" x="3596" y="1457"  width="331" height="454" frameX="-172" frameY="-41" frameWidth="690" frameHeight="495"/>
+	
+	<SubTexture name="hominidtransition" x="2474" y="2368"  width="446" height="471" frameX="-0" frameY="-0" frameWidth="446" frameHeight="471"/>
+	
+	<SubTexture name="AlienHominidCrouchIdleLeft0001" x="1350" y="993"  width="501" height="407" frameX="-10" frameY="-0" frameWidth="546" frameHeight="407"/>
+	<SubTexture name="AlienHominidCrouchIdleLeft0002" x="1856" y="271"  width="546" height="335" frameX="-0" frameY="-72" frameWidth="546" frameHeight="407"/>
+	<SubTexture name="AlienHominidCrouchIdleLeft0003" x="1" y="474"  width="539" height="365" frameX="-1" frameY="-42" frameWidth="546" frameHeight="407"/>
+	<SubTexture name="AlienHominidCrouchIdleLeft0004" x="2885" y="658"  width="522" height="385" frameX="-7" frameY="-22" frameWidth="546" frameHeight="407"/>
+	<SubTexture name="AlienHominidCrouchIdleLeft0005" x="1535" y="608"  width="515" height="383" frameX="-12" frameY="-24" frameWidth="546" frameHeight="407"/>
+	
+	<SubTexture name="AlienHominidCrouchIdleRight0001" x="1853" y="994"  width="501" height="407" frameX="-10" frameY="-0" frameWidth="546" frameHeight="407"/>
+	<SubTexture name="AlienHominidCrouchIdleRight0002" x="2404" y="272"  width="546" height="335" frameX="-0" frameY="-72" frameWidth="546" frameHeight="407"/>
+	<SubTexture name="AlienHominidCrouchIdleRight0003" x="542" y="475"  width="521" height="365" frameX="-1" frameY="-42" frameWidth="546" frameHeight="407"/>
+	<SubTexture name="AlienHominidCrouchIdleRight0004" x="3409" y="658"  width="511" height="385" frameX="-7" frameY="-22" frameWidth="546" frameHeight="407"/>
+	<SubTexture name="AlienHominidCrouchIdleRight0005" x="2052" y="609"  width="505" height="383" frameX="-12" frameY="-24" frameWidth="546" frameHeight="407"/>
+  
+	<SubTexture name="AlienHominidVICTORY!!!!0001" x="2971" y="3361"  width="551" height="561" frameX="-0" frameY="-0" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0002" x="2971" y="3361"  width="551" height="561" frameX="-0" frameY="-0" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0003" x="1" y="3073"  width="533" height="516" frameX="-17" frameY="-44" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0004" x="1" y="3073"  width="533" height="516" frameX="-17" frameY="-44" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0005" x="1389" y="3316"  width="524" height="523" frameX="-21" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0006" x="1389" y="3316"  width="524" height="523" frameX="-21" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0007" x="1389" y="3316"  width="524" height="523" frameX="-21" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0008" x="861" y="3266"  width="526" height="521" frameX="-19" frameY="-39" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0009" x="1915" y="3338"  width="520" height="524" frameX="-22" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0010" x="1915" y="3338"  width="520" height="524" frameX="-22" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0011" x="1915" y="3338"  width="520" height="524" frameX="-22" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0012" x="1389" y="3316"  width="524" height="523" frameX="-21" frameY="-37" frameWidth="551" frameHeight="561"/>
+	<SubTexture name="AlienHominidVICTORY!!!!0013" x="861" y="3266"  width="526" height="521" frameX="-19" frameY="-39" frameWidth="551" frameHeight="561"/>
+</TextureAtlas>

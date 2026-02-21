@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="FBITRUCK.png" width="5407" height="3843">
+  <SubTexture name="ShipFallsonTruck0007" x="1" y="1"  width="1396" height="694" frameX="-151" frameY="-157" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="ShipFallsonTruck0009" x="1399" y="1"  width="1372" height="714" frameX="-185" frameY="-137" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="FBITruckDRIVE0002" x="2773" y="1"  width="1304" height="715" frameX="-50" frameY="-2" frameWidth="1382" frameHeight="719"/>
+  <SubTexture name="FBITruckSHIP0002" x="4079" y="1"  width="1311" height="715" frameX="-43" frameY="-2" frameWidth="1382" frameHeight="719"/>
+  <SubTexture name="FBITruckIDLE0002" x="1" y="697"  width="1306" height="716" frameX="-46" frameY="-2" frameWidth="1382" frameHeight="719"/>
+  <SubTexture name="FBITruckSHIP0004" x="1309" y="717"  width="1311" height="716" frameX="-43" frameY="-2" frameWidth="1382" frameHeight="719"/>
+  <SubTexture name="FBITruckDRIVE0001" x="2622" y="718"  width="1349" height="718" frameX="-5" frameY="-0" frameWidth="1382" frameHeight="719"/>
+  <SubTexture name="FBITruckIDLE0001" x="3973" y="718"  width="1352" height="718" frameX="-0" frameY="-0" frameWidth="1382" frameHeight="719"/>
+  <SubTexture name="FBITruckSHIP0001" x="1" y="1435"  width="1349" height="718" frameX="-5" frameY="-0" frameWidth="1382" frameHeight="719"/>
+  <SubTexture name="ShipFallsonTruck0010" x="1352" y="1438"  width="1352" height="718" frameX="-190" frameY="-133" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="FBITruckDRIVE0003" x="2706" y="1438"  width="1349" height="719" frameX="-5" frameY="-0" frameWidth="1382" frameHeight="719"/>
+  <SubTexture name="FBITruckSHIP0003" x="4057" y="1438"  width="1349" height="719" frameX="-5" frameY="-0" frameWidth="1382" frameHeight="719"/>
+  <SubTexture name="ShipFallsonTruck0008" x="1" y="2155"  width="1340" height="731" frameX="-213" frameY="-120" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="ShipFallsonTruck0006" x="1343" y="2159"  width="1450" height="781" frameX="-92" frameY="-70" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="ShipFallsonTruck0001" x="2795" y="2159"  width="1542" height="830" frameX="-0" frameY="-21" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="ShipFallsonTruck0005" x="1" y="2942"  width="1472" height="835" frameX="-70" frameY="-16" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="ShipFallsonTruck0004" x="1475" y="2991"  width="1515" height="842" frameX="-27" frameY="-9" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="ShipFallsonTruck0002" x="2992" y="2991"  width="1522" height="851" frameX="-20" frameY="-0" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="ShipFallsonTruck0003" x="2992" y="2991"  width="1522" height="851" frameX="-20" frameY="-0" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="ShipFallsonTruck0011" x="1352" y="1438"  width="1352" height="718" frameX="-190" frameY="-133" frameWidth="1576" frameHeight="851"/>
+  <SubTexture name="ShipFallsonTruck0012" x="1352" y="1438"  width="1352" height="718" frameX="-190" frameY="-133" frameWidth="1576" frameHeight="851"/>
+</TextureAtlas>

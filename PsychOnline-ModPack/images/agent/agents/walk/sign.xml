@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="walk-NOTHINGTOSEE.png" width="824" height="744">
+	<SubTexture name="AgentNOTHINTOSEE0001" x="473" y="1"  width="350" height="363" frameX="-53" frameY="-20" frameWidth="470" frameHeight="383"/>
+	<SubTexture name="AgentNOTHINTOSEE0002" x="1" y="331"  width="390" height="368" frameX="-37" frameY="-13" frameWidth="470" frameHeight="383"/>
+	<SubTexture name="AgentNOTHINTOSEE0003" x="1" y="1"  width="470" height="328" frameX="-0" frameY="-0" frameWidth="470" frameHeight="383"/>
+	<SubTexture name="AgentNOTHINTOSEE0004" x="393" y="366"  width="380" height="377" frameX="-34" frameY="-5" frameWidth="470" frameHeight="383"/>
+</TextureAtlas>

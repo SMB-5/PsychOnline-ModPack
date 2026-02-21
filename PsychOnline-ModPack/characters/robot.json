@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				48,
+				-8
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ROBOTLEFTPOSE"
+		},
+		{
+			"offsets": [
+				-6,
+				-16
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ROBOTDOWN"
+		},
+		{
+			"offsets": [
+				4,
+				20
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ROBOTUP"
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ROBOTRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "BossIdleLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "BossIdleRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				587
+			],
+			"anim": "enter",
+			"fps": 14,
+			"name": "fuckedfinalbossENTER!",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robot/robot",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "boss",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		212,
+		212
+	],
+	"camera_position": [
+		-410,
+		-12
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

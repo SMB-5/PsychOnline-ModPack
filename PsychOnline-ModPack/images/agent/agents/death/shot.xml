@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="death-shot.png" width="1049" height="1028">
+	<SubTexture name="AgentGettingShotAt0001" x="1" y="637"  width="440" height="390" frameX="-0" frameY="-0" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0002" x="483" y="309"  width="484" height="381" frameX="-11" frameY="-9" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0003" x="1" y="299"  width="480" height="336" frameX="-25" frameY="-56" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0004" x="4" y="1"  width="452" height="281" frameX="-23" frameY="-119" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0005" x="458" y="1"  width="293" height="296" frameX="-50" frameY="-104" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0006" x="753" y="1"  width="295" height="306" frameX="-49" frameY="-94" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0007" x="753" y="1"  width="295" height="306" frameX="-49" frameY="-94" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0008" x="753" y="1"  width="295" height="306" frameX="-49" frameY="-94" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0009" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="AgentGettingShotAt0010" x="753" y="1"  width="295" height="306" frameX="-49" frameY="-94" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0011" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="AgentGettingShotAt0012" x="753" y="1"  width="295" height="306" frameX="-49" frameY="-94" frameWidth="505" frameHeight="400"/>
+	<SubTexture name="AgentGettingShotAt0013" x="1" y="1"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+</TextureAtlas>
